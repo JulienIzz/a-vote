@@ -1,0 +1,68 @@
+[
+  {
+    "id": "lfi",
+    "label": "La France insoumise",
+    "shortLabel": "LFI",
+    "color": "#C00D0D"
+  },
+  {
+    "id": "gdr",
+    "label": "Gauche démocrate et républicaine",
+    "shortLabel": "GDR",
+    "color": "#991414"
+  },
+  {
+    "id": "eco",
+    "label": "Écologistes",
+    "shortLabel": "ÉCO",
+    "color": "#77AA79"
+  },
+  {
+    "id": "soc",
+    "label": "Socialistes et apparentés",
+    "shortLabel": "SOC",
+    "color": "#DF84B5"
+  },
+  {
+    "id": "liot",
+    "label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "shortLabel": "LIOT",
+    "color": "#F8D434"
+  },
+  {
+    "id": "dem",
+    "label": "Les Démocrates (MoDem)",
+    "shortLabel": "DEM",
+    "color": "#F07E26"
+  },
+  {
+    "id": "epr",
+    "label": "Renaissance / Ensemble pour la République",
+    "shortLabel": "EPR",
+    "color": "#7B4591"
+  },
+  {
+    "id": "hor",
+    "label": "Horizons",
+    "shortLabel": "HOR",
+    "color": "#32B3CA"
+  },
+  {
+    "id": "lr",
+    "label": "Les Républicains / Droite républicaine",
+    "shortLabel": "LR",
+    "color": "#4565AD"
+  },
+  {
+    "id": "udr",
+    "label": "Union des droites pour la République",
+    "shortLabel": "UDR",
+    "color": "#3367A7"
+  },
+  {
+    "id": "rn",
+    "label": "Rassemblement national",
+    "shortLabel": "RN",
+    "color": "#313567"
+  }
+]

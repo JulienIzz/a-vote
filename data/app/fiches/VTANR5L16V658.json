@@ -1,0 +1,62 @@
+{
+  "uid": "VTANR5L16V658",
+  "measures": [
+    "Un tribunal des violences intrafamiliales est créé, avec des magistrats et des greffiers spécialement formés. Il juge les délits d'atteinte à l'intégrité de la personne commis par un conjoint, concubin ou partenaire de PACS (même sans vie commune), sur un parent ou sur un enfant, y compris l'enfant du conjoint (article 1er).",
+    "Il y a au moins un tribunal de ce type dans le ressort de chaque cour d'appel. Il est composé d'un juge aux violences intrafamiliales, qui le préside, et de deux assesseurs désignés par le président du tribunal judiciaire (article 1er).",
+    "Un juge aux violences intrafamiliales est installé au siège de chaque tribunal. Il traite les demandes d'ordonnance de protection, c'est-à-dire la décision d'un juge qui protège une victime avant tout jugement. Le juge qui a instruit l'affaire ou accordé l'ordonnance de protection ne peut pas présider le tribunal qui juge ensuite (article 1er).",
+    "Le ministère public (le parquet) est représenté auprès de ces juridictions (article 1er). La charge pour l'État est compensée par une taxe additionnelle sur les tabacs (article 2)."
+  ],
+  "pour": [
+    "Selon l'auteur du texte, le député Aurélien Pradié (Les Républicains), un juge civil ne peut pas imposer un bracelet antirapprochement à l'auteur des faits dans une ordonnance de protection sans son accord : treize bracelets seulement auraient ainsi été délivrés, d'après un chiffre du ministère de la Justice qu'il cite. Une juridiction qui juge à la fois au civil et au pénal, comme le juge des enfants, corrigerait ce défaut ; il cite aussi l'Espagne, qui expérimente des juridictions spécialisées depuis dix-huit ans.",
+    "Pour Aurélien Pradié, le nombre de femmes tuées par leur conjoint augmente (102 depuis le début de l'année 2022, et une hausse de 14 % entre 2021 et 2022), ce qui justifie d'agir sans attendre ; il propose de voter le texte en première lecture et de l'améliorer ensuite par la navette avec le Sénat.",
+    "Les députés du Rassemblement national (Edwige Diaz) estiment que les amendements du rapporteur, largement inspirés de leurs propositions, vont dans leur sens, et défendent des juges spécialisés dans chaque tribunal judiciaire, au plus près des habitants. Pour La France insoumise (Ugo Bernalicis), le groupe n'est pas favorable aux juridictions d'exception mais préfère un pôle de magistrats spécialisés ; il invite à voter les amendements puis le texte."
+  ],
+  "contre": [
+    "Pour le garde des Sceaux Éric Dupond-Moretti, le texte est inconstitutionnel, car un juge civil prendrait une mesure de contrainte sans débat contradictoire. Il estime que la spécialisation existe déjà dans les tribunaux (filières dédiées, formation continue des magistrats), que le modèle espagnol ne se transpose pas rapidement et que le texte est mal préparé.",
+    "La ministre déléguée Isabelle Rome estime que l'auteur n'a pas assez entendu les victimes ni visité de juridiction. La députée Émilie Chandler (Renaissance), chargée avec la sénatrice Dominique Vérien d'une mission sur le sujet, juge le texte écrit trop vite, avec des cas non traités (par exemple un auteur mineur lors d'un premier fait, majeur lors d'un second), et préfère attendre les conclusions de cette mission.",
+    "Pour le député Jean-Paul Mattei (Les Démocrates), qui partage l'objectif, la nécessité d'une juridiction spécialisée n'est pas démontrée et il vaudrait mieux attendre le rapport de la mission, prévu en mars 2023, plutôt que de voter un texte à refaire. Aucune explication de vote n'a été demandée en séance ; le groupe Horizons n'apparaît pas dans les débats lus."
+  ],
+  "context": "La proposition de loi a été déposée le 18 octobre 2022 par Aurélien Pradié et plusieurs députés, et examinée lors d'une journée réservée à un groupe d'opposition (« niche parlementaire »), vraisemblablement celle des Républicains. La commission des lois avait rejeté le texte ; l'Assemblée l'a examiné dans sa version d'origine et l'a adopté en première lecture à une voix près (41 pour, 40 contre), lors d'une séance de nuit où 82 députés seulement ont voté. Transmis au Sénat le 2 décembre 2022, le texte n'y a connu aucune suite d'après le dossier du Sénat consulté, et aucune loi n'en est issue à notre connaissance. Le gouvernement a retenu une autre voie : le décret n° 2023-1077 du 23 novembre 2023 a créé, à compter du 1er janvier 2024, des pôles spécialisés dans les violences intrafamiliales dans chaque tribunal judiciaire et chaque cour d'appel, sans nouvelle juridiction.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/16/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/jur_spe_violences_intrafamil"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0346_proposition-loi"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N079"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L16B0346.raw"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/textes/l16t0044_texte-adopte-seance"
+    },
+    {
+      "label": "Sur le site du Sénat",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl22-173.html"
+    },
+    {
+      "label": "Source",
+      "url": "https://www.leclubdesjuristes.com/justice/des-poles-specialises-dans-les-violences-intrafamiliales-une-bonne-idee-si-les-moyens-suivent-4661/"
+    },
+    {
+      "label": "Sur le site du Sénat",
+      "url": "https://www.publicsenat.fr/actualites/societe/violences-intrafamiliales-eric-dupond-moretti-confirme-la-creation-de-poles-specialises-dans-toutes-les-juridictions-de-france"
+    }
+  ]
+}

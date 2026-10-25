@@ -1,0 +1,57 @@
+{
+  "uid": "VTANR5L17V4723",
+  "measures": [
+    "Lorsqu'une personne que le département n'a pas reconnue comme mineure ou en situation d'isolement saisit le juge des enfants, les effets de la décision de refus sont suspendus jusqu'à la décision définitive de la justice ; pendant ce temps, l'« accueil provisoire d'urgence », la mise à l'abri organisée par le département, est maintenu (article 1er).",
+    "Le département qui accueille provisoirement la personne doit aussi organiser sa scolarisation (article 1er bis, ajouté par amendement).",
+    "En cas de doute sur la minorité, l'âge ne peut plus être évalué à partir d'un examen radiologique des os, d'un examen dentaire ou d'un examen du développement de la puberté (article 1er ter, ajouté par amendement).",
+    "L'article 2 du texte déposé, qui créait un Observatoire national du sans-abrisme chargé de rassembler les données sur les personnes sans domicile, a été supprimé en séance sur proposition du rapporteur ; l'article 3 compense les charges pour l'État et les départements par une taxe sur le tabac et une hausse de la dotation globale de fonctionnement."
+  ],
+  "pour": [
+    "Selon les auteurs du texte (Emmanuel Grégoire et Isabelle Santiago, du groupe Socialistes et apparentés), la France laisse à la rue des jeunes dont la minorité est ensuite reconnue par un juge dans 50 à 80 % des cas ; le texte ne crée pas un privilège mais rétablit un droit : être protégé tant que le doute demeure, conformément à la Convention internationale des droits de l'enfant. Ils citent le Comité des droits de l'enfant de l'ONU, qui a critiqué en octobre 2025 les évaluations rapides et l'usage des tests osseux.",
+    "Les députés La France insoumise (Marie Mesmeur, Louis Boyard) soutiennent le texte, qu'ils jugent minimal : plus de 3 200 jeunes contestent chaque année un refus de minorité, plus de 1 000 dormiraient dehors et environ 60 % des recours aboutiraient à la reconnaissance de la minorité ; pour eux, tant qu'un juge n'a pas statué, le jeune doit être présumé mineur. Ils ont aussi soutenu l'interdiction des examens osseux, dentaires et pubertaires."
+  ],
+  "contre": [
+    "Pour le gouvernement (Charlotte Parmentier-Lecocq, ministre déléguée chargée de l'autonomie et des personnes handicapées), opposé au texte et surtout à son article 1er, la mesure ne règle pas le problème : elle permettrait à des personnes évaluées comme majeures d'être accueillies par la protection de l'enfance « au milieu, voire à la place, de vrais mineurs » et risque de provoquer un afflux de recours.",
+    "Pour le groupe Ensemble pour la République (Christophe Mongardien), qui a voté contre, la mesure dégraderait un service d'aide sociale à l'enfance déjà saturé, en faisant peser une charge trop lourde sur des départements en difficulté financière, et créerait un « appel d'air » ; il demande plutôt de réduire les délais de traitement des recours et de donner aux départements les moyens de financement nécessaires. Pour le groupe Les Démocrates (Perrine Goulet), dont les députés ont voté selon leur conscience, la mesure maintiendrait un an dans un centre d'hébergement d'urgence un jeune réellement mineur et pourrait inciter à se déclarer mineur ; elle propose de réduire les délais de jugement des recours.",
+    "Pour le Rassemblement national (Marine Hamelet) et l'Union des droites pour la République (Hanane Mansouri), qui ont voté contre, le texte ferait financer par le contribuable l'hébergement de personnes déboutées de leur demande de minorité et encouragerait les fraudes sur l'âge ; le groupe UDR ajoute que l'interdiction des examens osseux, dentaires et pubertaires prive les autorités de moyens de vérifier l'âge."
+  ],
+  "context": "Cette proposition de loi, déposée le 28 octobre 2025 par Emmanuel Grégoire et Isabelle Santiago (Socialistes et apparentés), a été inscrite à l'ordre du jour réservé du groupe socialiste (sa « niche parlementaire »), d'après les orateurs du compte rendu. La commission des affaires sociales a rejeté le texte le 3 décembre 2025 : la séance a donc porté sur le texte déposé, modifié par amendements, et le vote du 11 décembre 2025 est le vote sur l'ensemble en première lecture, avec une participation faible (246 votants). Le texte a été transmis au Sénat le 11 décembre 2025, dont le dossier législatif, consulté le 27 octobre 2026, ne mentionne aucun examen en commission ou en séance à cette date ; il n'est donc pas devenu loi.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_isoles_lutter_sans_abrisme_17e"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2021_proposition-loi"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L17B2021.raw"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0195_texte-adopte-seance"
+    },
+    {
+      "label": "Source",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0195.html"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091"
+    },
+    {
+      "label": "Sur le site du Sénat",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-216.html"
+    }
+  ]
+}

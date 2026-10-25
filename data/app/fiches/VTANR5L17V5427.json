@@ -1,0 +1,60 @@
+{
+  "uid": "VTANR5L17V5427",
+  "measures": [
+    "Pendant la durée de l'expérimentation (jusqu'au 31 décembre 2027) et à la seule fin de prévenir le vol, les images des systèmes de vidéoprotection autorisés dans les commerces de détail, grandes surfaces et centres commerciaux particulièrement exposés à des risques de vol peuvent faire l'objet de traitements algorithmiques, qui détectent en temps réel des événements prédéterminés susceptibles de révéler un vol et le signalent (article unique, II).",
+    "Le texte exclut tout système d'identification biométrique et toute reconnaissance faciale, ainsi que tout rapprochement avec d'autres fichiers ; le traitement se limite à un signalement d'attention, qui ne peut fonder à lui seul ni une décision individuelle ni des poursuites, et reste en permanence sous le contrôle de personnes (V). Le public doit être informé de l'usage de ces traitements (IV).",
+    "Un décret pris après avis de la Commission nationale de l'informatique et des libertés (Cnil) fixe les événements détectables, les lieux concernés et la formation des agents ; chaque logiciel doit faire l'objet d'une attestation de conformité et de tests, et chaque emploi est autorisé par le préfet, par une décision motivée et publiée, après une analyse d'impact transmise à la Cnil (VI à VIII).",
+    "Les images collectées ne peuvent pas servir à entraîner les logiciels ; la Cnil contrôle l'application du dispositif et est informée chaque année ; le gouvernement remet au Parlement, avant le 30 septembre 2027, un rapport d'évaluation (X à XII)."
+  ],
+  "pour": [
+    "Selon le rapporteur Paul Midy, plus de 80 % des commerçants ont déjà installé des caméras, mais un épicier ou un pharmacien ne peut pas regarder son écran toute la journée : un logiciel peut le faire à sa place et émettre une alerte, puis le commerçant vérifie lui-même les images. Pour lui, « ce n'est pas Big Brother » : le texte limite le dispositif à un seul objectif (le vol en magasin), sans conservation d'images ni reconnaissance faciale, avec décision humaine, et légalise une pratique que 2 000 à 3 000 commerces utiliseraient déjà, selon des propos du rapporteur cités par la Gauche démocrate et républicaine.",
+    "Pour le gouvernement, représenté par la ministre déléguée auprès du ministre de l'intérieur Marie-Pierre Vedrenne, 82 % des commerçants ont déclaré avoir été victimes de vol en 2024 (une hausse de 15 % en un an, plus de 42 000 faits recensés) ; le gouvernement salue l'initiative tout en appelant à légiférer « avec la main tremblante », en raison des garanties nécessaires pour les libertés et les données.",
+    "Pour la Droite républicaine (Élisabeth de Maistre), les pertes liées aux vols représentent 7,3 milliards d'euros par an : pour des commerces dont la marge nette moyenne est d'environ 2 %, une perte de 4 % du chiffre d'affaires équivaut au double de leur marge. Pour le Rassemblement national (Katiana Levavasseur, Julien Rancoule), qui a voté pour, le dispositif est clair et encadré, loin des « fantasmes de surveillance généralisée », même s'il regrette qu'il soit limité au vol et ne couvre pas la sécurité des personnes.",
+    "Horizons (Agnès Firmin Le Bodo) et l'Union des droites pour la République (Olivier Fayssat) ont voté pour et ont défendu le débat contre la motion de rejet, en insistant sur la hausse des vols dans les commerces et la fragilité de leurs marges."
+  ],
+  "contre": [
+    "Pour La France insoumise (Élisa Martin, Jean-François Coulomme), qui a déposé une motion de rejet, l'expression « analyse automatique des images » masque ce qu'est la vidéosurveillance algorithmique, dont le vocabulaire changeant vise selon elle à augmenter l'acceptabilité sociale ; Jean-François Coulomme y voit une atteinte à l'anonymat et au droit de ne pas être filmé quand on fait ses courses, et craint un « 1984 ».",
+    "Pour les Écologistes (Cyrielle Chatelain, Sandra Regol), le texte contredit les décisions du Conseil constitutionnel, qui a réservé en mai 2023 cette technologie aux atteintes à l'ordre public et aux risques terroristes ; ils citent l'inefficacité de la vidéosurveillance algorithmique pour les commerces selon la Cnil, jugent le texte inspiré par des sociétés du type de Veesion et estiment qu'il vise à satisfaire la grande distribution plus que les petits commerçants.",
+    "Pour les Socialistes (Hervé Saulignac), qui ont voté contre ou se sont abstenus, le temps manque pour évaluer un sujet aussi grave et le Conseil constitutionnel sera saisi ; pour la Gauche démocrate et républicaine (Julien Brugerolles), le texte revient à légaliser a posteriori une pratique que la Cnil a jugée contraire au règlement européen sur la protection des données dans le cas de Veesion.",
+    "Des groupes qui n'ont pas voté pour partagent une partie de ces réserves : pour Les Démocrates (Éric Martineau), qui se sont abstenus (3 voix), qui reconnaît le besoin des commerçants et n'est pas opposé à la vidéoprotection algorithmique pour de grands événements, le dispositif ne convient pas à une surveillance quotidienne au profit d'intérêts commerciaux, et son coût le réserve de fait aux grandes enseignes ; pour LIOT (Stéphane Lenormand), dont un seul député a voté, pour, le texte est arrivé sans étude d'impact ni avis du Conseil d'État."
+  ],
+  "context": "Ce texte est une proposition de loi déposée à l'Assemblée nationale le 18 mars 2025 par Paul Midy et plusieurs de ses collègues. La commission des lois l'a réécrite le 28 janvier 2026 : l'autorisation générale du texte initial est devenue une expérimentation, limitée à la prévention du vol, avec exclusion de la biométrie et des garanties calquées sur celles de l'expérimentation des Jeux olympiques de 2024 ; son titre est devenu « visant à encadrer l'utilisation par les commerçants d'outils d'analyse vidéo automatique pour lutter contre le vol ». L'Assemblée l'a adopté en première lecture le 16 février 2026 (texte adopté n° 239), avec une participation faible (78 votants). Le texte a ensuite été transmis au Sénat, où, selon le dossier législatif de l'Assemblée, aucune étape n'était indiquée au moment de la rédaction de cette fiche : il n'est donc pas encore loi. Les Socialistes (Hervé Saulignac) ont annoncé que le Conseil constitutionnel serait saisi si le texte était adopté.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5427"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/protection_commercants_outils_numeriques_17e"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1142_proposition-loi"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L17B1142.raw"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0239_texte-adopte-seance"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N135"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N136"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N150"
+    }
+  ]
+}

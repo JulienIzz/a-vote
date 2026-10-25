@@ -1,0 +1,28 @@
+{
+  "importedAt": "2026-10-25T19:15:42.257Z",
+  "datasets": [
+    {
+      "name": "Acteurs, mandats et organes depuis 1997 (groupes politiques)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/tous_acteurs_mandats_organes_xi_legislature/AMO30_tous_acteurs_tous_mandats_tous_organes_historique.json.zip",
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "bytes": 13716205,
+      "modifiedAt": "2026-10-25T13:50:25.576Z"
+    },
+    {
+      "name": "Scrutins de la XVIe législature",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/16/loi/scrutins/Scrutins.json.zip",
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "bytes": 10107912,
+      "modifiedAt": "2026-10-25T13:44:27.886Z"
+    },
+    {
+      "name": "Scrutins de la XVIIe législature",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "bytes": 28199162,
+      "modifiedAt": "2026-10-25T13:44:30.794Z"
+    }
+  ],
+  "website": "https://www.assemblee-nationale.fr",
+  "repository": null
+}

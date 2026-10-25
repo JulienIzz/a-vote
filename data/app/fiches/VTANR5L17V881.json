@@ -1,0 +1,46 @@
+{
+  "uid": "VTANR5L17V881",
+  "measures": [
+    "Un « impôt plancher sur la fortune » s'applique aux personnes dont le patrimoine net dépasse 100 millions d'euros : celles qui ont leur domicile fiscal en France pour l'ensemble de leurs biens, en France comme à l'étranger, et les autres pour leurs seuls biens situés en France. Les couples mariés ou pacsés sont imposés ensemble (article 885 A du code général des impôts, créé par l'article unique).",
+    "L'impôt dû est la différence, si elle est positive, entre 2 % de la valeur nette du patrimoine et la somme des impôts déjà payés dans l'année : impôt sur le revenu, impôt sur la fortune immobilière (IFI), CSG, CRDS et contribution exceptionnelle sur les hauts revenus. Une personne qui paie déjà au moins 2 % de sa fortune n'a rien à verser en plus (article 885 L).",
+    "Le patrimoine est évalué selon les règles des droits de succession, mais sans les exonérations prévues pour les successions ; il inclut notamment les contrats d'assurance-vie, les biens en usufruit et les biens placés en fiducie ou dans un trust. Un abattement de 1 million d'euros est accordé sur la résidence principale (articles 885 B à 885 K).",
+    "Les redevables déclarent leur fortune et paient l'impôt au plus tard le 23 septembre de chaque année ; en cas de difficulté à payer, l'administration peut accepter un paiement échelonné sur cinq ans au maximum. Les non-résidents peuvent être tenus de désigner un représentant fiscal en France (articles 885 M à 885 O et 1723 ter-00 A).",
+    "L'impôt entre en vigueur le 1er janvier 2026 (IV de l'article unique)."
+  ],
+  "pour": [
+    "Selon les auteurs du texte, le système fiscal est aujourd'hui régressif pour les 0,1 % les plus riches : ils paient, en proportion de leurs revenus, moins d'impôts que la moyenne des Français, parce qu'ils organisent leur fortune, notamment dans des sociétés holdings, pour qu'elle produise peu de revenus imposables. Un impôt assis sur le patrimoine, et non sur les revenus, viserait ce que la contribution différentielle sur les hauts revenus proposée par le gouvernement Barnier ne pouvait pas atteindre.",
+    "Les auteurs avancent, en s'appuyant sur l'économiste Gabriel Zucman, un rendement de 15 à 25 milliards d'euros par an, qu'ils destinent aux services publics et à la transition écologique, dans un contexte de déficit public attendu à 6,1 % du PIB en 2024. Ils rappellent que les 500 plus grandes fortunes de France sont passées de 200 à 1 200 milliards d'euros en dix ans.",
+    "Selon eux, seuls quelque 4 000 contribuables, soit 0,01 % du total, seraient concernés, sans double imposition puisque les impôts déjà payés sont déduits ; ils citent France Stratégie, selon qui 0,2 % seulement des contribuables éligibles à l'ISF recouraient à l'exil fiscal en 2017.",
+    "En séance, la rapporteure Eva Sas (Écologiste et social) a fait valoir que les patrimoines concernés rapportent de 7 à 10 % par an, si bien qu'un prélèvement de 2 % n'en prend qu'une partie, et que le texte prévoit des facilités de paiement."
+  ],
+  "contre": [
+    "Pour le groupe Ensemble pour la République (Daniel Labaronne, Charles Sitzenstuhl, Mathieu Lefèvre), qui a voté contre, l'impôt serait « confiscatoire » et « punitif », risquerait d'être censuré par le Conseil constitutionnel, nuirait à l'attractivité du pays et taxerait l'outil de travail des entrepreneurs sur sa valeur en capital plutôt que sur les revenus qu'il dégage.",
+    "La ministre chargée des comptes publics, Amélie de Montchalin, a donné un avis défavorable : selon elle, un taux de 2 % sans plafonnement serait contraire à la jurisprudence du Conseil constitutionnel, reviendrait à prélever environ 41 % des revenus des personnes concernées, et aucun pays n'impose un stock de patrimoine à ce taux. Elle a annoncé une concertation sur un dispositif différent, à un taux n'excédant pas 0,5 % et excluant les biens professionnels.",
+    "Pour les députés Démocrates (Emmanuel Mandon, Jean-Paul Mattei), la fiscalité des très grandes fortunes doit se traiter à l'échelle internationale ; un impôt décidé par la France seule menacerait son attractivité et poserait des difficultés d'évaluation des entreprises et de liquidités au moment des transmissions.",
+    "Pour la Droite républicaine (Philippe Juvin, Fabien Di Filippo), la priorité est la baisse des dépenses publiques ; l'inclusion des biens professionnels menacerait les entreprises familiales, qui pourraient être démembrées ou vendues à des capitaux étrangers.",
+    "Le Rassemblement national s'est abstenu : Jean-Philippe Tanguy a salué « un travail de qualité » mais dénoncé des « choix idéologiques », en particulier l'inclusion des biens professionnels et immobiliers, le groupe préférant un impôt sur la fortune financière à la place de l'IFI."
+  ],
+  "context": "Ce texte est une proposition de loi déposée le 7 janvier 2025 par la députée Eva Sas et des membres du groupe Écologiste et social, examinée le 20 février 2025 lors de la journée réservée à ce groupe. Il a été adopté en première lecture par les groupes de gauche, le Rassemblement national s'abstenant et les groupes soutenant le gouvernement (Ensemble pour la République, Démocrates, Horizons), la Droite républicaine et l'UDR votant contre, lors d'un scrutin de soirée auquel 186 députés sur 577 ont pris part. Le Sénat l'a rejeté le 12 juin 2025 par 188 voix contre 129, et une nouvelle proposition de loi (n° 1579) a été déposée le même jour à l'Assemblée en vue d'une deuxième lecture, sans suite connue dans les sources consultées. Le gouvernement a annoncé en séance travailler à un dispositif différent, à un taux plus faible et hors biens professionnels.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/881"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/impot_plancher_2_pour_cent_patrimoine_ultra_riches"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0768_proposition-loi"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L17B0768.raw"
+    }
+  ]
+}

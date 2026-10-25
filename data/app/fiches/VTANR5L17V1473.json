@@ -1,0 +1,55 @@
+{
+  "uid": "VTANR5L17V1473",
+  "measures": [
+    "Un parquet national anti-criminalité organisée est créé à Paris, avec une compétence concurrente à celle des parquets et juridictions existants pour les affaires très complexes de criminalité organisée. Un service « chef de file » doit aussi coordonner les services de l'État (articles 1er et 3).",
+    "Des « quartiers de lutte contre la criminalité organisée » sont créés dans les prisons : le ministre de la justice peut y affecter, pour un an renouvelable, des détenus liés à la criminalité organisée. Ils y subissent des fouilles intégrales systématiques après certains contacts, et leurs visites se déroulent derrière un dispositif de séparation (article 61).",
+    "Le préfet peut ordonner la fermeture administrative d'un commerce ou d'un lieu ouvert au public pour six mois au plus, afin de prévenir certaines infractions liées au trafic ou au blanchiment. Il peut aussi interdire à une personne qui participe à un trafic de paraître sur un lieu de deal pendant un mois au plus, et demander au bailleur d'engager l'expulsion d'un locataire dont les agissements liés au trafic troublent gravement l'ordre public (articles 4 et 62).",
+    "De nouvelles techniques d'enquête sont autorisées sous le contrôle d'un juge : activation à distance d'un téléphone ou d'un autre appareil pour capter des paroles et des images, et dispositif permettant de ne pas faire apparaître dans le dossier certaines informations sur les techniques utilisées lorsque leur divulgation met des vies en danger (articles 39 et 40).",
+    "Le délit de concours à une organisation criminelle est créé, l'amende pour blanchiment du trafic de stupéfiants peut aller jusqu'à la totalité de la valeur des biens blanchis, et les personnes qui aident la justice à identifier d'autres auteurs voient leur peine réduite (articles 18, 25 et 31)."
+  ],
+  "pour": [
+    "Selon les auteurs du texte, les sénateurs Jérôme Durain (Parti socialiste) et Étienne Blanc (Les Républicains), qui ont conduit une commission d'enquête transpartisane du Sénat, le droit comportait des faiblesses face au narcotrafic. Le rapporteur Vincent Caure (Ensemble pour la République) résume l'objectif : affronter « d'égal à égal » des réseaux criminels dangereux, techniques et déterminés.",
+    "Pour le garde des sceaux Gérald Darmanin, le parquet national spécialisé et le nouveau régime carcéral isolent les détenus les plus dangereux, qui ne pourraient plus gérer leurs activités depuis leur cellule ; pour le ministre de l'intérieur Bruno Retailleau, le texte donne aux services et aux préfets de nouveaux moyens et fait travailler ensemble des services aujourd'hui cloisonnés.",
+    "Pour les députés socialistes (Estelle Mercier), la proposition de loi est d'initiative socialiste et attendue par les maires et les collectivités ; leur groupe l'a approuvée malgré ses réserves. Pour les députés Rassemblement national (Michaël Taverne) et UDR (Sophie Ricourt Vaginay), il fallait agir sans retard : ils ont défendu le droit des habitants à la sécurité et voté pour."
+  ],
+  "contre": [
+    "Pour les députés La France insoumise (Ugo Bernalicis), qui ont voté contre et déposé une motion de rejet, le texte reprend pour l'essentiel des outils qui existent déjà (office central, juridiction nationale, techniques spéciales d'enquête) et ajoute des mesures qui portent atteinte aux libertés, comme l'interdiction de paraître ; ils réclament plus de moyens pour la police judiciaire et plus de prévention.",
+    "Pour les députés Écologistes (Sabrina Sebaihi), qui se sont surtout abstenus, il faut des mesures fortes, mais le texte étend la surveillance et la procédure qui permet de retirer des informations du dossier au détriment des droits individuels ; ils demandent de viser les têtes de réseaux plutôt que les petits dealers.",
+    "Pour les députés de la Gauche démocrate et républicaine (Émeline K/Bidi), partagés dans leur vote, le texte n'apporte ni crédits ni matériel (scanners) à la hauteur et déplace des pouvoirs des juges vers les préfets ; ils craignent la généralisation de procédures d'exception au nom de la lutte contre le narcotrafic. Les députés socialistes, qui ont voté pour, ont eux-mêmes exprimé des doutes sur le régime de détention, les gardes à vue longues, les audiences en visioconférence et l'expulsion de locataires."
+  ],
+  "context": "Ce texte est une proposition de loi déposée au Sénat le 12 juillet 2024 par Jérôme Durain et Étienne Blanc, puis adoptée par le Sénat le 4 février 2025 et par l'Assemblée le 1er avril 2025. Il s'agit ici du texte de compromis issu de la commission mixte paritaire, adopté par le Sénat le 28 avril et par l'Assemblée le 29 avril 2025 ; la procédure accélérée avait été engagée. Une proposition de loi organique distincte, qui fixe le statut du procureur national, a été votée en même temps. Saisi par des députés, le Conseil constitutionnel a rendu le 12 juin 2025 la décision n° 2025-885 DC : il a déclaré contraires à la Constitution notamment l'accès direct des services de renseignement aux fichiers fiscaux (article 5), l'extension du renseignement algorithmique (analyse automatisée des connexions) à la criminalité organisée (article 15), l'aggravation des peines liée au port d'une arme (article 19) et plusieurs dispositions des articles 40, 55 et 56. La loi n° 2025-532 du 13 juin 2025 a été promulguée avec le reste du texte.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1473"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50169"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0907_proposition-loi"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L17B0907.raw"
+    },
+    {
+      "label": "Source",
+      "url": "https://www.assemblee-nationale.fr/17/pdf/ta/ta0102.pdf"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N177"
+    },
+    {
+      "label": "La décision du Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025885DC.htm"
+    }
+  ]
+}

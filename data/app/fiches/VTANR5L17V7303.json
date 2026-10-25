@@ -1,0 +1,65 @@
+{
+  "uid": "VTANR5L17V7303",
+  "measures": [
+    "Les engrais phosphatés minéraux ou « organo-minéraux » (mélanges d'engrais minéraux et de matières organiques) qui contiennent plus de 40 milligrammes de cadmium par kilogramme d'anhydride phosphorique (la forme sous laquelle on mesure le phosphore dans un engrais) ne peuvent plus être importés, détenus en vue de la vente, vendus, donnés ni utilisés à partir du 1er janvier 2027.",
+    "Le plafond passe à 20 milligrammes par kilogramme d'anhydride phosphorique à partir du 1er janvier 2030.",
+    "Les conditions d'application sont fixées par voie réglementaire, c'est-à-dire par décret ou arrêté du gouvernement.",
+    "Pour situer ces chiffres, selon les auteurs du texte, la norme française actuelle (NF U 42-001-1) tolère jusqu'à 90 milligrammes pour les engrais sans marquage CE, le règlement européen de 2019 fixe une limite de 60 milligrammes pour les engrais portant le marquage CE, et l'agence sanitaire Anses recommande environ 20 milligrammes.",
+    "Le texte tient en un seul article. Les seuils et les dates sont ceux du texte déposé : en commission comme en séance, seuls des amendements rédactionnels de la commission ont été adoptés, et les autres amendements (suppression de l'article, report à 2032 ou 2035, clause de sauvegarde) ont été rejetés ou retirés."
+  ],
+  "pour": [
+    "Selon l'auteur du texte, Benoît Biteau (groupe Écologiste et social), et ses cosignataires de plusieurs groupes, le cadmium est classé cancérogène par le Centre international de recherche sur le cancer depuis 1993, l'alimentation en est la principale source d'exposition, et la France est selon eux la population la plus contaminée de l'Union européenne : fixer les seuils dans la loi appliquerait la recommandation de l'Anses, alors que les textes d'application prévus par la loi AGEC de 2020 n'auraient, selon eux, jamais été publiés.",
+    "Pour les députés La France insoumise - Nouveau Front populaire (Anne Stambach-Terrenoir), le gouvernement et ses prédécesseurs auraient eu connaissance du problème sans agir ; ils soutiennent le texte et refusent une trajectoire plus lente, évoquée par le gouvernement (2038) et par le groupe Ensemble pour la République (2035) selon leur intervention.",
+    "Pour le groupe Socialistes et apparentés (Chantal Jourdan) et pour le groupe Écologiste et social (Clémentine Autain), la protection de la santé doit primer dès lors que les preuves scientifiques sont établies ; ils estiment que des méthodes de « décadmiation » (retirer le cadmium des phosphates) existent pour un coût modeste, qu'ils chiffrent à 2 euros par hectare et par an, et que le texte ne vise pas les agriculteurs, qu'il protégerait en préservant la fertilité des sols.",
+    "Le groupe Ensemble pour la République (Marie Lebec) a voté pour en indiquant avoir permis l'inscription du texte à l'ordre du jour transpartisan ; le groupe Les Démocrates (Éric Martineau) a voté pour en estimant que la question des coûts pour les agriculteurs « reste ce soir sans réponse » et que la navette parlementaire doit permettre d'y répondre."
+  ],
+  "contre": [
+    "Pour le Rassemblement national, qui a voté contre (Eddy Casterman), le texte impose une trajectoire « contraignante et étouffante » qui ne tient pas compte de la dépendance de l'agriculture aux importations de phosphates et ajoute des contraintes à des agriculteurs fragilisés. Le groupe se dit favorable à une baisse du cadmium à condition d'un objectif réaliste soutenu par les filières et d'une clause de sauvegarde en cas de crise d'approvisionnement ; ses amendements en ce sens ont été rejetés.",
+    "Pour le groupe Droite républicaine (Josiane Corneloup), qui a annoncé voter contre et défendu la suppression de l'article, un arrêté du gouvernement alors en consultation alignerait dès 2027 la France sur la norme européenne de 60 milligrammes avec une baisse progressive ; la trajectoire du texte serait irréaliste, risquerait de faire dépendre l'agriculture d'importations et de renchérir les coûts des exploitations, et s'apparenterait à une surtransposition (des règles plus strictes que celles de l'Union européenne) qui pénaliserait les agriculteurs français.",
+    "La ministre de l'agriculture, Annie Genevard, a partagé l'objectif de 20 milligrammes mais jugé la « pente raide » : le gouvernement prévoyait 60 milligrammes au 1er janvier 2027 puis 40 milligrammes trois ans plus tard, avec un rapport intermédiaire pour décider d'accélérer ; elle a cité comme alternatives les amendements repoussant l'échéance à 2035 ou 2032, qui n'ont pas été adoptés.",
+    "Le groupe Union des droites pour la République a voté contre (2 voix) ; aucune explication de vote de sa part n'a été trouvée dans le compte rendu."
+  ],
+  "context": "Il s'agit d'une proposition de loi, c'est-à-dire d'un texte d'initiative parlementaire, déposée le 14 avril 2026 par Benoît Biteau et des députés de plusieurs groupes ; la commission des affaires économiques l'a examinée le 27 mai 2026 et l'Assemblée l'a adoptée en première lecture le 3 juin 2026 (texte adopté n° 300), un soir où seuls 170 députés ont voté. Le texte a ensuite été transmis au Sénat : sa commission des affaires économiques (rapporteur Christian Klinger) a adopté le 14 octobre 2026 une version qui repousse les seuils (40 milligrammes à partir du 1er janvier 2029, 20 milligrammes à partir du 1er janvier 2034) et ajoute un rapport au Parlement avant le 1er janvier 2031 ; le dossier du Sénat, mis à jour le 27 octobre 2026, ne mentionne pas de vote en séance. Le texte n'est donc pas devenu une loi, et ses seuils et ses dates peuvent encore changer.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7303"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reduire_risques_sanitaires_lies_aux_contaminations_au_cadmium_dans_alimentation_17e"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2678_proposition-loi"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L17B2678.raw"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N262"
+    },
+    {
+      "label": "Source",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0300.html"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0300_texte-adopte-seance"
+    },
+    {
+      "label": "Sur le site du Sénat",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-704.html"
+    },
+    {
+      "label": "Sur le site du Sénat",
+      "url": "https://www.senat.fr/leg/ppl26-054.html"
+    }
+  ]
+}

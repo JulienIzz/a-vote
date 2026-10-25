@@ -1,0 +1,57 @@
+{
+  "uid": "VTANR5L16V3289",
+  "measures": [
+    "Un alinéa est ajouté à l'article 34 de la Constitution : « La loi détermine les conditions dans lesquelles s'exerce la liberté garantie à la femme d'avoir recours à une interruption volontaire de grossesse » (article unique).",
+    "Le texte ne change aucune règle actuelle de l'IVG, comme les délais ou la clause de conscience des soignants. Il fait de cette liberté une garantie inscrite dans la Constitution : une loi ordinaire ne pourrait plus la supprimer, et le Conseil constitutionnel pourrait contrôler les lois qui la restreignent, soit juste après leur vote, soit plus tard à l'occasion d'un procès (question prioritaire de constitutionnalité).",
+    "La rédaction est un compromis entre la version de l'Assemblée nationale (une loi garantissant l'effectivité de l'IVG et un égal accès) et celle du Sénat (la loi fixe les conditions dans lesquelles s'exerce la « liberté de la femme de mettre fin à sa grossesse »)."
+  ],
+  "pour": [
+    "Selon le gouvernement, auteur du projet de loi, l'IVG n'est aujourd'hui protégée que par la loi ordinaire, qui peut être modifiée par une majorité ; la décision de la Cour suprême des États-Unis de juin 2022, qui a mis fin à l'arrêt Roe v. Wade, montrerait que des droits jugés acquis peuvent être remis en cause. Il y voit l'occasion de faire de la France l'un des premiers pays au monde, et le premier en Europe, à reconnaître cette liberté dans sa Constitution.",
+    "Pour les groupes Renaissance (Sarah Tanzilli), Les Démocrates (Erwan Balanant) et Horizons (Anne-Cécile Violland), le texte laisse au Parlement le soin de fixer les conditions de cette liberté, selon l'avis du Conseil d'État qu'ils citent, et il ne remet en cause ni les délais ni la clause de conscience des médecins.",
+    "Pour les groupes de gauche (Mathilde Panot pour La France insoumise, Marie-Noëlle Battistel pour les Socialistes), il s'agit de protéger l'IVG contre un recul possible, comme en Pologne ou en Hongrie ; les Socialistes auraient préféré inscrire un « droit » plutôt qu'une « liberté », mais ont voté pour par compromis. Le groupe Libertés, Indépendants, Outre-mer et Territoires (Laurent Panifous) met aussi en avant l'égalité d'accès effectif à l'IVG."
+  ],
+  "contre": [
+    "Pour les députés du Rassemblement national (Pascale Bordes), le texte est inutile : la liberté d'avorter est déjà protégée par la loi Veil et le Conseil constitutionnel l'a toujours jugée conforme à la Constitution. Ils y voient une diversion par rapport aux problèmes d'accès réel à l'IVG sur le territoire, et estiment qu'une modification de la Constitution devrait passer par un référendum. Le groupe a laissé la liberté de vote à ses membres.",
+    "Les Républicains (Émilie Bonnivard) ont laissé la liberté de vote. Ils reprochent au gouvernement la fermeture de centres pratiquant l'IVG, demandent que soit respecté l'équilibre de la loi Veil, qui mentionne le « respect de l'être humain dès le commencement de la vie », et redoutent une remise en cause des délais ou de la clause de conscience. Émilie Bonnivard a annoncé voter pour à titre personnel, « avec exigence », en jugeant la version finale du Sénat plus protectrice de cet équilibre.",
+    "Aucun groupe n'a annoncé un vote contre l'ensemble du texte : les 30 votes contre viennent de députés RN (12), LR (15), d'un membre du groupe LIOT et de deux députés non inscrits."
+  ],
+  "context": "Une loi constitutionnelle doit être adoptée dans les mêmes termes par l'Assemblée nationale et le Sénat, puis soit approuvée par référendum, soit par le Parlement réuni en Congrès à la majorité des trois cinquièmes des suffrages exprimés. Le vote du 30 janvier 2024 est celui de la première lecture à l'Assemblée nationale. Le Sénat a adopté le texte dans les mêmes termes le 28 février 2024 ; le Congrès l'a approuvé le 4 mars 2024 par 780 voix pour, 72 contre et 50 abstentions (majorité requise : 512). La loi constitutionnelle n° 2024-200 du 8 mars 2024 a été promulguée et publiée au Journal officiel du 9 mars 2024.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/16/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3289"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/liberte_interruption_grossesse"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b1983_projet-loi"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PRJLANR5L16B1983.raw"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/textes/l16t0233_texte-adopte-seance"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024"
+    },
+    {
+      "label": "Sur le site du Sénat",
+      "url": "https://www.senat.fr/leg/tas23-073.html"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/c1"
+    }
+  ]
+}

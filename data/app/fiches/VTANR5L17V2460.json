@@ -1,0 +1,61 @@
+{
+  "uid": "VTANR5L17V2460",
+  "measures": [
+    "Le texte ne comporte qu'un article, qui autorise la ratification de la résolution LP.3(4), adoptée le 30 octobre 2009 par les États parties au protocole, et dont le texte est annexé à la loi (article unique).",
+    "Le protocole de Londres de 1996 interdit en principe d'immerger des déchets en mer, sauf exceptions limitées, et son article 6 interdit d'exporter des déchets vers un autre pays pour les y immerger. Une première résolution, adoptée en 2006, avait déjà ajouté le CO2 à la liste des matières qu'on peut stocker sous le fond de la mer (rapport de la commission des affaires étrangères de l'Assemblée).",
+    "La résolution de 2009 modifie l'article 6 pour permettre l'exportation, ou l'importation, de CO2 destiné à être stocké dans des couches géologiques sous la mer. Le stockage du CO2 capté s'appelle « captage et stockage du carbone » (rapport de la commission).",
+    "L'exportation reste soumise à un accord préalable entre le pays qui exporte et celui qui reçoit le CO2. Vers un pays qui n'a pas ratifié le protocole, les accords doivent prévoir une protection du milieu marin au moins équivalente (rapport de la commission).",
+    "La France a déjà signé deux accords avec des pays qui disposent de sites de stockage : la Norvège en janvier 2024 (coopération commerciale entre entreprises) et le Danemark en mars 2024 (transport de CO2 à des fins de stockage permanent) (rapport de la commission)."
+  ],
+  "pour": [
+    "Selon le gouvernement, par la voix du ministre chargé de l'industrie et de l'énergie Marc Ferracci, certaines industries (cimenteries, usines à chaux, engrais, sucreries) émettent du CO2 qu'elles ne peuvent pas éviter. La France n'a pas encore de site de stockage opérationnel ; sans possibilité d'exporter, ces usines risqueraient de fermer ou de partir à l'étranger, et des financements européens de 439 millions d'euros seraient perdus. Le ministre ajoute que le captage et le stockage du carbone ne remplacent pas les autres efforts de réduction des émissions et pourraient représenter 8 % à 13 % de ces efforts d'ici 2050.",
+    "Pour le rapporteur de la commission mixte paritaire Hervé Berville (Ensemble pour la République), la ratification ne décide pas à l'avance de l'avenir du stockage de carbone en France : elle en permet le démarrage, en complément des autres moyens de réduire les émissions. Il rappelle que des solutions de stockage existent déjà en Norvège, aux Pays-Bas et au Royaume-Uni.",
+    "Pour le groupe Horizons & indépendants (Xavier Lacombe, rapporteur du texte en première lecture), la technique est éprouvée, comme le montre selon lui le site norvégien de Sleipner, où plus de 20 millions de tonnes de CO2 auraient été stockées depuis 1996, et le texte offre un cadre fondé sur des accords entre États et sur la traçabilité du CO2.",
+    "Pour le Rassemblement national (Alexandra Masson), qui a voté pour tout en regrettant que la France n'ait pas développé ses propres sites de stockage, l'exportation est un outil transitoire : sans elle, les grands ports industriels comme Dunkerque et Le Havre perdraient en compétitivité face à Rotterdam, où doivent démarrer les projets de stockage néerlandais Porthos et Aramis."
+  ],
+  "contre": [
+    "Pour les députés La France insoumise (Nathalie Oziol, Pierre-Yves Cadalen), qui ont voté contre et déposé une motion de rejet, la technique est encore balbutiante et comporte des risques de fuite lors du transport comme lors du stockage ; elle permettrait surtout aux industriels de continuer à polluer au lieu de transformer leur production. Ils citent l'Agence internationale de l'énergie (environ 35 installations commerciales dans le monde en 2021, pour 44 millions de tonnes de CO2 captées par an, contre 53 milliards de tonnes émises) ; ces chiffres sont les leurs et n'ont pas été vérifiés ici.",
+    "Pour les députés Gauche démocrate et républicaine (Édouard Bénard), qui ont voté contre sans s'opposer par principe aux technologies de stockage, envoyer le CO2 en mer du Nord fait du milieu marin un exutoire et dilue la responsabilité environnementale de la France, qui s'en remettrait au suivi assuré par d'autres États. Ils estiment que cela sert d'alibi pour ne pas investir dans la décarbonation des usines.",
+    "Pour les députés Écologistes (Sabrina Sebaihi), qui ont voté contre, la ratification offre un « permis de polluer » aux grands industriels et ferait de la mer une décharge ; ils critiquent aussi la procédure accélérée et le fait que l'Assemblée avait rejeté le texte le 10 avril.",
+    "Les députés Socialistes et apparentés (Fabrice Roussel), qui se sont presque tous abstenus, disaient ne pas avoir obtenu de réponse claire du gouvernement sur les avantages accordés aux entreprises qui utilisent ces techniques. La majorité des députés du groupe LIOT, par la voix de Michel Castellani, préférait une politique de réduction de la production de CO2 et insistait sur la protection du milieu marin."
+  ],
+  "context": "Ce texte est un projet de loi du gouvernement qui autorise la ratification d'un traité : il a été déposé au Sénat le 3 juillet 2024 avec la procédure accélérée, adopté par le Sénat le 12 février 2025, puis rejeté en première lecture par l'Assemblée nationale le 10 avril 2025, à une courte majorité selon le rapporteur. Une commission mixte paritaire (députés et sénateurs) s'est ensuite accordée ; le Sénat a adopté son texte le 2 juin 2025 et l'Assemblée l'a adopté définitivement le 17 juin, le vote ici présenté, un texte de compromis qui, selon Xavier Lacombe, était identique à celui débattu le 10 avril. Le scrutin a divisé les groupes : la gauche a voté contre ou s'est abstenue, le centre, la droite et le Rassemblement national ont voté pour. La loi n° 2025-566 du 23 juin 2025 a été publiée au Journal officiel du 24 juin 2025. L'amendement de 2009 n'était pas encore en vigueur au moment du rapport (12 États l'avaient ratifié), mais une résolution de 2019 permet de l'appliquer à titre provisoire entre les États qui le souhaitent.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2460"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51362"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0942_projet-loi"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PRJLANR5L17B0942.raw"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0145_texte-adopte-seance"
+    },
+    {
+      "label": "Source",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_afetr/l17b1186_rapport-fond"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N244"
+    },
+    {
+      "label": "Source",
+      "url": "https://aida.ineris.fr/node/44285"
+    }
+  ]
+}

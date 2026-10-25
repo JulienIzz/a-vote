@@ -1,0 +1,17 @@
+{
+  "$comment": "Familles politiques stables à travers les législatures. 'groups' liste les libelleAbrev officiels des groupes rattachés, par législature (plusieurs quand le groupe a changé d'identifiant). Ordre : de la gauche vers la droite de l'hémicycle.",
+  "families": [
+    { "id": "lfi", "label": "La France insoumise", "shortLabel": "LFI", "color": "#C00D0D", "groups": { "16": ["LFI-NUPES"], "17": ["LFI-NFP"] } },
+    { "id": "gdr", "label": "Gauche démocrate et républicaine", "shortLabel": "GDR", "color": "#991414", "groups": { "16": ["GDR-NUPES"], "17": ["GDR"] } },
+    { "id": "eco", "label": "Écologistes", "shortLabel": "ÉCO", "color": "#77AA79", "groups": { "16": ["ECOLO"], "17": ["ECOS"] } },
+    { "id": "soc", "label": "Socialistes et apparentés", "shortLabel": "SOC", "color": "#DF84B5", "groups": { "16": ["SOC", "SOC-A"], "17": ["SOC"] } },
+    { "id": "liot", "label": "Libertés, Indépendants, Outre-mer et Territoires", "shortLabel": "LIOT", "color": "#F8D434", "groups": { "16": ["LIOT"], "17": ["LIOT"] } },
+    { "id": "dem", "label": "Les Démocrates (MoDem)", "shortLabel": "DEM", "color": "#F07E26", "groups": { "16": ["DEM"], "17": ["DEM"] } },
+    { "id": "epr", "label": "Renaissance / Ensemble pour la République", "shortLabel": "EPR", "color": "#7B4591", "groups": { "16": ["RE"], "17": ["EPR"] } },
+    { "id": "hor", "label": "Horizons", "shortLabel": "HOR", "color": "#32B3CA", "groups": { "16": ["HOR"], "17": ["HOR"] } },
+    { "id": "lr", "label": "Les Républicains / Droite républicaine", "shortLabel": "LR", "color": "#4565AD", "groups": { "16": ["LR"], "17": ["DR"] } },
+    { "id": "udr", "label": "Union des droites pour la République", "shortLabel": "UDR", "color": "#3367A7", "groups": { "17": ["AD", "UDR", "UDDPLR"] } },
+    { "id": "rn", "label": "Rassemblement national", "shortLabel": "RN", "color": "#313567", "groups": { "16": ["RN"], "17": ["RN"] } }
+  ],
+  "excluded": ["NI"]
+}

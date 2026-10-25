@@ -1,0 +1,402 @@
+{
+  "$comment": "Thèmes sur lesquels le grand public a un avis. Les mots-clés sont comparés au titre du scrutin et au titre du dossier, sans tenir compte des accents ni de la casse ; une étoile finale autorise toute terminaison (agricol* → agricole, agricoles).",
+  "themes": [
+    {
+      "id": "droits-des-femmes",
+      "label": "Droits des femmes",
+      "keywords": [
+        "femme*",
+        "egalite entre les femmes et les hommes",
+        "interruption volontaire de grossesse",
+        "ivg",
+        "avortement",
+        "contraception",
+        "parite",
+        "menstruel*",
+        "sexis*",
+        "feminicide*"
+      ]
+    },
+    {
+      "id": "enfance-jeunesse",
+      "label": "Enfance et jeunesse",
+      "keywords": [
+        "mineur*",
+        "enfant*",
+        "enfance",
+        "jeunes",
+        "jeunesse",
+        "parental*",
+        "adolescent*",
+        "creche*",
+        "petite enfance",
+        "harcelement scolaire",
+        "eleve*"
+      ]
+    },
+    {
+      "id": "immigration",
+      "label": "Immigration",
+      "keywords": [
+        "immigration",
+        "immigre*",
+        "asile",
+        "etrangers",
+        "nationalite",
+        "sejour",
+        "frontiere*",
+        "migrant*",
+        "migratoire*",
+        "oqtf",
+        "regularisation des travailleurs",
+        "sans-papiers",
+        "sans papiers",
+        "clandestin*"
+      ]
+    },
+    {
+      "id": "violences-sexuelles",
+      "label": "Violences sexuelles et conjugales",
+      "keywords": [
+        "viol",
+        "viols",
+        "violences sexuelles",
+        "violence sexuelle",
+        "consentement",
+        "agression* sexuelle*",
+        "inceste",
+        "pedocriminalite",
+        "pedophil*",
+        "prostitution",
+        "harcelement sexuel",
+        "violences conjugales",
+        "violences intrafamiliales",
+        "soumission chimique",
+        "outrage sexiste"
+      ]
+    },
+    {
+      "id": "numerique",
+      "label": "Numérique et réseaux sociaux",
+      "keywords": [
+        "reseaux sociaux",
+        "reseau social",
+        "numerique*",
+        "plateforme*",
+        "internet",
+        "intelligence artificielle",
+        "donnees personnelles",
+        "influenceur*",
+        "cyber*",
+        "ecran*",
+        "deepfake*",
+        "majorite numerique",
+        "telephone*",
+        "pornograph*"
+      ]
+    },
+    {
+      "id": "agriculture-alimentation",
+      "label": "Agriculture et alimentation",
+      "keywords": [
+        "agricol*",
+        "agriculteur*",
+        "agriculture",
+        "pesticide*",
+        "elevage*",
+        "alimentation",
+        "alimentaire*",
+        "peche",
+        "pecheur*",
+        "nutri-score",
+        "phytosanitaire*",
+        "glyphosate",
+        "neonicotinoide*",
+        "egalim",
+        "mercosur",
+        "viticol*",
+        "viticult*",
+        "bien-etre animal"
+      ]
+    },
+    {
+      "id": "fiscalite-budget",
+      "label": "Impôts et budget",
+      "keywords": [
+        "impot*",
+        "fiscal*",
+        "taxe*",
+        "tva",
+        "loi de finances",
+        "finances publiques",
+        "niche* fiscale*",
+        "isf",
+        "fortune",
+        "dette",
+        "deficit",
+        "superprofits",
+        "dividendes",
+        "heritage",
+        "succession*"
+      ]
+    },
+    {
+      "id": "sante",
+      "label": "Santé",
+      "keywords": [
+        "sante",
+        "hopital",
+        "hopitaux",
+        "hospital*",
+        "medecin*",
+        "medical*",
+        "soins",
+        "soignant*",
+        "fin de vie",
+        "euthanasie",
+        "aide a mourir",
+        "securite sociale",
+        "medicament*",
+        "handicap*",
+        "psychiatri*",
+        "deserts medicaux",
+        "cancer",
+        "tabac",
+        "alcool",
+        "vaccin*",
+        "aidant*",
+        "dependance",
+        "grand age"
+      ]
+    },
+    {
+      "id": "travail-retraites",
+      "label": "Travail, retraites et pouvoir d'achat",
+      "keywords": [
+        "retraite*",
+        "travail",
+        "emploi",
+        "chomage",
+        "chomeur*",
+        "salaire*",
+        "smic",
+        "pouvoir d'achat",
+        "syndica*",
+        "temps de travail",
+        "rsa",
+        "minima sociaux",
+        "apprentissage",
+        "partage de la valeur",
+        "prime*",
+        "inflation",
+        "prix"
+      ]
+    },
+    {
+      "id": "ecologie-energie",
+      "label": "Écologie et énergie",
+      "keywords": [
+        "climat*",
+        "energie*",
+        "energetique*",
+        "nucleaire",
+        "environnement*",
+        "biodiversite",
+        "ecologi*",
+        "renouvelable*",
+        "pollution*",
+        "carbone",
+        "renovation",
+        "eolien*",
+        "solaire",
+        "zfe",
+        "zones a faibles emissions",
+        "dechets",
+        "plastique*",
+        "eau",
+        "secheresse",
+        "inondation*",
+        "pfas"
+      ]
+    },
+    {
+      "id": "securite-justice",
+      "label": "Sécurité et justice",
+      "keywords": [
+        "securite interieure",
+        "securite publique",
+        "securite globale",
+        "securite quotidienne",
+        "insecurite",
+        "forces de l'ordre",
+        "ordre public",
+        "police",
+        "policier*",
+        "gendarm*",
+        "terroris*",
+        "penal*",
+        "delinquance",
+        "prison*",
+        "narcotrafic",
+        "drogue*",
+        "stupefiant*",
+        "cannabis",
+        "justice",
+        "magistrat*",
+        "peine*",
+        "recidive",
+        "emeute*",
+        "rodeo*",
+        "armes",
+        "video*surveillance",
+        "videoprotection"
+      ]
+    },
+    {
+      "id": "logement",
+      "label": "Logement",
+      "keywords": [
+        "logement*",
+        "locataire*",
+        "proprietaire*",
+        "squat*",
+        "bail",
+        "baux",
+        "loyer*",
+        "hlm",
+        "meubles de tourisme",
+        "airbnb",
+        "expulsion* locative*",
+        "habitat"
+      ]
+    },
+    {
+      "id": "institutions",
+      "label": "Institutions et démocratie",
+      "keywords": [
+        "constitution*",
+        "referendum",
+        "election*",
+        "electoral*",
+        "institution*",
+        "collectivite*",
+        "nouvelle-caledonie",
+        "corse",
+        "decentralisation",
+        "parlement*",
+        "senat",
+        "cumul des mandats",
+        "proportionnelle",
+        "laicite",
+        "49.3",
+        "49-3"
+      ]
+    },
+    {
+      "id": "europe-international",
+      "label": "Europe, défense et international",
+      "keywords": [
+        "europe*",
+        "union europeenne",
+        "international*",
+        "ukraine",
+        "russie",
+        "israel",
+        "palestin*",
+        "gaza",
+        "defense",
+        "armee*",
+        "militaire*",
+        "otan",
+        "accord de libre-echange",
+        "ceta"
+      ]
+    },
+    {
+      "id": "education",
+      "label": "Éducation",
+      "keywords": [
+        "education",
+        "enseignement",
+        "universite*",
+        "etudiant*",
+        "ecole*",
+        "professeur*",
+        "enseignant*",
+        "baccalaureat",
+        "lycee*",
+        "college*",
+        "parcoursup",
+        "uniforme",
+        "cantine*"
+      ]
+    },
+    {
+      "id": "animaux",
+      "label": "Animaux",
+      "keywords": [
+        "animal",
+        "animaux",
+        "corrida",
+        "chasse",
+        "maltraitance animale",
+        "fourrure",
+        "cirque*",
+        "abattage",
+        "abattoir*"
+      ]
+    },
+    {
+      "id": "transports",
+      "label": "Transports",
+      "keywords": [
+        "transport*",
+        "sncf",
+        "ferroviaire",
+        "automobil*",
+        "voiture*",
+        "velo*",
+        "aerien",
+        "avion*",
+        "autoroute*",
+        "permis de conduire",
+        "trottinette*",
+        "train*"
+      ]
+    },
+    {
+      "id": "culture-medias",
+      "label": "Culture et médias",
+      "keywords": [
+        "culture*",
+        "audiovisuel*",
+        "medias",
+        "presse",
+        "cinema",
+        "journaliste*",
+        "france televisions",
+        "redevance",
+        "livre*",
+        "spectacle*",
+        "sport*",
+        "jeux olympiques"
+      ]
+    },
+    {
+      "id": "outre-mer",
+      "label": "Outre-mer",
+      "keywords": [
+        "outre-mer",
+        "mayotte",
+        "guadeloupe",
+        "martinique",
+        "guyane",
+        "la reunion",
+        "polynesie",
+        "nouvelle-caledonie",
+        "caledoni*",
+        "ultramarin*"
+      ]
+    }
+  ]
+}

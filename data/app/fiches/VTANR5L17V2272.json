@@ -1,0 +1,56 @@
+{
+  "uid": "VTANR5L17V2272",
+  "measures": [
+    "Les allocations familiales sont accordées dès le premier enfant à charge : dans l'article L. 521-1 du code de la sécurité sociale, le mot « deuxième » est remplacé par « premier » (article 1er). Le texte ne fixe pas de nouveau montant.",
+    "La Caisse nationale des allocations familiales doit rendre compte, dans son rapport annuel, des effets de cette mesure sur la précarité des familles (article 1er, ajouté en commission).",
+    "Le Gouvernement doit remettre au Parlement, dans les six mois suivant la promulgation, un rapport sur une réforme plus large des allocations familiales visant un accès universel sans baisse de leur montant, et un second rapport sur l'effet de la mesure sur les familles monoparentales (articles 1er bis et 1er ter, ajoutés en commission puis en séance).",
+    "Le financement est prévu par une hausse de l'accise sur les tabacs ; l'Assemblée y a ajouté deux mesures sur les compléments de salaire : une modification du régime de certaines contributions patronales (le « forfait social ») et un plafonnement à deux fois le Smic annuel de l'exonération de cotisations sociales qui profite à l'intéressement et à la participation (article 2, amendements n° 6 et 5 du groupe Socialistes et apparentés, adoptés)."
+  ],
+  "pour": [
+    "Selon les auteurs du texte, députés du groupe Gauche démocrate et républicaine (premier signataire : Édouard Bénard), les allocations familiales doivent compenser le coût de l'enfant dès la première naissance : l'Insee estime que le niveau de vie des ménages baisse de 2 à 11 % à l'arrivée d'un enfant, et les familles avec un seul enfant et les familles monoparentales, plus précaires, sont de plus en plus nombreuses. Ils rappellent que cette règle s'applique déjà dans les territoires d'outre-mer.",
+    "Pour la Droite républicaine (Antoine Vermorel-Marques), le texte peut aider à relancer la natalité et soutenir les jeunes parents ; le groupe y voit un premier pas avant une réforme plus large de la branche famille dans le projet de loi de financement de la sécurité sociale. Pour le Rassemblement national (Kévin Mauvieux), la mesure peut aider les couples à avoir les enfants qu'ils souhaitent et à renouveler les générations.",
+    "Pour les groupes La France insoumise, Écologiste et social et Gauche démocrate et républicaine, il s'agit de corriger une « anomalie » et de garantir l'égalité entre les enfants ; La France insoumise insiste sur l'universalité des allocations, sans condition de ressources.",
+    "Pour Socialistes et apparentés (Jérôme Guedj), la mesure peut être financée par des recettes nouvelles proposées par la Cour des comptes, estimées à 3 milliards d'euros pour les niches sociales sur les compléments de salaire."
+  ],
+  "contre": [
+    "Pour Ensemble pour la République (Charles Sitzenstuhl, Joséphine Missoffe), qui a voté contre, l'objectif est louable mais la mesure coûterait au moins 3 milliards d'euros par an, alors que le déficit public est élevé, et son financement par des cotisations alourdirait le coût du travail.",
+    "Pour Horizons (Béatrice Piron), qui a voté majoritairement contre, le texte ouvre un droit nouveau, évalué à environ 4 milliards d'euros par an, sans financement identifié ; elle estime que ses effets sur la natalité sont incertains et préfère une aide ciblée sur les familles monoparentales les plus pauvres, ce qu'elle proposait par amendement.",
+    "Pour Les Démocrates (Anne Bergantz), la mesure est pertinente mais son coût, de l'ordre de 3 milliards d'euros, ne peut pas être absorbé par les finances publiques : le groupe plaide pour une réforme de l'ensemble des prestations familiales à budget constant.",
+    "Selon la ministre déléguée, Charlotte Parmentier-Lecocq, le texte n'est pas financé et profiterait surtout aux familles de revenus moyens ou élevés plutôt qu'aux plus défavorisées ; un tel débat relève de la loi de financement de la sécurité sociale."
+  ],
+  "context": "Ce texte est une proposition de loi, c'est-à-dire d'initiative parlementaire, déposée le 22 avril 2025 par Édouard Bénard et des députés du groupe Gauche démocrate et républicaine, qui l'ont inscrite lors de leur journée réservée (« niche » parlementaire). Il a été examiné en première lecture le 5 juin 2025 en présence de peu de députés : 125 ont voté sur 577. Adopté par l'Assemblée, il a été transmis au Sénat le même jour ; sur le site du Sénat, le dossier ne mentionne, à la date de sa dernière mise à jour (12 décembre 2025), aucune autre étape, et la loi n'est donc pas définitivement adoptée d'après les sources consultées. L'estimation du coût varie selon les orateurs, de 3 à 5 milliards d'euros par an.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/accorder_versement_allocations_familiales_premier_enfant_17e"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1342_proposition-loi"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N228"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L17B1342.raw"
+    },
+    {
+      "label": "Source",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0135.html"
+    },
+    {
+      "label": "Sur le site du Sénat",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-709.html"
+    }
+  ]
+}

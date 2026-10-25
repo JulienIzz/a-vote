@@ -1,0 +1,41 @@
+{
+  "uid": "VTANR5L16V1462",
+  "measures": [
+    "La partie de la loi du 5 août 2021 sur la gestion de la crise sanitaire qui impose la vaccination contre la covid-19 aux professionnels des secteurs médicaux, paramédicaux et de l'aide à la personne est abrogée : les professionnels et les étudiants suspendus depuis le 15 septembre 2021 parce qu'ils n'étaient pas vaccinés peuvent reprendre leur activité (article 1er).",
+    "Les agents du service public qui avaient été suspendus conservent l'avancement de carrière qu'ils avaient atteint avant leur suspension (article 2).",
+    "Le coût pour la sécurité sociale est compensé par une hausse de la taxe sur les tabacs ; les auteurs demandent au gouvernement de lever ce « gage », c'est-à-dire de renoncer à cette compensation (article 3)."
+  ],
+  "pour": [
+    "Selon les auteurs du texte, la suspension sans salaire de professionnels depuis le 15 septembre 2021 prive un système de santé en manque de personnel de soignants formés et immédiatement disponibles, en particulier en Guadeloupe, en Martinique et en Guyane.",
+    "Les auteurs s'appuient sur un projet de recommandation de la Haute Autorité de santé (HAS) de février 2023, selon lequel l'obligation vaccinale « pourrait être levée » pour tous les professionnels concernés, et sur les travaux de cette autorité qui décrivent une protection vaccinale qui diminue après quelques mois.",
+    "Ils relèvent des incohérences : des professionnels vaccinés mais sans rappel à jour continuent d'exercer, des renforts étrangers non soumis à l'obligation remplacent des professionnels français suspendus, et certains établissements tolèrent déjà des personnels non vaccinés.",
+    "Ils contestent le chiffre gouvernemental de 0,6 % de soignants suspendus, qui ne compterait ni les libéraux, ni les étudiants, ni les agents administratifs et techniques."
+  ],
+  "contre": [
+    "Pour les groupes de la majorité présidentielle (Renaissance, MoDem et Horizons), qui ont voté contre, la fin de l'obligation relève d'une décision du gouvernement, prise par décret une fois l'avis définitif de la Haute Autorité de santé rendu, et non d'une loi.",
+    "Ces groupes considèrent que l'obligation était justifiée au moment où elle a été décidée, pour protéger les patients les plus fragiles, et qu'un vote du Parlement pour l'abroger enverrait un signal défavorable à la vaccination."
+  ],
+  "context": "Ce texte est une proposition de loi, c'est-à-dire un texte d'initiative parlementaire et non gouvernementale, examiné en première lecture le 4 mai 2023. Il a été adopté grâce aux voix de la gauche, des Républicains et du Rassemblement national, contre les groupes de la majorité présidentielle, et devait ensuite être examiné par le Sénat. Au moment du vote, l'obligation vaccinale était appliquée depuis le 15 septembre 2021 et la Haute Autorité de santé avait engagé une révision de ses recommandations. Le devenir du texte après ce vote n'apparaît pas dans les sources rassemblées ici ; il est à compléter avant publication.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/16/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/abrogation_obligation_vaccincovid"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0991_proposition-loi"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L16B0991.raw"
+    }
+  ]
+}

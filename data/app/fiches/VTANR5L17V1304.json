@@ -1,0 +1,66 @@
+{
+  "uid": "VTANR5L17V1304",
+  "measures": [
+    "Une loi « organique » est une loi qui précise l'application de la Constitution et que le Conseil constitutionnel doit toujours examiner avant sa promulgation. Elle est ici nécessaire parce que les règles modifiées touchent à l'éligibilité des citoyens européens aux élections municipales (article 88-3 de la Constitution) et aux incompatibilités des parlementaires (article 25).",
+    "Les bulletins de vote imprimés doivent indiquer, en face du nom des candidats ressortissants d'un autre État de l'Union européenne, leur nationalité : cette règle, jusqu'ici réservée aux communes de 1 000 habitants et plus, est étendue à toutes les communes, sous peine de nullité du bulletin (article 1er, 2° ; article L.O. 247-1 du code électoral).",
+    "Les règles particulières de candidature des ressortissants européens dans les communes de moins de 1 000 habitants, qui valaient pour l'ancien scrutin majoritaire, sont supprimées (article 1er, 3° ; article L.O. 255-5).",
+    "La règle qui limite le cumul d'un mandat de député avec un mandat de conseiller municipal reste appliquée aux communes de 1 000 habitants et plus et n'est pas étendue aux communes de moins de 1 000 habitants : il s'agit d'une coordination de rédaction (article 1er, 1° ; article L.O. 141).",
+    "Le texte s'applique à partir du premier renouvellement général des conseils municipaux qui suit sa promulgation, comme la loi ordinaire (article 2)."
+  ],
+  "pour": [
+    "Selon la rapporteure de la commission des lois de l'Assemblée, Delphine Lingemann, cette proposition de loi organique « ne vise qu'à procéder aux coordinations » rendues nécessaires par la loi ordinaire sur le mode de scrutin.",
+    "Pour la ministre déléguée chargée de la ruralité, Françoise Gatel, qui a parlé au nom du gouvernement, ce texte tire les conséquences de la généralisation du scrutin de liste. Les groupes qui ont voté pour (Ensemble pour la République, La France insoumise, Socialistes, Écologiste et social, Les Démocrates, Gauche démocrate et républicaine en majorité) ont défendu le texte dans des explications de vote communes aux deux textes : appliquer partout la même règle d'élection et la parité aux conseils municipaux."
+  ],
+  "contre": [
+    "Les explications de vote ont porté sur les deux textes à la fois et visaient avant tout la loi ordinaire. Pour le Rassemblement national (Michel Guiniot), qui a voté contre, le changement de mode de scrutin à moins d'un an des élections n'est pas souhaité par les maires et les conseils municipaux des petites communes.",
+    "Pour la Droite républicaine (Pierre Cordier) et l'Union des droites pour la République (Sophie Ricourt Vaginay), qui ont voté contre, la réforme fragilise les petites communes ; la Droite républicaine regrette aussi le déroulement de la séance, avec une seconde délibération demandée par le gouvernement. En séance, des députés (dont Fabrice Brun et Fabien Di Filippo) ont défendu des amendements identiques supprimant l'article 1er de ce texte organique.",
+    "Le compte rendu lu ne contient pas d'argument propre à la proposition de loi organique : les opposants contestent la réforme de fond, dont ce texte est la conséquence."
+  ],
+  "context": "Cette proposition de loi organique a été déposée au Sénat en octobre 2024 par les sénateurs Nadine Bellurot, Éric Kerrouche, Sonia de La Provôté et Didier Rambaud ; le gouvernement a engagé la procédure accélérée le 5 mars 2025. Le Sénat l'a adoptée le 11 mars 2025, et l'Assemblée l'a adoptée sans modification en première lecture le 7 avril 2025, le même jour que la loi ordinaire sur le mode de scrutin, qui fait l'objet d'une autre fiche : ce vote est donc définitif. Il ne s'agit pas de la réforme du scrutin de Paris, Lyon et Marseille. Saisi automatiquement par le Premier ministre, comme pour toute loi organique, le Conseil constitutionnel l'a jugée conforme à la Constitution le 15 mai 2025 (décision n° 2025-882 DC), et la loi organique n° 2025-443 du 21 mai 2025 a été promulguée.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1304"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50579"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1106_proposition-loi"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L17B1106.raw"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0094_texte-adopte-provisoire"
+    },
+    {
+      "label": "Source",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1246_rapport-fond.pdf"
+    },
+    {
+      "label": "La décision du Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025882DC.htm"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcement_parite_fonctions_electives_communes"
+    },
+    {
+      "label": "Source",
+      "url": "https://www.banquedesterritoires.fr/municipales-dans-les-communes-de-moins-de-1000-habitants-ce-quil-faut-savoir-sur-le-nouveau-mode-de"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "uid": "VTANR5L17V1041",
+  "measures": [
+    "Les agents des services internes de sécurité de la SNCF et de la RATP peuvent inspecter visuellement les bagages et, avec le consentement de leur propriétaire, les fouiller. Ils peuvent aussi, avec le consentement exprès de la personne, procéder à des palpations de sécurité : en cas de menace grave ou de périmètre de protection, ou si des éléments objectifs laissent penser qu'elle détient un objet dangereux. Ils peuvent conserver, avec l'accord de la personne, un objet dangereux autre qu'une arme (article 1er).",
+    "Ces agents peuvent intervenir momentanément sur la voie publique aux abords immédiats des gares, et des agents désignés par l'exploitant peuvent refuser l'accès aux emprises à une personne qui trouble l'ordre public ; la possibilité de contraindre une personne qui refuse d'obtempérer a été censurée (article 4).",
+    "Les caméras-piétons des agents de contrôle sont pérennisées ; les conducteurs de bus et d'autocar, ainsi que les opérateurs de tramway, sont autorisés à utiliser des caméras ou un système de captation du son à titre expérimental (articles 10, 11, 14 et 16).",
+    "Une peine complémentaire d'interdiction de paraître dans un ou plusieurs réseaux de transport, pour trois ans au plus, peut être prononcée contre les auteurs de certains crimes et délits commis dans les transports. L'abandon de bagages est puni d'une amende de contravention, et l'amende est plus élevée si le bagage n'indique pas le nom du voyageur (articles 17 et 18).",
+    "Les agents de police municipale peuvent accéder librement aux espaces de transport sous conditions fixées par convention ; des agents d'Île-de-France Mobilités peuvent visionner les images de vidéoprotection dans des salles de l'État ; le gouvernement doit remettre avant le 31 décembre 2026 un rapport sur l'effet de l'ouverture à la concurrence sur la sûreté (articles 7, 9 et 27)."
+  ],
+  "pour": [
+    "Selon le gouvernement, qui représentait à la séance le ministre des transports Philippe Tabarot (auteur du texte quand il était sénateur), les vols et les violences augmentent dans les transports ; le texte renforce les moyens des agents de sûreté et la coordination entre police, agents de sûreté et opérateurs.",
+    "Pour le rapporteur de la commission mixte paritaire, Guillaume Gouffier Valente, le texte donne aux agents des moyens d'agir tout en encadrant leurs pouvoirs (consentement, arrêté préfectoral, décret d'application). Pour les groupes Droite républicaine (Ian Boucard), Horizons (Jean Moulliere), Les Démocrates (Philippe Latombe) et LIOT (Yannick Favennec-Bécot), il répond à une attente des agents et des usagers ; Ian Boucard et Yannick Favennec-Bécot citent les 111 000 victimes de vols et de violences recensées en 2023.",
+    "Pour le Rassemblement national (Bryan Masson), qui a voté pour, la sécurité des usagers doit primer ; ses députés ajoutent que le texte ne traite pas la question de l'immigration, qu'ils lient à la délinquance dans les transports."
+  ],
+  "contre": [
+    "Pour le député socialiste Roger Vicot, nul ne s'oppose à la sécurité dans les transports, mais le texte est imprécis et élargit trop les compétences d'agents qui ne sont pas des policiers et ont quatre mois de formation ; il juge subjectives certaines conditions (par exemple des palpations si des éléments objectifs laissent penser qu'une personne détient un objet dangereux) et critique l'interdiction d'entrer en gare et la captation du son.",
+    "Pour les députés de la Gauche démocrate et républicaine (Stéphane Peu), le texte étend les prérogatives d'agents privés au détriment d'une mission de l'État, manque d'étude d'impact et d'avis du Conseil d'État, et ne prévoit rien pour la présence humaine dans les gares et les stations.",
+    "Pour les députés La France insoumise (Élisa Martin), qui ont déposé une motion de rejet, le texte participe d'une société de surveillance, notamment par la prolongation de l'expérimentation de la vidéosurveillance algorithmique. Pour les écologistes (Sandra Regol), le texte répond à des faits divers sans traiter les conditions de fonctionnement des transports."
+  ],
+  "context": "Ce texte est une proposition de loi déposée au Sénat le 28 décembre 2023 par Philippe Tabarot, avec procédure accélérée. Adopté par le Sénat en février 2024, puis par l'Assemblée le 11 février 2025 après la dissolution et la censure du gouvernement qui avaient interrompu son examen, il a fait l'objet d'une commission mixte paritaire le 6 mars 2025. Le vote du 18 mars 2025 porte sur ce texte de compromis, adopté par le Sénat la veille. Saisi par des députés, le Conseil constitutionnel a rendu le 24 avril 2025 la décision n° 2025-878 DC : il a déclaré contraires à la Constitution notamment le pouvoir de contrainte des agents privés (partie de l'article 4), les caméras embarquées à Mayotte (article 13) et plusieurs dispositions sans lien avec le texte initial, comme la prolongation de la vidéosurveillance algorithmique (article 15). La loi n° 2025-379 du 28 avril 2025 a été promulguée avec le reste du texte.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49176"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b2223_proposition-loi"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L16B2223.raw"
+    },
+    {
+      "label": "Source",
+      "url": "https://www.assemblee-nationale.fr/17/pdf/ta/ta0075.pdf"
+    },
+    {
+      "label": "La décision du Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025878DC.htm"
+    }
+  ]
+}

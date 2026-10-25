@@ -1,0 +1,60 @@
+{
+  "uid": "VTANR5L17V8042",
+  "measures": [
+    "Droits des victimes : lors d'une plainte pour des violences commises par un conjoint, un concubin ou un partenaire, ou sur un mineur de moins de 15 ans par un parent ou une personne ayant autorité, les enquêteurs doivent informer la victime de son droit à un avocat et à l'aide juridictionnelle. Les victimes et les auteurs qui reconnaissent les faits doivent aussi être informés de la possibilité d'une mesure de justice restaurative (rencontre encadrée entre victime et auteur).",
+    "Cours criminelles : la compétence des cours criminelles départementales, composées de magistrats professionnels, est étendue à des crimes commis en état de récidive légale. Une affaire d'assises qui ne peut pas être jugée dans un délai raisonnable peut être renvoyée devant une autre cour d'assises du ressort de la cour d'appel.",
+    "Organisation des procès : la liste des témoins et experts convenue lors d'une « réunion préparatoire criminelle » ne peut ensuite être modifiée que dans des cas limités, et l'appel peut être limité aux peines complémentaires, jugé alors par trois magistrats sans jurés.",
+    "Nullités : pour contester la régularité d'actes d'une instruction, le délai passe de six mois à quatre mois à compter de la remise de la copie du dossier à l'avocat, qui doit en faire la demande dans les sept jours suivant la mise en examen. D'autres délais de procédure sont aussi raccourcis ou fixés plus précisément.",
+    "Détention provisoire : la détention ne peut être prolongée qu'une seule fois avant le procès criminel. Si un débat sur la prolongation ne s'est pas tenu à temps, un magistrat de la cour d'appel peut maintenir la personne en détention au plus cinq jours ouvrables ; le texte rétablit aussi les règles de détention des mineurs de 16 à 18 ans renvoyés devant la cour d'assises des mineurs.",
+    "Enquête : l'accès aux données génétiques pour identifier des auteurs de crimes, et la création de psychologues de police judiciaire, ont été prévus puis censurés (voir « Contexte »)."
+  ],
+  "pour": [
+    "Selon la rapporteure de la commission mixte paritaire Anne Bergantz, le texte vise à accélérer les enquêtes, simplifier les procédures dans le respect des libertés et réduire les délais de jugement, pour les accusés comme pour les victimes ; il résulte de compromis, dont le retrait du plaider-coupable criminel faute de consensus. Pour le garde des sceaux Gérald Darmanin, il permet de créer des cours criminelles supplémentaires, de simplifier le droit des nullités et d'ouvrir la généalogie génétique.",
+    "Pour la députée Agnès Firmin Le Bodo (Horizons), les délais d'audiencement criminel atteignent six à huit ans et la lenteur de la justice conduit parfois à libérer des détenus dangereux ; le texte apporte des « petits pas », dont l'aide d'un avocat dès la plainte et soixante cours criminelles supplémentaires. Le groupe Ensemble pour la République (Sébastien Huyghe) défend le compromis entre les deux assemblées et entre les groupes.",
+    "Pour les députés Rassemblement national (Sylvie Josserand, Matthieu Bloch) et UDR, le texte est très insuffisant mais comporte des mesures urgentes, notamment sur la détention provisoire des mineurs de 16 à 18 ans après une décision du Conseil constitutionnel de juin 2025 ; ils le votent en précisant que la refondation de la justice criminelle reste à faire."
+  ],
+  "contre": [
+    "Pour les députés La France insoumise (Gabrielle Cathala), qui ont déposé une motion de rejet, le texte porte atteinte aux droits fondamentaux ; ils citent des avis de la Défenseure des droits, de la Commission nationale consultative des droits de l'homme et du barreau de Paris, et dénoncent le climat de la séance de la veille, consacrée à la présomption de légitime défense des policiers et gendarmes.",
+    "Pour le député socialiste Sacha Houlié, il reste dans le texte des mesures qui affaiblissent les droits de la défense : rapprochement de la procédure des cours criminelles de celle des tribunaux correctionnels, délai plus court pour les nullités, élargissement du fichier des empreintes génétiques, maintien en détention décidé hors des formes habituelles. Les socialistes ont annoncé qu'ils saisiraient le Conseil constitutionnel.",
+    "Les députés Écologistes et de la Gauche démocrate et républicaine ont aussi voté contre ; leurs arguments n'ont pas été relevés dans les passages lus du compte rendu."
+  ],
+  "context": "Ce texte est un projet de loi déposé au Sénat le 18 mars 2026 par le Premier ministre et le garde des sceaux, avec procédure accélérée. Adopté par le Sénat le 14 avril, il a été rejeté en commission des lois de l'Assemblée avant d'être adopté en séance publique, puis modifié par la commission mixte paritaire du 8 juillet 2026 : le vote du jour porte sur ce texte de compromis, adopté par le Sénat le 9 juillet. Deux groupes de députés (socialistes et La France insoumise) ont saisi le Conseil constitutionnel, qui a rendu le 23 juillet 2026 la décision n° 2026-909 DC : il a déclaré contraires à la Constitution l'analyse de traces génétiques de personnes inconnues pour en déduire des caractères physiques ou pour les comparer à des bases étrangères, la création des psychologues de police judiciaire et une disposition de coordination, avec quelques réserves d'interprétation. La loi n° 2026-651 du 23 juillet 2026 a été promulguée avec le reste du texte.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53940"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2681_projet-loi"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PRJLANR5L17B2681.raw"
+    },
+    {
+      "label": "Source",
+      "url": "https://www.assemblee-nationale.fr/17/pdf/ta/ta0329.pdf"
+    },
+    {
+      "label": "Le compte rendu de la séance",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008"
+    },
+    {
+      "label": "La décision du Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026909DC.htm"
+    },
+    {
+      "label": "Source",
+      "url": "https://cnb.avocat.fr/actualite/tout-savoir-sur-la-loi-justice-criminelle"
+    }
+  ]
+}

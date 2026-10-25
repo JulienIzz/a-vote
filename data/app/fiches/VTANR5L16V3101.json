@@ -1,0 +1,45 @@
+{
+  "uid": "VTANR5L16V3101",
+  "measures": [
+    "Un prix plancher d'achat des matières premières agricoles aux producteurs est fixé chaque année par une négociation entre les professions de chaque filière, présidée par le médiateur des relations commerciales agricoles et associant les syndicats agricoles, les associations de consommateurs et les organisations environnementales (article 1er).",
+    "À partir du 1er janvier 2024 et pendant un an, le gouvernement fixe pour les industriels de l'agroalimentaire un coefficient maximum, au plus 1,74, entre le prix d'achat de leurs matières premières (produits agricoles, énergie, transport, emballages) et leur prix de vente aux distributeurs. Au-delà de cette année, le dispositif peut être réactivé pour une durée limitée lorsque les bénéfices du secteur atteignent 1,2 fois la moyenne des trois exercices précédents (article 2).",
+    "Le même mécanisme s'applique au raffinage, avec un coefficient maximum de 1,63 entre le prix d'achat de la tonne de pétrole brut et le prix de vente de la tonne de carburant (article 3).",
+    "Il s'applique aussi à la grande distribution, avec un coefficient maximum de 1,26 entre le prix d'achat des denrées alimentaires et leur prix de revente aux consommateurs (article 4).",
+    "Le « seuil de revente à perte majoré » (SRP+10), qui oblige les distributeurs à revendre les produits alimentaires au moins 10 % au-dessus de leur prix d'achat, est supprimé (article 4)."
+  ],
+  "pour": [
+    "Selon les auteurs du texte, les prix alimentaires ont augmenté de 20 % entre août 2021 et août 2023 (+9,6 % sur un an en septembre 2023), les salaires n'ont pas suivi, les achats alimentaires des Français ont baissé de 11,4 % en volume et le recours à l'aide alimentaire est au plus haut : 2,4 millions de personnes accueillies par les banques alimentaires en 2022, trois fois plus qu'il y a dix ans.",
+    "Ils attribuent une large part de cette inflation aux marges des industriels : le taux de marge de l'industrie agroalimentaire serait passé de 28 % à 48,5 % entre fin 2021 et mi-2023, ses profits de 3,1 à 7 milliards d'euros en un an, et sans cette hausse les prix de production auraient augmenté deux fois moins vite. Ils citent aussi la grande distribution, dont les marges ont augmenté sur la moitié des produits suivis par l'Observatoire de la formation des prix et des marges (par exemple +57 % sur les pâtes), et le raffinage, dont la marge par tonne est passée de 14 à 101 euros entre 2021 et 2022.",
+    "Ils rappellent que l'encadrement des marges existe déjà : coefficient multiplicateur sur les fruits et légumes en cas de crise, marges fixées par l'État sur les produits de santé remboursés, bouclier qualité-prix en outre-mer et encadrement des marges en Nouvelle-Calédonie. Ils jugent à l'inverse que le SRP+10 garantit une marge minimale à la grande distribution, un « chèque en blanc » estimé à 1,6 milliard d'euros par l'UFC-Que Choisir en 2019.",
+    "Le prix plancher agricole vise, selon eux, à garantir le revenu des agriculteurs pour que l'encadrement des marges ne se fasse pas à leurs dépens."
+  ],
+  "contre": [
+    "La ministre déléguée chargée des petites et moyennes entreprises, du commerce, de l'artisanat et du tourisme, Olivia Grégoire, s'est opposée à l'encadrement des marges : selon elle, un plafonnement uniforme nuirait à la qualité des produits, à l'investissement et à l'innovation, sans effet structurel notable sur le pouvoir d'achat des plus précaires. Elle s'est dite en revanche favorable à un rôle accru de l'Observatoire de la formation des prix et des marges.",
+    "Pour les députés Renaissance (Sylvain Maillard, Guillaume Kasbarian, Alexis Izard), le mécanisme est inapplicable, avec des coefficients fixés par le gouvernement, impossible à contrôler pour les fournisseurs étrangers, et organiserait la pénurie ; ils ont fait adopter à la place des amendements sur la transparence des marges, avec la publication trimestrielle du rapport de l'Observatoire.",
+    "Pour Horizons (Thierry Benoit), le texte mis aux voix en séance s'éloignait trop de la version adoptée en commission.",
+    "Les groupes Démocrates et Les Républicains ont voté contre ; leurs arguments propres n'apparaissent pas dans les sources consultées."
+  ],
+  "context": "Ce texte est une proposition de loi déposée le 17 octobre 2023 par Manuel Bompard et le groupe LFI-NUPES, examinée le 30 novembre 2023 lors de la journée réservée à ce groupe. En commission des affaires économiques, les groupes de la majorité l'avaient largement réécrite, au point que le rapporteur avait refusé de voter son propre texte ; en séance, la gauche et le Rassemblement national ont rétabli l'encadrement des marges et le prix plancher, dans une version modifiée par le rapporteur qui excluait les petites et moyennes entreprises. Lors du vote sur l'ensemble, les groupes Renaissance, Démocrates et Horizons, rejoints par les quelques députés Les Républicains présents, l'ont rejeté par 168 voix contre 162 ; rejeté en première lecture, le texte n'a pas poursuivi son parcours. Au moment du vote, le SRP+10 venait d'être prolongé jusqu'au 15 avril 2025 par une loi de 2023.",
+  "sources": [
+    {
+      "label": "Open data de l'Assemblée nationale (archive des scrutins)",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/16/loi/scrutins/Scrutins.json.zip"
+    },
+    {
+      "label": "Le scrutin sur assemblee-nationale.fr",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3101"
+    },
+    {
+      "label": "Le dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/industrie_agroalimentaire_inflation"
+    },
+    {
+      "label": "Le texte déposé",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b1776_proposition-loi"
+    },
+    {
+      "label": "Document brut du texte (exposé des motifs et articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L16B1776.raw"
+    }
+  ]
+}

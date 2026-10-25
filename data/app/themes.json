@@ -1,0 +1,78 @@
+[
+  {
+    "id": "droits-des-femmes",
+    "label": "Droits des femmes"
+  },
+  {
+    "id": "enfance-jeunesse",
+    "label": "Enfance et jeunesse"
+  },
+  {
+    "id": "immigration",
+    "label": "Immigration"
+  },
+  {
+    "id": "violences-sexuelles",
+    "label": "Violences sexuelles et conjugales"
+  },
+  {
+    "id": "numerique",
+    "label": "Numérique et réseaux sociaux"
+  },
+  {
+    "id": "agriculture-alimentation",
+    "label": "Agriculture et alimentation"
+  },
+  {
+    "id": "fiscalite-budget",
+    "label": "Impôts et budget"
+  },
+  {
+    "id": "sante",
+    "label": "Santé"
+  },
+  {
+    "id": "travail-retraites",
+    "label": "Travail, retraites et pouvoir d'achat"
+  },
+  {
+    "id": "ecologie-energie",
+    "label": "Écologie et énergie"
+  },
+  {
+    "id": "securite-justice",
+    "label": "Sécurité et justice"
+  },
+  {
+    "id": "logement",
+    "label": "Logement"
+  },
+  {
+    "id": "institutions",
+    "label": "Institutions et démocratie"
+  },
+  {
+    "id": "europe-international",
+    "label": "Europe, défense et international"
+  },
+  {
+    "id": "education",
+    "label": "Éducation"
+  },
+  {
+    "id": "animaux",
+    "label": "Animaux"
+  },
+  {
+    "id": "transports",
+    "label": "Transports"
+  },
+  {
+    "id": "culture-medias",
+    "label": "Culture et médias"
+  },
+  {
+    "id": "outre-mer",
+    "label": "Outre-mer"
+  }
+]
