@@ -8,7 +8,8 @@ src/main.tsx          point d'entrée : réhydrate les réponses sauvegardées p
 src/app/App.tsx       la coquille : en-tête, routes, pied de page
 src/app/container.ts  le câblage : dépôts embarqués et store des réponses, instanciés une fois
 src/app/pages/        les pages du tunnel, qui composent les vues des modules :
-                      accueil → question (puis récap de la question) → résultats ; et la méthode
+                      accueil → question (puis récap de la question) → résultats ; la méthode ;
+                      et l'onglet des candidatures à la présidentielle
 src/app/styles.css    la feuille de style, mobile d'abord
 ```
 
@@ -23,6 +24,7 @@ src/modules/
   answers/      les réponses de l'utilisateur et sa progression : transitions pures, store, persistance locale
   scores/       l'accord avec chaque famille à partir des réponses et des votes, avec un niveau de confiance
   methodology/  la méthode de calcul et la provenance des données, pour les écrans de transparence
+  candidates/   les candidatures déclarées à la présidentielle et le lien vers leur programme
 ```
 
 ## Un module

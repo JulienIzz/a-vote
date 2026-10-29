@@ -1,6 +1,7 @@
 /** Câblage du site : les dépôts embarqués et le store des réponses, instanciés une fois. */
 import { createAnswersStore } from '#src/modules/answers/domain/store.ts';
 import { createKeyValuePersistence, webStorage } from '#src/modules/answers/infra/key-value-persistence.ts';
+import { candidateRepository } from '#src/modules/candidates/infra/data-source.ts';
 import { methodologyRepository } from '#src/modules/methodology/infra/data-source.ts';
 import { questionRepository } from '#src/modules/questions/infra/data-source.ts';
 import { voteRepository } from '#src/modules/votes/infra/data-source.ts';
@@ -17,4 +18,4 @@ export const INCLUDE_DRAFTS = false;
 const storage = webStorage();
 export const answersStore = createAnswersStore(storage ? { persistence: createKeyValuePersistence(storage) } : {});
 
-export { methodologyRepository, questionRepository, voteRepository };
+export { candidateRepository, methodologyRepository, questionRepository, voteRepository };

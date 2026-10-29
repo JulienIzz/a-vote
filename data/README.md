@@ -14,6 +14,7 @@ data/
     REDACTION.md    règles d'écriture des fiches
     agents/         consignes des sous-agents qui rédigent et relisent les fiches avec Claude
     METHODE.md      la méthode de calcul, affichée dans l'app
+    candidats.json  les candidatures à la présidentielle et leurs programmes, vérifiées à la main (onglet « Présidentielle 2027 »)
   app/        JSON compilés par `pnpm data build`, versionnés, importés par les modules de src/ (couche infra)
   cache/      tout ce qui se régénère, ignoré par git : archives open data, scrutins normalisés,
               pages du site, contextes, briefs, shortlist

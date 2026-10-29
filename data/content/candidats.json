@@ -1,0 +1,529 @@
+{
+  "$comment": "Candidatures à l'élection présidentielle, maintenues à la main. Une candidature n'entre que si son annonce est attestée par un article de presse ou un communiqué officiel (declaration). declaredAt reste null quand la source n'atteste pas la date. programme : seulement une page de programme ou de projet publiée sur un site officiel (campagne ou parti), jamais un article ; null sinon. website : site officiel de campagne, à défaut celui du parti, null si aucun. photo : portrait sous licence libre de Wikimedia Commons, recadré en carré de 320 px centré sur le visage (même cadrage pour tous) dans public/candidats/<id>.jpg, avec auteur, licence et page source à créditer ; null si aucun. L'app tire l'ordre au hasard à chaque visite : l'ordre de ce fichier n'a pas d'importance. Revérifier chaque lien et mettre à jour checkedAt à chaque passe.",
+  "election": "Élection présidentielle 2027",
+  "checkedAt": "2026-10-29",
+  "candidates": [
+    {
+      "id": "melenchon",
+      "firstName": "Jean-Luc",
+      "lastName": "Mélenchon",
+      "party": "La France insoumise",
+      "partyShort": "LFI",
+      "declaredAt": "2026-05-03",
+      "declaration": {
+        "label": "LCP",
+        "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851"
+      },
+      "note": null,
+      "programme": {
+        "label": "« L'Avenir en commun »",
+        "url": "https://melenchon2027.fr/programme/decouvrir/"
+      },
+      "website": "https://melenchon2027.fr/",
+      "photo": {
+        "src": "/candidats/melenchon.jpg",
+        "author": "jlm2017.fr",
+        "licence": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:M%C3%A9lenchon_2027_-_55262255527_(cropped_3-4).png"
+      }
+    },
+    {
+      "id": "glucksmann",
+      "firstName": "Raphaël",
+      "lastName": "Glucksmann",
+      "party": "Place publique",
+      "partyShort": null,
+      "declaredAt": "2026-10-11",
+      "declaration": {
+        "label": "Le Petit Journal",
+        "url": "https://lepetitjournal.com/expat-politique/actualites/presidentielle-glucksmann-designe-des-le-premier-tour-comme-le-candidat-de-la-gauche-sociale-455938"
+      },
+      "note": "Désigné par la primaire « Choisir 2027 » (PS, Place publique, GRS).",
+      "programme": null,
+      "website": "https://glucks2027.fr/",
+      "photo": {
+        "src": "/candidats/glucksmann.jpg",
+        "author": "European Union 2024 - Source : EP",
+        "licence": "Conditions du Parlement européen",
+        "source": "https://commons.wikimedia.org/wiki/File:1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg"
+      }
+    },
+    {
+      "id": "tondelier",
+      "firstName": "Marine",
+      "lastName": "Tondelier",
+      "party": "Les Écologistes",
+      "partyShort": null,
+      "declaredAt": null,
+      "declaration": {
+        "label": "Public Sénat",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice"
+      },
+      "note": null,
+      "programme": {
+        "label": "Livrets thématiques",
+        "url": "https://marinetondelier.fr/livrets-thematiques"
+      },
+      "website": "https://marinetondelier.fr/",
+      "photo": {
+        "src": "/candidats/tondelier.jpg",
+        "author": "Selbymay",
+        "licence": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Huma2023MarineTondelier.jpg"
+      }
+    },
+    {
+      "id": "roussel",
+      "firstName": "Fabien",
+      "lastName": "Roussel",
+      "party": "Parti communiste français",
+      "partyShort": "PCF",
+      "declaredAt": "2026-09-06",
+      "declaration": {
+        "label": "LCP",
+        "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389"
+      },
+      "note": null,
+      "programme": null,
+      "website": "https://www.fabienroussel2027.fr/",
+      "photo": {
+        "src": "/candidats/roussel.jpg",
+        "author": "Zouhair NAKARA",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg"
+      }
+    },
+    {
+      "id": "ruffin",
+      "firstName": "François",
+      "lastName": "Ruffin",
+      "party": "Debout !",
+      "partyShort": null,
+      "declaredAt": null,
+      "declaration": {
+        "label": "Lyon Capitale",
+        "url": "https://www.lyoncapitale.fr/actualite/a-lyon-francois-ruffin-passera-un-entretien-dembauche-pour-lelysee-le-25-avril"
+      },
+      "note": null,
+      "programme": {
+        "label": "Livrets de campagne",
+        "url": "https://nouspresident.fr/notre-programme/"
+      },
+      "website": "https://nouspresident.fr/",
+      "photo": {
+        "src": "/candidats/ruffin.jpg",
+        "author": "Thinkerview",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg"
+      }
+    },
+    {
+      "id": "attal",
+      "firstName": "Gabriel",
+      "lastName": "Attal",
+      "party": "Renaissance",
+      "partyShort": null,
+      "declaredAt": "2026-05-22",
+      "declaration": {
+        "label": "France 24",
+        "url": "https://www.france24.com/fr/france/20260522-pr%C3%A9sidentielle-2027-gabriel-attal-annonce-sa-candidature-dans-le-camp-macroniste"
+      },
+      "note": null,
+      "programme": {
+        "label": "« Chantiers capitaux », en cours de publication",
+        "url": "https://attalpresident.fr/programme"
+      },
+      "website": "https://attalpresident.fr/",
+      "photo": {
+        "src": "/candidats/attal.jpg",
+        "author": "Ismail Aissoub",
+        "licence": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg"
+      }
+    },
+    {
+      "id": "philippe",
+      "firstName": "Édouard",
+      "lastName": "Philippe",
+      "party": "Horizons",
+      "partyShort": null,
+      "declaredAt": "2024-09-03",
+      "declaration": {
+        "label": "France 3 Normandie",
+        "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/je-serai-candidat-a-la-prochaine-election-presidentielle-edouard-philippe-l-ancien-premier-ministre-et-maire-du-havre-officialise-sa-candidature-3026366.html"
+      },
+      "note": null,
+      "programme": {
+        "label": "Premières orientations, par priorité",
+        "url": "https://www.edouardphilippe.fr/#priorites"
+      },
+      "website": "https://www.edouardphilippe.fr/",
+      "photo": {
+        "src": "/candidats/philippe.jpg",
+        "author": "Jacques Paquier",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_2019_(cropped).jpg"
+      }
+    },
+    {
+      "id": "retailleau",
+      "firstName": "Bruno",
+      "lastName": "Retailleau",
+      "party": "Les Républicains",
+      "partyShort": "LR",
+      "declaredAt": "2026-04-19",
+      "declaration": {
+        "label": "LCP",
+        "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-choisi-comme-candidat-officiel-des-republicains-435440"
+      },
+      "note": "Désigné par un vote des adhérents des Républicains.",
+      "programme": {
+        "label": "Le projet, en cours de publication",
+        "url": "https://www.avecretailleau.fr/projet"
+      },
+      "website": "https://www.avecretailleau.fr/",
+      "photo": {
+        "src": "/candidats/retailleau.jpg",
+        "author": "Anthonymontardyfr",
+        "licence": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg"
+      }
+    },
+    {
+      "id": "lisnard",
+      "firstName": "David",
+      "lastName": "Lisnard",
+      "party": "Nouvelle Énergie",
+      "partyShort": null,
+      "declaredAt": "2026-03-31",
+      "declaration": {
+        "label": "LCP",
+        "url": "https://lcp.fr/actualites/je-suis-candidat-david-lisnard-quitte-lr-et-relance-le-debat-sur-une-primaire-a-droite"
+      },
+      "note": null,
+      "programme": {
+        "label": "Le programme pour 2027",
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/"
+      },
+      "website": "https://www.unenouvelleenergie.fr/",
+      "photo": {
+        "src": "/candidats/lisnard.jpg",
+        "author": "Grégor Sauvagère",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:David_Lisnard_en_2026.jpg"
+      }
+    },
+    {
+      "id": "le-pen",
+      "firstName": "Marine",
+      "lastName": "Le Pen",
+      "party": "Rassemblement national",
+      "partyShort": "RN",
+      "declaredAt": "2026-07-07",
+      "declaration": {
+        "label": "Martinique la 1ère",
+        "url": "https://la1ere.franceinfo.fr/martinique/marine-le-pen-est-candidate-a-l-election-presidentielle-de-2027-1717996.html"
+      },
+      "note": null,
+      "programme": null,
+      "website": "https://marinelepen.com/",
+      "photo": {
+        "src": "/candidats/le-pen.jpg",
+        "author": "Vox España",
+        "licence": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg"
+      }
+    },
+    {
+      "id": "dupont-aignan",
+      "firstName": "Nicolas",
+      "lastName": "Dupont-Aignan",
+      "party": "Debout la France",
+      "partyShort": "DLF",
+      "declaredAt": "2026-09-19",
+      "declaration": {
+        "label": "CNews",
+        "url": "https://www.cnews.fr/france/2026-09-19/presidentielle-2027-depuis-son-fief-de-yerres-nicolas-dupont-aignan-se-lance-dans"
+      },
+      "note": null,
+      "programme": {
+        "label": "Le projet du parti, en cours de mise à jour pour 2027",
+        "url": "https://www.debout-la-france.fr/notre-projet/"
+      },
+      "website": "https://www.dupontaignan.fr/",
+      "photo": {
+        "src": "/candidats/dupont-aignan.jpg",
+        "author": "Debout la France",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan,_homme_politique_fran%C3%A7ais.jpg"
+      }
+    },
+    {
+      "id": "arthaud",
+      "firstName": "Nathalie",
+      "lastName": "Arthaud",
+      "party": "Lutte ouvrière",
+      "partyShort": "LO",
+      "declaredAt": null,
+      "declaration": {
+        "label": "site de campagne",
+        "url": "https://www.nathalie-arthaud.info/"
+      },
+      "note": null,
+      "programme": null,
+      "website": "https://www.nathalie-arthaud.info/",
+      "photo": {
+        "src": "/candidats/arthaud.jpg",
+        "author": "Kokluts",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024.jpg"
+      }
+    },
+    {
+      "id": "polony",
+      "firstName": "Natacha",
+      "lastName": "Polony",
+      "party": "Nous sommes la France",
+      "partyShort": null,
+      "declaredAt": "2026-10-14",
+      "declaration": {
+        "label": "CNews",
+        "url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782"
+      },
+      "note": null,
+      "programme": {
+        "label": "« Douze chantiers »",
+        "url": "https://natachapolony2027.fr/projet"
+      },
+      "website": "https://natachapolony2027.fr/",
+      "photo": {
+        "src": "/candidats/polony.jpg",
+        "author": "Georges Biard",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Natacha_Polony_Cannes_2015.jpg"
+      }
+    },
+    {
+      "id": "becht",
+      "firstName": "Olivier",
+      "lastName": "Becht",
+      "party": "Sans étiquette",
+      "partyShort": null,
+      "declaredAt": "2026-09-24",
+      "declaration": {
+        "label": "Sud Radio",
+        "url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee"
+      },
+      "note": null,
+      "programme": null,
+      "website": null,
+      "photo": {
+        "src": "/candidats/becht.jpg",
+        "author": "Werner STEINKE",
+        "licence": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Olivier_BECHT.jpg"
+      }
+    },
+    {
+      "id": "bouamrane",
+      "firstName": "Karim",
+      "lastName": "Bouamrane",
+      "party": "La France humaine et forte",
+      "partyShort": null,
+      "declaredAt": "2026-06-09",
+      "declaration": {
+        "label": "LCP",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-qui-est-karim-bouamrane-le-maire-socialiste-de-saint-ouen-et-nouveau"
+      },
+      "note": "Membre du Parti socialiste.",
+      "programme": null,
+      "website": null,
+      "photo": {
+        "src": "/candidats/bouamrane.jpg",
+        "author": "Oumma",
+        "licence": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Karim_Bouamrane_en_2026.jpg"
+      }
+    },
+    {
+      "id": "batho",
+      "firstName": "Delphine",
+      "lastName": "Batho",
+      "party": "Génération écologie",
+      "partyShort": null,
+      "declaredAt": "2025-11-26",
+      "declaration": {
+        "label": "Génération écologie",
+        "url": "https://www.generationecologie.fr/2025/11/26/je-suis-candidate-a-lelection-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner/"
+      },
+      "note": null,
+      "programme": null,
+      "website": "https://www.generationecologie.fr/",
+      "photo": {
+        "src": "/candidats/batho.jpg",
+        "author": "DeuxSevres79",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Delphine_Batho_(cropped).png"
+      }
+    },
+    {
+      "id": "asselineau",
+      "firstName": "François",
+      "lastName": "Asselineau",
+      "party": "Union populaire républicaine",
+      "partyShort": "UPR",
+      "declaredAt": "2026-03-22",
+      "declaration": {
+        "label": "UPR",
+        "url": "https://upr.fr/militantisme/19-ans-de-lupr-francois-asselineau-lance-sa-campagne-presidentielle-2027-et-nomme-marc-parigot-directeur-de-campagne/"
+      },
+      "note": null,
+      "programme": null,
+      "website": "https://upr.fr/",
+      "photo": {
+        "src": "/candidats/asselineau.jpg",
+        "author": "Union Populaire Républicaine",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_ASSELINEAU.jpg"
+      }
+    },
+    {
+      "id": "philippot",
+      "firstName": "Florian",
+      "lastName": "Philippot",
+      "party": "Les Patriotes",
+      "partyShort": null,
+      "declaredAt": "2026-05-09",
+      "declaration": {
+        "label": "Sud Radio",
+        "url": "https://www.sudradio.fr/politique/je-suis-candidat-florian-philippot-se-lance-pour-la-presidentielle-de-2027"
+      },
+      "note": null,
+      "programme": null,
+      "website": "https://les-patriotes.fr/",
+      "photo": {
+        "src": "/candidats/philippot.jpg",
+        "author": "Films et documetnaires",
+        "licence": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Florian_Philippot.jpg"
+      }
+    },
+    {
+      "id": "kazib",
+      "firstName": "Anasse",
+      "lastName": "Kazib",
+      "party": "Révolution permanente",
+      "partyShort": null,
+      "declaredAt": null,
+      "declaration": {
+        "label": "Révolution permanente",
+        "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027"
+      },
+      "note": null,
+      "programme": null,
+      "website": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027",
+      "photo": {
+        "src": "/candidats/kazib.jpg",
+        "author": "PabloMorao27",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Anasse_Kazib,_d%C3%A9cembre_2021.jpg"
+      }
+    },
+    {
+      "id": "labib",
+      "firstName": "Selma",
+      "lastName": "Labib",
+      "party": "NPA-Révolutionnaires",
+      "partyShort": null,
+      "declaredAt": null,
+      "declaration": {
+        "label": "NPA-Révolutionnaires",
+        "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante"
+      },
+      "note": null,
+      "programme": null,
+      "website": "https://npa-revolutionnaires.org/campagnes-presidentielles",
+      "photo": null
+    },
+    {
+      "id": "markovic",
+      "firstName": "Mira",
+      "lastName": "Markovic",
+      "party": "Parti animaliste",
+      "partyShort": null,
+      "declaredAt": "2026-10-02",
+      "declaration": {
+        "label": "Parti animaliste",
+        "url": "https://parti-animaliste.fr/news/communique-de-presse/mira-markovic-representera-le-parti-animaliste-a-la-presidentielle"
+      },
+      "note": null,
+      "programme": null,
+      "website": "https://parti-animaliste.fr/mira-markovic-2027",
+      "photo": null
+    },
+    {
+      "id": "mikolajczak",
+      "firstName": "Antoine",
+      "lastName": "Mikolajczak",
+      "party": "Équinoxe",
+      "partyShort": null,
+      "declaredAt": null,
+      "declaration": {
+        "label": "Équinoxe",
+        "url": "https://parti-equinoxe.fr/presidentielle-2027/"
+      },
+      "note": "Désigné par un vote des adhérents d'Équinoxe.",
+      "programme": null,
+      "website": "https://parti-equinoxe.fr/presidentielle-2027/",
+      "photo": null
+    },
+    {
+      "id": "platret",
+      "firstName": "Gilles",
+      "lastName": "Platret",
+      "party": "Divers droite",
+      "partyShort": null,
+      "declaredAt": "2026-10-08",
+      "declaration": {
+        "label": "Lyon Capitale",
+        "url": "https://www.lyoncapitale.fr/?p=521848"
+      },
+      "note": null,
+      "programme": null,
+      "website": null,
+      "photo": {
+        "src": "/candidats/platret.jpg",
+        "author": "Jérémy Viger",
+        "licence": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:GPlatret.jpg"
+      }
+    },
+    {
+      "id": "zemmour",
+      "firstName": "Éric",
+      "lastName": "Zemmour",
+      "party": "Reconquête",
+      "partyShort": null,
+      "declaredAt": "2026-09-17",
+      "declaration": {
+        "label": "LCP",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871"
+      },
+      "note": null,
+      "programme": null,
+      "website": "https://www.parti-reconquete.fr/",
+      "photo": {
+        "src": "/candidats/zemmour.jpg",
+        "author": "Anh De France",
+        "licence": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Portrait_d%27%C3%89ric_Zemmour,_avril_2022.jpg"
+      }
+    }
+  ],
+  "pending": [
+    "Les Écologistes : les adhérents votent du 10 au 13 décembre 2026 pour maintenir la candidature de Marine Tondelier ou se rallier à une autre candidature de gauche.",
+    "Droite et centre : aucune primaire n'est organisée à ce jour ; l'idée reste débattue entre plusieurs candidats.",
+    "Xavier Bertrand (Nous France), Bernard Cazeneuve (La Convention) et Dominique de Villepin (La France humaniste) ont dit vouloir se présenter, sans avoir officialisé de candidature.",
+    "D'autres personnes ont annoncé leur candidature sans que nous ayons pu la vérifier auprès d'une source fiable ; elles seront ajoutées une fois vérifiées."
+  ]
+}

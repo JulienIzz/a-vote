@@ -14,6 +14,7 @@ export const FAMILIES_FILE = path.join(CONTENT_DIR, 'families.json');
 export const THEMES_FILE = path.join(CONTENT_DIR, 'themes.json');
 export const SELECTION_FILE = path.join(CONTENT_DIR, 'selection.json');
 export const METHODE_FILE = path.join(CONTENT_DIR, 'METHODE.md');
+export const CANDIDATS_FILE = path.join(CONTENT_DIR, 'candidats.json');
 export const FICHES_DIR = path.join(CONTENT_DIR, 'fiches');
 
 /** Compilé par `pnpm data build`, versionné, importé par l'app. */

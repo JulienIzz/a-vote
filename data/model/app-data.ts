@@ -83,3 +83,52 @@ export interface AppMethode {
   title: string;
   markdown: string;
 }
+
+/** Un lien cité par l'app : un libellé lisible et l'URL. */
+export interface AppLink {
+  label: string;
+  url: string;
+}
+
+/** Une candidature déclarée à l'élection présidentielle, telle que maintenue dans data/content/candidats.json. */
+export interface AppCandidate {
+  id: string;
+  firstName: string;
+  lastName: string;
+  /** Parti ou mouvement qui porte la candidature, nom officiel. */
+  party: string;
+  /** Sigle du parti, null s'il n'en a pas. */
+  partyShort: string | null;
+  /** Date ISO (AAAA-MM-JJ) de l'annonce ou de la désignation, null si la source ne l'atteste pas. */
+  declaredAt: string | null;
+  /** Article ou déclaration officielle qui atteste la candidature. */
+  declaration: AppLink;
+  /** Une précision factuelle d'une phrase (désignation par une primaire…), null sinon. */
+  note: string | null;
+  /** Le programme publié, null tant qu'il ne l'est pas. */
+  programme: AppLink | null;
+  /** Site officiel de campagne ou du parti, null si aucun n'a été trouvé. */
+  website: string | null;
+  /** Portrait sous licence libre, null si aucun n'a été trouvé. */
+  photo: AppPhoto | null;
+}
+
+/** Un portrait recadré, servi depuis public/, et ce qu'il faut créditer. */
+export interface AppPhoto {
+  /** Chemin servi par le site : « /candidats/<id>.jpg ». */
+  src: string;
+  author: string;
+  licence: string;
+  /** Page de l'image sur Wikimedia Commons. */
+  source: string;
+}
+
+export interface AppCandidates {
+  /** Intitulé du scrutin : « Élection présidentielle 2027 ». */
+  election: string;
+  /** Date ISO de la dernière vérification de la liste. */
+  checkedAt: string;
+  candidates: AppCandidate[];
+  /** Désignations encore en cours (primaires…), une phrase chacune. */
+  pending: string[];
+}

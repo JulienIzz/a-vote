@@ -1,5 +1,5 @@
 import { lazy, Suspense } from 'react';
-import { Link, Route, Routes } from 'react-router';
+import { Link, NavLink, Route, Routes } from 'react-router';
 import { Logo } from '#src/app/Logo.tsx';
 import { MethodologyButton, MethodologyDialogProvider } from '#src/app/MethodologyDialog.tsx';
 import { HomePage } from '#src/app/pages/HomePage.tsx';
@@ -7,6 +7,10 @@ import { QuestionPage } from '#src/app/pages/QuestionPage.tsx';
 
 // Les résultats arrivent en fin de parcours : leur code se charge à part.
 const ResultsPage = lazy(() => import('#src/app/pages/ResultsPage.tsx').then((m) => ({ default: m.ResultsPage })));
+// Les candidatures à la présidentielle sont un onglet à part du parcours : leur code aussi.
+const CandidatesPage = lazy(() =>
+  import('#src/app/pages/CandidatesPage.tsx').then((m) => ({ default: m.CandidatesPage })),
+);
 
 export function App() {
   return (
@@ -16,9 +20,14 @@ export function App() {
           <Link to="/" className="brand" aria-label="A voté, accueil">
             <Logo />
           </Link>
-          <MethodologyButton className="topbar__help">
-            <QuestionMarkIcon /> Comment ça marche ?
-          </MethodologyButton>
+          <nav className="topbar__nav" aria-label="Navigation principale">
+            <NavLink to="/candidats" className="topbar__tab">
+              Présidentielle 2027
+            </NavLink>
+            <MethodologyButton className="topbar__help">
+              <QuestionMarkIcon /> <span className="topbar__help-label">Comment ça marche ?</span>
+            </MethodologyButton>
+          </nav>
         </header>
         <div className="tricolore" aria-hidden="true" />
         <main className="main">
@@ -30,6 +39,14 @@ export function App() {
               element={
                 <Suspense fallback={null}>
                   <ResultsPage />
+                </Suspense>
+              }
+            />
+            <Route
+              path="/candidats"
+              element={
+                <Suspense fallback={null}>
+                  <CandidatesPage />
                 </Suspense>
               }
             />

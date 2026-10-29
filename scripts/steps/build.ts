@@ -7,6 +7,7 @@
 import { mkdir, readFile, rm } from 'node:fs/promises';
 import path from 'node:path';
 import type {
+  AppCandidates,
   AppDataset,
   AppFamily,
   AppMethode,
@@ -24,6 +25,7 @@ import { exists, readJson, rel, writeJson } from '#scripts/fs.ts';
 import {
   APP_DIR,
   APP_FICHES_DIR,
+  CANDIDATS_FILE,
   LEGISLATURES,
   MANIFEST_FILE,
   METHODE_FILE,
@@ -84,8 +86,9 @@ export async function runBuild(options: BuildOptions): Promise<void> {
   await writeJson(path.join(APP_DIR, 'themes.json'), themes);
   await writeJson(path.join(APP_DIR, 'methode.json'), await buildMethode());
   await writeJson(path.join(APP_DIR, 'sources.json'), await buildSources());
+  await writeJson(path.join(APP_DIR, 'candidats.json'), await buildCandidats());
   console.log(
-    `${questions.length} question(s) embarquée(s) → ${rel(APP_DIR)}/questions.json + fiches/ (+ families, themes, methode, sources)`,
+    `${questions.length} question(s) embarquée(s) → ${rel(APP_DIR)}/questions.json + fiches/ (+ families, themes, methode, sources, candidats)`,
   );
   const labels: Record<string, string> = {
     incomplete: 'incomplète(s), laissée(s) de côté',
@@ -96,6 +99,12 @@ export async function runBuild(options: BuildOptions): Promise<void> {
   };
   for (const [reason, files] of rejected)
     console.log(`${files.length} fiche(s) ${labels[reason] ?? reason} : ${files.join(', ')}`);
+}
+
+/** Les candidatures à la présidentielle, recopiées sans le commentaire de data/content/candidats.json. */
+async function buildCandidats(): Promise<AppCandidates> {
+  const { election, checkedAt, candidates, pending } = await readJson<AppCandidates>(CANDIDATS_FILE);
+  return { election, checkedAt, candidates, pending };
 }
 
 /** La méthode de calcul affichée dans l'app, depuis data/content/METHODE.md. */
