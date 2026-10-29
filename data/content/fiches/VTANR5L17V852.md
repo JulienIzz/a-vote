@@ -75,7 +75,7 @@ Scrutin du 2025-02-20, adopté : 231 pour, 51 contre, 7 abstentions.
 
 ## À vérifier avant publication
 
-- Consigne de sélection : Ajout Claude · interdiction des PFAS (polluants éternels) : RN seul contre
+- Consigne de sélection : interdiction des PFAS (polluants éternels) : RN seul contre
 - Sens du vote : répondre « oui » à la question revient à voter pour le texte (sens « pour »). Vérifier la cohérence avec le tableau : toutes les familles pour, sauf le RN contre et l'UDR qui s'abstient.
 - Les mesures ont été prises dans le texte adopté en deuxième lecture (T.A. n° 57, https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0057.html), car le brief ne contient que le texte initial n° 2229, très différent (interdiction générale en 2027, redevance de 1 000 euros par kilogramme). Relire chaque mesure face au texte adopté et envisager d'ajouter ce lien aux sources.
 - Arguments « Contre » : tirés du compte rendu de la séance du 20 février 2025 (explication de vote d'Emeric Salmon pour le RN ; intervention d'Éric Michoux pour l'UDR en discussion générale, lue via un résumé automatique et non dans le texte intégral). Vérifier les citations dans le compte rendu et, si besoin, les compléter avec le rapport de la commission n° 929.

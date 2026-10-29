@@ -74,7 +74,7 @@ Scrutin du 2025-03-12, adopté : 288 pour, 54 contre, 132 abstentions.
 
 ## À vérifier avant publication
 
-- Consigne de sélection : Ajout Claude · soutien à l'Ukraine : LFI contre, RN et UDR abstention
+- Consigne de sélection : soutien à l'Ukraine : LFI contre, RN et UDR abstention
 - Sens du vote : répondre « oui » à la question revient à voter pour la résolution (sens « pour ») : Ensemble pour la République, Les Démocrates, Horizons, Droite républicaine, Socialistes, Écologistes et LIOT, qui ont voté pour, répondraient « oui ». La résolution contient des mesures plus précises que la question (adhésion à l'Union européenne, saisie des avoirs russes, garanties de sécurité, troupes de maintien de la paix) : un « oui » à la question n'équivaut pas à approuver chacune.
 - Lecture du tableau : les abstentions du Rassemblement national et de l'Union des droites pour la République sont des abstentions motivées (soutien affiché à l'Ukraine, refus de mesures précises) et non des oppositions au soutien à l'Ukraine ; le signaler si l'app ne distingue pas abstention et opposition. La Gauche démocrate et républicaine (9 contre, 3 abstentions) et La France insoumise ont voté contre en disant soutenir le peuple ukrainien mais refuser les moyens retenus.
 - Les mesures sont celles du texte adopté (T.A. n° 70, lu via l'open data de l'Assemblée) et non celles du texte déposé reproduit dans le brief. Le texte voté résulte des travaux des deux commissions et d'amendements adoptés en séance : le détail des amendements adoptés (avoirs russes, accueil des Russes persécutés, condamnation du président américain, forces de maintien de la paix) n'a pas été relu.
