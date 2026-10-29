@@ -50,7 +50,9 @@
       "uid": "VTANR5L17V7408"
     },
     {
-      "uid": "VTANR5L17V1624"
+      "uid": "VTANR5L17V1624",
+      "allowSameDossier": true,
+      "note": "Même dossier que VTANR5L17V805, gardé exprès : le texte final porte sur la sanction des parents, la 1re lecture sur la peine des mineurs"
     },
     {
       "uid": "VTANR5L17V7259"
@@ -60,9 +62,6 @@
     },
     {
       "uid": "VTANR5L16V897"
-    },
-    {
-      "uid": "VTANR5L17V788"
     },
     {
       "uid": "VTANR5L17V242"
@@ -80,10 +79,9 @@
       "uid": "VTANR5L17V2460"
     },
     {
-      "uid": "VTANR5L17V805"
-    },
-    {
-      "uid": "VTANR5L16V3546"
+      "uid": "VTANR5L17V805",
+      "allowSameDossier": true,
+      "note": "Même dossier que VTANR5L17V1624, gardé exprès : la 1re lecture porte sur la peine des mineurs récidivistes, le texte final sur la sanction des parents"
     },
     {
       "uid": "VTANR5L17V3273"
@@ -131,9 +129,6 @@
       "uid": "VTANR5L16V3206"
     },
     {
-      "uid": "VTANR5L17V1202"
-    },
-    {
       "uid": "VTANR5L17V8609"
     },
     {
@@ -162,9 +157,6 @@
     },
     {
       "uid": "VTANR5L17V4754"
-    },
-    {
-      "uid": "VTANR5L17V589"
     },
     {
       "uid": "VTANR5L17V657"
@@ -220,9 +212,6 @@
     },
     {
       "uid": "VTANR5L17V5845"
-    },
-    {
-      "uid": "VTANR5L16V3289"
     },
     {
       "uid": "VTCGR5L16V1"
@@ -321,5 +310,11 @@
       "note": "Ajout Claude · solution à deux États et condamnation d'Israël : très clivant, y compris au sein de la gauche ; formulation à soigner"
     }
   ],
-  "rejected": []
+  "rejected": [
+    "VTANR5L17V788",
+    "VTANR5L17V1202",
+    "VTANR5L16V3546",
+    "VTANR5L16V3289",
+    "VTANR5L17V589"
+  ]
 }
