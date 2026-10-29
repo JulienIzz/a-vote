@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["travail-retraites", "agriculture-alimentation"]
 resultat: "adopte"
 votants: 86
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/455"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/prolongation_derogation_usage_titres_restaurant"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0532_proposition-loi"

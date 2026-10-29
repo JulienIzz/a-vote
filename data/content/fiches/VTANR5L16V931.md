@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["education"]
 resultat: "rejete"
 votants: 371
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/16/scrutins/931"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/16/dossiers/assurer_repas_uneuro_etudiants"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0659_proposition-loi"

@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["droits-des-femmes", "violences-sexuelles", "securite-justice"]
 resultat: "adopte"
 votants: 221
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/657"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_lutte_contre_violences_faites_femmes_enfants"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0669_proposition-loi"

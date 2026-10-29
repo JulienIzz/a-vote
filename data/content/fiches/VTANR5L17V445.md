@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["fiscalite-budget"]
 resultat: "rejete"
 votants: 204
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/445"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/plffg2024"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0538_projet-loi"

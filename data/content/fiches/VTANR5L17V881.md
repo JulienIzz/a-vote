@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["fiscalite-budget"]
 resultat: "adopte"
 votants: 186
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/881"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/impot_plancher_2_pour_cent_patrimoine_ultra_riches"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0768_proposition-loi"

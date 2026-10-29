@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["sante", "travail-retraites"]
 resultat: "adopte"
 votants: 211
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/600"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46650"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0813_proposition-loi"

@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["droits-des-femmes", "institutions"]
 resultat: "adopte"
 votants: 902
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/16/scrutins/c1"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/16/dossiers/liberte_interruption_grossesse"
 texte_url: null

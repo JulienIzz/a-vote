@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["agriculture-alimentation", "ecologie-energie"]
 resultat: "adopte"
 votants: 531
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/844"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/souverainete_agricole_renouvellement_generations"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b2436_projet-loi"

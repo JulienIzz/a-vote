@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["culture-medias", "fiscalite-budget"]
 resultat: "adopte"
 votants: 189
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/451"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50168"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0482_proposition-loi"

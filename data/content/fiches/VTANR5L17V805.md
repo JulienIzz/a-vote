@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["enfance-jeunesse", "securite-justice"]
 resultat: "adopte"
 votants: 183
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/805"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/restaurer_autorite_justice_mineurs_delinquants_et_parents"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0448_proposition-loi"

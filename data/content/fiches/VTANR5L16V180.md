@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["fiscalite-budget", "travail-retraites", "culture-medias"]
 resultat: "adopte"
 votants: 455
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/16/scrutins/180"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/16/dossiers/loi_finances_rectificative_2022"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0017_projet-loi"

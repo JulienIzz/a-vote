@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["agriculture-alimentation"]
 resultat: "adopte"
 votants: 210
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/959"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/disparition_terres_agricoles_renforcer_regulation_prix_foncier_agricole"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0805_proposition-loi"

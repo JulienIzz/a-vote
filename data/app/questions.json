@@ -12,7 +12,7 @@
       "securite-justice",
       "sante"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte rassemble en une seule loi, très longue, des mesures contre les violences sexuelles, sexistes et intrafamiliales : enquêtes et justice spécialisées, nouvelles infractions, protection des enfants, droits des victimes au travail et à la santé, et un engagement de 3 milliards d'euros par an de 2027 à 2032, que seules les lois de finances peuvent traduire en crédits.",
     "officialTitle": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
     "result": "adopte",
@@ -117,7 +117,7 @@
       "violences-sexuelles",
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette proposition de loi organique inscrit dans le statut des magistrats un juge et un procureur adjoint spécialisés dans les violences sexuelles et intrafamiliales, et rend leur formation obligatoire ; elle complète la proposition de loi « intégrale » votée le même jour, qui crée les juridictions où ils siégeront.",
     "officialTitle": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
     "result": "adopte",
@@ -223,7 +223,7 @@
       "ecologie-energie",
       "sante"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette proposition de résolution invite le gouvernement à mettre en œuvre sans délai tous les moyens de l'État pour que chaque habitant des territoires ultramarins ait accès à l'eau potable, au besoin en suppléant les collectivités locales. Elle a été rejetée le 8 octobre 2026 par 160 voix contre 156 ; adoptée, elle n'aurait de toute façon créé aucune obligation.",
     "officialTitle": "la proposition de résolution visant à garantir un accès continu à l'eau potable dans les territoires ultramarins (article 34-1 de la Constitution).",
     "result": "rejete",
@@ -328,7 +328,7 @@
       "immigration",
       "europe-international"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette résolution, qui n'a pas de force contraignante, invite le Gouvernement à soutenir au niveau européen une révision des règles de Schengen pour instaurer une « double frontière » : une frontière extérieure européenne renforcée et une frontière nationale, où les personnes venues de pays hors Union européenne (« ressortissants de pays tiers ») pourraient être vérifiées en passant d'un pays de l'espace Schengen à l'autre.",
     "officialTitle": "la proposition de résolution visant à refonder l'espace Schengen en instaurant une double frontière nationale et européenne (article 34-1 de la Constitution).",
     "result": "rejete",
@@ -434,7 +434,7 @@
       "securite-justice",
       "violences-sexuelles"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce projet de loi du gouvernement réforme la protection des enfants confiés à l'aide sociale à l'enfance (placements, accueil par des proches ou des familles d'accueil) et étend à tous les secteurs le contrôle de l'honorabilité des personnes en contact avec des mineurs, avec de nouvelles règles pénales sur les crimes commis contre eux.",
     "officialTitle": "l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
     "result": "adopte",
@@ -539,7 +539,7 @@
       "enfance-jeunesse",
       "numerique"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte interdit aux mineurs de moins de 15 ans l'accès aux réseaux sociaux à partir du 1er septembre 2026 et étend aux lycées l'interdiction du téléphone portable déjà en vigueur à l'école et au collège.",
     "officialTitle": "l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -644,7 +644,7 @@
       "securite-justice",
       "numerique"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte, surnommé « Ripost » par ses rapporteurs, réunit une soixantaine de mesures de sécurité du quotidien : il alourdit les peines pour les rodéos motorisés, l'organisation de rave-parties et le détournement des mortiers d'artifice, étend les amendes forfaitaires, durcit la lutte contre les stupéfiants et le protoxyde d'azote, et prolonge jusqu'à fin 2030 l'analyse automatisée des images de vidéoprotection ainsi que plusieurs dispositifs de surveillance.",
     "officialTitle": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -748,7 +748,7 @@
     "themes": [
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte du gouvernement modifie la procédure des procès criminels, de la détention provisoire et des nullités de procédure dans le but de réduire les délais de jugement, et ajoute quelques droits pour les victimes.",
     "officialTitle": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -852,7 +852,7 @@
     "themes": [
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte fait présumer, sauf preuve contraire, qu'un policier ou un gendarme qui a fait usage de son arme l'a fait dans l'un des cas autorisés par la loi, avec pour effet principal de lui éviter une mise en cause automatique, comme une garde à vue, après un tir.",
     "officialTitle": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
     "result": "adopte",
@@ -957,7 +957,7 @@
       "europe-international",
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette loi d'actualisation de la programmation militaire 2024-2030 ajoute 36 milliards d'euros de ressources aux armées entre 2026 et 2030 et complète le droit de la défense : stocks et production, état d'alerte de sécurité nationale, renseignement algorithmique, service national militaire fondé sur le volontariat, réserves.",
     "officialTitle": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -1061,7 +1061,7 @@
     "themes": [
       "institutions"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte ajoute à la Constitution un article 72-5 qui donne à la Corse « un statut d'autonomie au sein de la République » et permet à la Collectivité de Corse, si une loi organique l'y habilite, d'adapter des lois et règlements à ses spécificités ou de fixer elle-même les règles dans ses domaines de compétence.",
     "officialTitle": "l'ensemble du projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture).",
     "result": "adopte",
@@ -1165,7 +1165,7 @@
     "themes": [
       "logement"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte donne aux employeurs publics de nouveaux moyens pour loger leurs agents (réservations de logements sociaux plus larges, bail pouvant prendre fin avec l'emploi, dérogations d'urbanisme), mais permet aussi de mettre fin au bail d'un agent logé en logement social quand il quitte l'emploi qui justifiait ce logement.",
     "officialTitle": "l'ensemble de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -1269,7 +1269,7 @@
     "themes": [
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte remplace le régime des concessions des grands barrages hydroélectriques (plus de 4 500 kilowatts) par un régime d'autorisation : les exploitants actuels, d'abord EDF, reçoivent pour soixante-dix ans un droit d'exploiter les ouvrages sans appel d'offres, les barrages restant la propriété de l'État, et EDF doit en contrepartie mettre aux enchères une part de la production hydraulique au profit d'autres acteurs.",
     "officialTitle": "l'ensemble de la proposition de loi visant à relancer les investissements dans le secteur de l'hydroélectricité pour contribuer à la transition énergétique (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -1365,6 +1365,112 @@
     ]
   },
   {
+    "uid": "VTANR5L17V7405",
+    "legislature": 17,
+    "date": "2026-06-16",
+    "question": "Faut-il autoriser un examen psychiatrique imposé par le préfet et une rétention jusqu'à 540 jours pour les étrangers jugés menaçants ?",
+    "sens": "pour",
+    "themes": [
+      "securite-justice",
+      "sante",
+      "immigration"
+    ],
+    "statut": "publiee",
+    "summary": "Ce vote porte sur l'ensemble du texte, qui a deux volets principaux. Le premier concerne la lutte contre le terrorisme : le préfet peut imposer un examen psychiatrique à une personne dont le comportement est une menace grave et peut être lié à des troubles mentaux. Le second concerne la rétention administrative, c'est-à-dire le placement d'un étranger dans un centre en attendant son expulsion : elle peut durer jusqu'à 210 jours d'affilée pour certains étrangers jugés menaçants pour l'ordre public, et jusqu'à 540 jours au total en cas de nouveaux placements. Ce plafond cumulé ne figurait pas dans la loi de 2025 sur la rétention des étrangers condamnés.",
+    "officialTitle": "l'ensemble de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (texte de la commission mixte paritaire).",
+    "result": "adopte",
+    "totals": {
+      "pour": 345,
+      "contre": 177,
+      "abstention": 11,
+      "votants": 533
+    },
+    "urls": {
+      "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retention_admin_prevention_attentats_17e",
+      "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2180_proposition-loi"
+    },
+    "votes": [
+      {
+        "familyId": "lfi",
+        "pour": 0,
+        "contre": 67,
+        "abstention": 0,
+        "members": 71
+      },
+      {
+        "familyId": "gdr",
+        "pour": 0,
+        "contre": 12,
+        "abstention": 1,
+        "members": 17
+      },
+      {
+        "familyId": "eco",
+        "pour": 0,
+        "contre": 35,
+        "abstention": 0,
+        "members": 38
+      },
+      {
+        "familyId": "soc",
+        "pour": 0,
+        "contre": 62,
+        "abstention": 0,
+        "members": 68
+      },
+      {
+        "familyId": "liot",
+        "pour": 12,
+        "contre": 0,
+        "abstention": 9,
+        "members": 23
+      },
+      {
+        "familyId": "dem",
+        "pour": 26,
+        "contre": 0,
+        "abstention": 1,
+        "members": 37
+      },
+      {
+        "familyId": "epr",
+        "pour": 86,
+        "contre": 0,
+        "abstention": 0,
+        "members": 91
+      },
+      {
+        "familyId": "hor",
+        "pour": 33,
+        "contre": 0,
+        "abstention": 0,
+        "members": 35
+      },
+      {
+        "familyId": "lr",
+        "pour": 47,
+        "contre": 0,
+        "abstention": 0,
+        "members": 48
+      },
+      {
+        "familyId": "udr",
+        "pour": 17,
+        "contre": 0,
+        "abstention": 0,
+        "members": 17
+      },
+      {
+        "familyId": "rn",
+        "pour": 117,
+        "contre": 0,
+        "abstention": 0,
+        "members": 122
+      }
+    ]
+  },
+  {
     "uid": "VTANR5L17V7380",
     "legislature": 17,
     "date": "2026-06-11",
@@ -1373,7 +1479,7 @@
     "themes": [
       "travail-retraites"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte fait passer ArcelorMittal France, qui regroupe les activités du sidérurgiste en France, sous le contrôle de l'État : celui-ci rachète la totalité de ses actions à un prix fixé par une commission administrative.",
     "officialTitle": "l'ensemble de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France (deuxième lecture).",
     "result": "adopte",
@@ -1479,7 +1585,7 @@
       "ecologie-energie",
       "sante"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte précise que l'interdiction des contenants en plastique dans la restauration collective des cantines, des crèches et de certains services de santé, en vigueur depuis le 1er janvier 2025, vise aussi les gobelets, les assiettes, les récipients et les couverts.",
     "officialTitle": "l'ensemble de la proposition de loi visant à garantir l'interdiction de la vaisselle en plastique dans la restauration collective accueillant du jeune public et liée à la petite enfance (première lecture).",
     "result": "adopte",
@@ -1585,7 +1691,7 @@
       "sante",
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte interdit d'importer, de vendre et d'utiliser en France les engrais phosphatés contenant plus de 40 milligrammes de cadmium par kilogramme d'anhydride phosphorique à partir du 1er janvier 2027, puis plus de 20 milligrammes à partir du 1er janvier 2030.",
     "officialTitle": "l'ensemble de la proposition de loi visant à protéger l'alimentation des Français et des Françaises des contaminations au cadmium (première lecture).",
     "result": "adopte",
@@ -1690,7 +1796,7 @@
       "agriculture-alimentation",
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce projet de loi du gouvernement réunit des mesures d'urgence pour l'agriculture : il facilite le stockage de l'eau pour les agriculteurs, modifie les règles de tir du loup pour défendre les troupeaux (encadrement des prélèvements, tirs de défense présumés légitimes),  les tirs de loups pour défendre les troupeaux, interdit l'importation de denrées produites avec des substances interdites en France et prévoit des garanties de prix pour les producteurs, ainsi que des peines renforcées pour les vols et dégradations dans les exploitations et un encadrement des recours jugés abusifs.",
     "officialTitle": "l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (première lecture).",
     "result": "adopte",
@@ -1794,7 +1900,7 @@
     "themes": [
       "logement"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte modifie trois dispositifs existants pour remettre des logements anciens sur le marché : il assouplit l'avantage fiscal accordé aux bailleurs privés qui rénovent et louent à loyer modéré, il facilite le regroupement d'artisans sur les chantiers de rénovation et il simplifie les prêts collectifs des copropriétés.",
     "officialTitle": "l'ensemble de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
     "result": "adopte",
@@ -1890,6 +1996,111 @@
     ]
   },
   {
+    "uid": "VTANR5L17V6753",
+    "legislature": 17,
+    "date": "2026-05-20",
+    "question": "Faut-il que les personnes nées en Nouvelle-Calédonie puissent voter aux élections provinciales, même sans accord global ?",
+    "sens": "pour",
+    "themes": [
+      "institutions",
+      "outre-mer"
+    ],
+    "statut": "publiee",
+    "summary": "Ce texte inscrit d'office sur la liste des électeurs des élections provinciales de Nouvelle-Calédonie, qui désignent le congrès et les trois assemblées de province du territoire, les personnes nées sur place que le « gel » du corps électoral en excluait, soit environ 10 500 personnes.",
+    "officialTitle": "l'ensemble de la proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie (première lecture).",
+    "result": "adopte",
+    "totals": {
+      "pour": 386,
+      "contre": 127,
+      "abstention": 3,
+      "votants": 516
+    },
+    "urls": {
+      "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52104",
+      "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2804_proposition-loi"
+    },
+    "votes": [
+      {
+        "familyId": "lfi",
+        "pour": 0,
+        "contre": 71,
+        "abstention": 0,
+        "members": 71
+      },
+      {
+        "familyId": "gdr",
+        "pour": 0,
+        "contre": 17,
+        "abstention": 0,
+        "members": 17
+      },
+      {
+        "familyId": "eco",
+        "pour": 0,
+        "contre": 31,
+        "abstention": 1,
+        "members": 38
+      },
+      {
+        "familyId": "soc",
+        "pour": 47,
+        "contre": 3,
+        "abstention": 2,
+        "members": 68
+      },
+      {
+        "familyId": "liot",
+        "pour": 9,
+        "contre": 5,
+        "abstention": 0,
+        "members": 23
+      },
+      {
+        "familyId": "dem",
+        "pour": 37,
+        "contre": 0,
+        "abstention": 0,
+        "members": 37
+      },
+      {
+        "familyId": "epr",
+        "pour": 84,
+        "contre": 0,
+        "abstention": 0,
+        "members": 91
+      },
+      {
+        "familyId": "hor",
+        "pour": 34,
+        "contre": 0,
+        "abstention": 0,
+        "members": 35
+      },
+      {
+        "familyId": "lr",
+        "pour": 40,
+        "contre": 0,
+        "abstention": 0,
+        "members": 48
+      },
+      {
+        "familyId": "udr",
+        "pour": 15,
+        "contre": 0,
+        "abstention": 0,
+        "members": 17
+      },
+      {
+        "familyId": "rn",
+        "pour": 116,
+        "contre": 0,
+        "abstention": 0,
+        "members": 122
+      }
+    ]
+  },
+  {
     "uid": "VTANR5L17V6572",
     "legislature": 17,
     "date": "2026-05-13",
@@ -1900,7 +2111,7 @@
       "enfance-jeunesse",
       "fiscalite-budget"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette proposition de loi crée une contribution de 0,10 % sur le chiffre d'affaires des entreprises qui exploitent des médicaments remboursés par l'assurance maladie, pour financer un programme de soutien à l'innovation thérapeutique contre les cancers et les maladies rares de l'enfant.",
     "officialTitle": "l'ensemble de la proposition de loi visant à mettre en place un programme de soutien à l'innovation thérapeutique contre les cancers, les maladies rares et les maladies orphelines de l'enfant (première lecture).",
     "result": "adopte",
@@ -2006,7 +2217,7 @@
       "travail-retraites",
       "sante"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce projet de loi du gouvernement multiplie les outils contre la fraude aux prestations sociales, au fisc et aux cotisations : échanges de données entre administrations, sanctions plus lourdes, suspension provisoire de certaines aides et recouvrement facilité.",
     "officialTitle": "l'ensemble du projet de loi relatif à la lutte contre les fraudes sociales et fiscales (première lecture).",
     "result": "adopte",
@@ -2111,7 +2322,7 @@
       "europe-international",
       "education"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte complète l'article du code de l'éducation qui prévoit déjà un enseignement de la défense dans les collèges et lycées : il y ajoute un référentiel national fixant son contenu, la possibilité de faire intervenir des réservistes et des correspondants défense des communes, et l'applique aux établissements privés sous contrat.",
     "officialTitle": "l'ensemble de la proposition de loi visant à renforcer l'enseignement de la défense nationale dans le cadre du parcours de citoyenneté (première lecture).",
     "result": "adopte",
@@ -2215,7 +2426,7 @@
     "themes": [
       "sante"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte crée un « droit à l'aide à mourir » : une personne majeure atteinte d'une maladie grave et incurable, en phase avancée ou terminale, qui souffre et le demande de façon libre et éclairée, pourrait obtenir une substance létale qu'elle s'administre elle-même ou, si elle en est physiquement incapable, que lui administre un médecin ou un infirmier.",
     "officialTitle": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (deuxième lecture).",
     "result": "adopte",
@@ -2320,7 +2531,7 @@
       "numerique",
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte autorise, à titre expérimental jusqu'au 31 décembre 2027, les commerces de détail, grandes surfaces et centres commerciaux particulièrement exposés au vol à analyser automatiquement, par des algorithmes, les images de leurs caméras de vidéoprotection pour détecter en temps réel des comportements pouvant révéler un vol. Il s'agit d'un dispositif de surveillance dite « vidéosurveillance algorithmique », sans reconnaissance faciale : ses opposants le dénoncent comme une extension de la surveillance automatisée, ses partisans comme un outil de protection des commerçants.",
     "officialTitle": "l'ensemble de la proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques (première lecture).",
     "result": "adopte",
@@ -2416,6 +2627,112 @@
     ]
   },
   {
+    "uid": "VTANR5L17V4758",
+    "legislature": 17,
+    "date": "2025-12-16",
+    "question": "Faut-il adopter le budget 2026 de la Sécurité sociale, qui suspend la réforme des retraites et fait contribuer les complémentaires santé ?",
+    "sens": "pour",
+    "themes": [
+      "sante",
+      "travail-retraites",
+      "fiscalite-budget"
+    ],
+    "statut": "publiee",
+    "summary": "Ce texte est le budget 2026 de la Sécurité sociale (santé, retraites, famille, autonomie, accidents du travail) : il prévoit un déficit de 19,4 milliards d'euros, suspend la hausse de l'âge légal de départ à la retraite décidée en 2023 et institue pour 2026 une contribution sur les organismes d'assurance maladie complémentaire (mutuelles, institutions de prévoyance, entreprises d'assurance : les « complémentaires santé »). Le vote porte sur l'ensemble de ses 114 articles, pas sur une seule mesure.",
+    "officialTitle": "l'ensemble du projet de loi de financement de la sécurité sociale pour 2026 (lecture définitive).",
+    "result": "adopte",
+    "totals": {
+      "pour": 247,
+      "contre": 232,
+      "abstention": 90,
+      "votants": 569
+    },
+    "urls": {
+      "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+      "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1907_projet-loi"
+    },
+    "votes": [
+      {
+        "familyId": "lfi",
+        "pour": 0,
+        "contre": 69,
+        "abstention": 0,
+        "members": 71
+      },
+      {
+        "familyId": "gdr",
+        "pour": 1,
+        "contre": 10,
+        "abstention": 2,
+        "members": 17
+      },
+      {
+        "familyId": "eco",
+        "pour": 2,
+        "contre": 9,
+        "abstention": 27,
+        "members": 38
+      },
+      {
+        "familyId": "soc",
+        "pour": 64,
+        "contre": 0,
+        "abstention": 5,
+        "members": 69
+      },
+      {
+        "familyId": "liot",
+        "pour": 20,
+        "contre": 0,
+        "abstention": 2,
+        "members": 22
+      },
+      {
+        "familyId": "dem",
+        "pour": 36,
+        "contre": 0,
+        "abstention": 0,
+        "members": 36
+      },
+      {
+        "familyId": "epr",
+        "pour": 91,
+        "contre": 0,
+        "abstention": 0,
+        "members": 91
+      },
+      {
+        "familyId": "hor",
+        "pour": 9,
+        "contre": 0,
+        "abstention": 25,
+        "members": 34
+      },
+      {
+        "familyId": "lr",
+        "pour": 18,
+        "contre": 3,
+        "abstention": 28,
+        "members": 49
+      },
+      {
+        "familyId": "udr",
+        "pour": 0,
+        "contre": 16,
+        "abstention": 0,
+        "members": 16
+      },
+      {
+        "familyId": "rn",
+        "pour": 0,
+        "contre": 123,
+        "abstention": 0,
+        "members": 123
+      }
+    ]
+  },
+  {
     "uid": "VTANR5L17V4723",
     "legislature": 17,
     "date": "2025-12-11",
@@ -2426,7 +2743,7 @@
       "immigration",
       "logement"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette proposition de loi veut que, lorsqu'un département refuse de reconnaître comme mineur un jeune qui se présente seul et qui conteste cette décision devant la justice, il reste hébergé et protégé jusqu'à la décision définitive du juge.",
     "officialTitle": "l'ensemble de la proposition de loi visant à protéger les mineurs isolés et à lutter contre le sans-abrisme (première lecture).",
     "result": "adopte",
@@ -2530,7 +2847,7 @@
     "themes": [
       "logement"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Malgré son titre général, ce texte porte surtout sur l'encadrement des loyers, aujourd'hui une expérimentation qui doit s'arrêter en novembre 2026 : il la transforme en dispositif durable, l'ouvre à davantage de communes et renforce les règles sur les compléments de loyer et les congés donnés par les propriétaires.",
     "officialTitle": "l'ensemble de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (première lecture).",
     "result": "adopte",
@@ -2634,7 +2951,7 @@
     "themes": [
       "immigration"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte prévoit que la carte de séjour pluriannuelle (quatre ans au plus) et les cartes de résident (dix ans) des étrangers en situation régulière soient renouvelées automatiquement, et que le silence de l'administration pendant quatre mois vaille accord.",
     "officialTitle": "l'ensemble de la proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée (première lecture).",
     "result": "adopte",
@@ -2740,7 +3057,7 @@
       "institutions",
       "europe-international"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette résolution, sans force obligatoire, invite le gouvernement à s'opposer à l'adoption de l'accord commercial entre l'Union européenne et les pays du Mercosur (Argentine, Brésil, Paraguay, Uruguay) et à saisir la Cour de justice de l'Union européenne sur sa conformité aux traités.",
     "officialTitle": "la proposition de résolution invitant le Gouvernement de la République française à s'opposer à l'adoption de l'accord commercial entre l'Union européenne et le Mercosur (article 34-1 de la Constitution).",
     "result": "adopte",
@@ -2845,7 +3162,7 @@
       "immigration",
       "europe-international"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette résolution, qui n'a pas de force obligatoire, demande aux autorités compétentes de mettre fin à l'accord franco-algérien du 27 décembre 1968, qui prévoit pour les Algériens des règles d'entrée, d'emploi et de séjour en France différentes de celles des autres étrangers.",
     "officialTitle": "la proposition de résolution visant à dénoncer les accords franco-algériens du 27 décembre 1968 (article 34-1 de la Constitution).",
     "result": "adopte",
@@ -2949,7 +3266,7 @@
     "themes": [
       "agriculture-alimentation"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette proposition de loi du Rassemblement national voulait rendre obligatoire l'indication du pays d'origine de tous les aliments ; ses trois articles de départ ont été rejetés en séance, et le texte soumis au vote final ne contenait plus qu'un étiquetage obligatoire des aliments importés produits avec des substances ou des pratiques (pesticides, médicaments vétérinaires, mise à mort des poussins mâles) interdites en France ou dans l'Union européenne.",
     "officialTitle": "l'ensemble de la proposition de loi visant à rendre systématique l'information du consommateur sur l'origine des denrées alimentaires par le moyen de l'étiquetage (première lecture).",
     "result": "rejete",
@@ -3054,7 +3371,7 @@
       "violences-sexuelles",
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte change la définition de l'agression sexuelle dans le code pénal : elle ne repose plus seulement sur la violence, la contrainte, la menace ou la surprise, mais sur l'absence de consentement de la personne.",
     "officialTitle": "l'ensemble de la proposition de loi modifiant la définition pénale du viol et des agressions sexuelles (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -3158,7 +3475,7 @@
     "themes": [
       "logement"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte rassemble une trentaine de mesures pour faire évoluer plus facilement les plans d'urbanisme, autoriser davantage de dérogations aux règles locales afin de construire des logements, et raccourcir certains délais de recours contre les autorisations de construire.",
     "officialTitle": "l'ensemble de la proposition de loi de simplification du droit de l'urbanisme et du logement (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -3263,7 +3580,7 @@
       "agriculture-alimentation",
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte, issu d'une proposition de sénateurs, assouplit plusieurs règles qui s'appliquent aux agriculteurs : il prévoit une dérogation à l'interdiction des insecticides néonicotinoïdes (l'acétamipride est le produit cité dans les débats), allège les procédures pour les élevages, facilite les ouvrages de stockage d'eau et modifie l'organisation des contrôles environnementaux.",
     "officialTitle": "l'ensemble de la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -3368,7 +3685,7 @@
       "securite-justice",
       "immigration"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte permet de garder plus longtemps dans un centre de rétention administrative (le lieu où l'on place un étranger en attendant son expulsion) certains étrangers condamnés pour des faits graves : la durée maximale passerait de 90 jours à 180 jours, voire 210 jours dans des cas exceptionnels.",
     "officialTitle": "l'ensemble de la proposition de loi visant à faciliter le maintien en rétention des personnes condamnées pour des faits d'une particulière gravité et présentant de forts risques de récidive (première lecture).",
     "result": "adopte",
@@ -3472,7 +3789,7 @@
     "themes": [
       "education"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette loi oblige les établissements d'enseignement supérieur à former, prévenir et signaler les faits d'antisémitisme et de racisme, et modifie le régime disciplinaire applicable aux étudiants et aux enseignants poursuivis pour ces faits.",
     "officialTitle": "l'ensemble de la proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -3576,7 +3893,7 @@
     "themes": [
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette proposition de loi, venue du Sénat puis très remaniée par l'Assemblée nationale, fixait les grands objectifs de la politique énergétique de la France pour 2025-2035 ; dans la version soumise au vote, elle suspendait les nouveaux projets d'éoliennes et de panneaux solaires et relançait le nucléaire. Elle a été rejetée.",
     "officialTitle": "l'ensemble de la proposition de loi portant programmation nationale pour l'énergie et le climat pour les années 2025 à 2035 (première lecture).",
     "result": "rejete",
@@ -3681,7 +3998,7 @@
       "ecologie-energie",
       "europe-international"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte autorise la France à ratifier un amendement de 2009 au protocole de Londres, un traité international qui protège les mers contre l'immersion de déchets : cet amendement permet d'envoyer du dioxyde de carbone (CO2), récupéré à la sortie d'usines, vers un autre pays pour l'enfouir dans le sous-sol marin.",
     "officialTitle": "l'ensemble du projet de loi autorisant la ratification de la résolution LP.3(4) portant amendement de l'article 6 du Protocole de Londres de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets et autres matières (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -3785,7 +4102,7 @@
     "themes": [
       "travail-retraites"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette résolution demande l'abrogation des deux mesures principales de la réforme des retraites de 2023, le report de l'âge légal de départ de 62 à 64 ans et le passage à 43 années de cotisation dès 2027, sans avoir elle-même de force contraignante.",
     "officialTitle": "la proposition de résolution visant à abroger la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023 dite réforme des retraites.",
     "result": "adopte",
@@ -3889,7 +4206,7 @@
     "themes": [
       "enfance-jeunesse"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Aujourd'hui, les allocations familiales ne sont versées qu'aux parents d'au moins deux enfants (hors outre-mer) ; ce texte les étend aux parents d'un seul enfant.",
     "officialTitle": "l'ensemble de la proposition de loi visant à accorder le versement des allocations familiales dès le premier enfant (première lecture).",
     "result": "adopte",
@@ -3994,7 +4311,7 @@
       "enfance-jeunesse",
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte aggrave la peine encourue par un parent qui se soustrait à ses obligations lorsque son enfant devient délinquant, crée d'autres obligations pour les parents et durcit certaines règles de la justice des mineurs ; plusieurs de ses articles ont ensuite été censurés par le Conseil constitutionnel.",
     "officialTitle": "l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -4099,7 +4416,7 @@
       "enfance-jeunesse",
       "education"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte généralise le livret de parcours inclusif, un outil numérique de suivi des enfants handicapés ou à besoins éducatifs particuliers, et crée dans chaque département, d'ici le 1er septembre 2027, des pôles d'appui à la scolarité qui remplacent les pôles inclusifs d'accompagnement localisés (PIAL).",
     "officialTitle": "l'ensemble de la proposition de loi visant à renforcer le parcours inclusif des enfants à besoins éducatifs particuliers (première lecture).",
     "result": "adopte",
@@ -4203,7 +4520,7 @@
     "themes": [
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte crée un parquet national dédié à la criminalité organisée, un régime de détention renforcé pour les chefs de réseaux et de nouveaux pouvoirs d'enquête et d'action administrative contre le trafic de stupéfiants.",
     "officialTitle": "l'ensemble de la proposition de loi visant à sortir la France du piège du narcotrafic (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -4308,7 +4625,7 @@
       "immigration",
       "outre-mer"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte restreint, à Mayotte seulement, l'accès à la nationalité française des enfants nés de parents étrangers : il faut désormais que les deux parents résident régulièrement en France depuis plus d'un an à la naissance de l'enfant, au lieu d'un seul parent depuis plus de trois mois.",
     "officialTitle": "l'ensemble de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -4413,7 +4730,7 @@
       "droits-des-femmes",
       "institutions"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte étend aux communes de moins de 1 000 habitants le scrutin de liste avec alternance de femmes et d'hommes, déjà appliqué dans les communes plus grandes, et met fin au système où les électeurs choisissent des noms et peuvent en rayer. Il ne concerne pas la réforme du mode de scrutin à Paris, Lyon et Marseille (« loi PLM »), examinée par l'Assemblée le soir même dans un texte distinct.",
     "officialTitle": "l'ensemble de la proposition de loi visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité (deuxième lecture).",
     "result": "adopte",
@@ -4518,7 +4835,7 @@
       "droits-des-femmes",
       "institutions"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette proposition de loi organique est le texte « compagnon » de la loi qui étend le scrutin de liste paritaire aux communes de moins de 1 000 habitants : elle ne fixe pas ce mode de scrutin, mais adapte trois règles du code électoral qui en découlent, dont la plus visible concerne les candidats ressortissants d'autres pays de l'Union européenne : leur nationalité devra être indiquée sur les bulletins de vote de toutes les communes.",
     "officialTitle": "l'ensemble de la proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité (première lecture).",
     "result": "adopte",
@@ -4626,7 +4943,7 @@
       "sante",
       "fiscalite-budget"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce projet de loi « DDADUE » (42 articles à l'origine) met le droit français en conformité avec de nombreux textes européens : finance, énergie, environnement, transports, santé, séjour des étrangers. Parmi ses mesures, il dispense de demander l'autorisation exceptionnelle (la « dérogation ») de perturber ou de détruire des espèces protégées les projets qui prévoient des mesures d'évitement et de réduction des atteintes à ces espèces, avec un suivi de leur efficacité.",
     "officialTitle": "l'ensemble du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -4722,111 +5039,6 @@
     ]
   },
   {
-    "uid": "VTANR5L17V1202",
-    "legislature": 17,
-    "date": "2025-04-01",
-    "question": "Faut-il inscrire l'absence de consentement dans la définition pénale du viol ?",
-    "sens": "pour",
-    "themes": [
-      "violences-sexuelles",
-      "securite-justice"
-    ],
-    "statut": "relu",
-    "summary": "Ce texte change la définition de l'agression sexuelle dans le code pénal : elle ne repose plus seulement sur la violence, la contrainte, la menace ou la surprise, mais sur l'absence de consentement de la personne.",
-    "officialTitle": "l'ensemble de la proposition de loi visant à modifier la définition pénale du viol et des agressions sexuelles (première lecture).",
-    "result": "adopte",
-    "totals": {
-      "pour": 161,
-      "contre": 56,
-      "abstention": 16,
-      "votants": 233
-    },
-    "urls": {
-      "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1202",
-      "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/definition_penale_viol_agressions_sexuelles_17e",
-      "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0842_proposition-loi"
-    },
-    "votes": [
-      {
-        "familyId": "lfi",
-        "pour": 38,
-        "contre": 0,
-        "abstention": 2,
-        "members": 71
-      },
-      {
-        "familyId": "gdr",
-        "pour": 0,
-        "contre": 0,
-        "abstention": 4,
-        "members": 17
-      },
-      {
-        "familyId": "eco",
-        "pour": 22,
-        "contre": 0,
-        "abstention": 0,
-        "members": 38
-      },
-      {
-        "familyId": "soc",
-        "pour": 21,
-        "contre": 9,
-        "abstention": 4,
-        "members": 66
-      },
-      {
-        "familyId": "liot",
-        "pour": 4,
-        "contre": 0,
-        "abstention": 0,
-        "members": 23
-      },
-      {
-        "familyId": "dem",
-        "pour": 13,
-        "contre": 0,
-        "abstention": 1,
-        "members": 36
-      },
-      {
-        "familyId": "epr",
-        "pour": 36,
-        "contre": 0,
-        "abstention": 1,
-        "members": 94
-      },
-      {
-        "familyId": "hor",
-        "pour": 16,
-        "contre": 0,
-        "abstention": 0,
-        "members": 33
-      },
-      {
-        "familyId": "lr",
-        "pour": 9,
-        "contre": 0,
-        "abstention": 2,
-        "members": 47
-      },
-      {
-        "familyId": "udr",
-        "pour": 0,
-        "contre": 5,
-        "abstention": 1,
-        "members": 16
-      },
-      {
-        "familyId": "rn",
-        "pour": 0,
-        "contre": 41,
-        "abstention": 1,
-        "members": 123
-      }
-    ]
-  },
-  {
     "uid": "VTANR5L17V1041",
     "legislature": 17,
     "date": "2025-03-18",
@@ -4836,7 +5048,7 @@
       "transports",
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte donne de nouveaux pouvoirs aux services internes de sécurité de la SNCF et de la RATP, autorise de nouvelles caméras et crée de nouvelles sanctions pour les comportements qui menacent la sûreté dans les transports en commun.",
     "officialTitle": "l'ensemble de la proposition de loi relative au renforcement de la sûreté dans les transports (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -4940,7 +5152,7 @@
     "themes": [
       "europe-international"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette résolution européenne, qui n'a pas de force contraignante, exprime la position de l'Assemblée nationale : elle condamne l'agression russe contre l'Ukraine et appelle l'Union européenne, la France et leurs alliés à poursuivre et à accroître leur soutien à l'Ukraine, ainsi que les sanctions contre la Russie.",
     "officialTitle": "l'article unique de la proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine.",
     "result": "adopte",
@@ -5044,7 +5256,7 @@
     "themes": [
       "agriculture-alimentation"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte renforce les pouvoirs des Safer (sociétés d'aménagement foncier et d'établissement rural, des organismes qui peuvent acheter en priorité les terres agricoles mises en vente pour les attribuer notamment à de nouveaux agriculteurs) face à la « consommation masquée » de terres agricoles, c'est-à-dire des terres vendues avec une maison à des acheteurs qui ne les exploitent pas.",
     "officialTitle": "l'ensemble de la proposition de loi visant à lutter contre la disparition des terres agricoles et renforcer la régulation des prix du foncier agricole (première lecture).",
     "result": "adopte",
@@ -5149,7 +5361,7 @@
       "ecologie-energie",
       "sante"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte interdit à partir de 2026 la fabrication et la vente de cosmétiques, de fart pour skis, de vêtements et de chaussures contenant des PFAS, des substances chimiques qui ne se dégradent presque pas dans l'environnement, renforce le contrôle de l'eau potable et fait payer aux industriels une redevance sur leurs rejets de PFAS dans l'eau.",
     "officialTitle": "l'ensemble de la proposition de loi visant à protéger la population des risques liés aux substances perfluoroalkylées et polyfluoroalkylées (deuxième lecture).",
     "result": "adopte",
@@ -5253,7 +5465,7 @@
     "themes": [
       "fiscalite-budget"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte crée un nouvel impôt, souvent appelé « taxe Zucman » du nom de l'économiste qui l'a inspiré : les personnes dont le patrimoine dépasse 100 millions d'euros doivent payer chaque année, tous impôts confondus, au moins 2 % de leur fortune, et versent la différence si elles sont en dessous.",
     "officialTitle": "l'ensemble de la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches (première lecture).",
     "result": "adopte",
@@ -5358,7 +5570,7 @@
       "agriculture-alimentation",
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette loi d'orientation déclare la protection et le développement de l'agriculture et de la pêche « d'intérêt général majeur » et « intérêt fondamental de la Nation », fixe des objectifs pour le renouvellement des générations d'agriculteurs et regroupe des mesures de simplification, dont certaines touchent au droit de l'environnement.",
     "officialTitle": "l'ensemble du projet de loi d'orientation pour la souveraineté alimentaire et agricole et le renouvellement des générations en agriculture (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -5462,7 +5674,7 @@
     "themes": [
       "education"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte prolonge jusqu'au 31 août 2028 le concours spécial « Talents », expérimenté depuis 2021 pour entrer dans cinq écoles de la haute fonction publique, et ouvre le dispositif à des écoles qui forment des militaires.",
     "officialTitle": "l'ensemble de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).",
     "result": "adopte",
@@ -5567,7 +5779,7 @@
       "enfance-jeunesse",
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Dans sa version votée en première lecture par l'Assemblée, le texte durcit la justice des mineurs (écarter par principe la réduction de peine des mineurs de plus de 16 ans qui récidivent pour des faits violents, faciliter le jugement en une seule audience) et crée de nouvelles obligations et sanctions pour les parents.",
     "officialTitle": "l'ensemble de la proposition de loi visant à restaurer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (première lecture).",
     "result": "adopte",
@@ -5672,7 +5884,7 @@
       "agriculture-alimentation",
       "institutions"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte de compromis entre l'Assemblée nationale et le Sénat adapte le fonctionnement des chambres d'agriculture et de la Mutualité sociale agricole (MSA, le régime de protection sociale des agriculteurs) : il maintient la possibilité, pour les dirigeants d'entreprises ou de coopératives qui vendent des pesticides, de présider une chambre d'agriculture ou de siéger à son bureau, et ajuste les élections de la MSA (vote des adhérents en retard de cotisations, listes paritaires en 2030, mandats resynchronisés).",
     "officialTitle": "l'ensemble de la proposition de loi visant à adapter le fonctionnement des instances de gouvernance des chambres d'agriculture et de la mutualité sociale agricole (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -5768,111 +5980,6 @@
     ]
   },
   {
-    "uid": "VTANR5L17V788",
-    "legislature": 17,
-    "date": "2025-02-11",
-    "question": "Faut-il renforcer la sûreté dans les transports en élargissant les pouvoirs des agents de sécurité de la SNCF et de la RATP ?",
-    "sens": "pour",
-    "themes": [
-      "transports",
-      "securite-justice"
-    ],
-    "statut": "relu",
-    "summary": "Dans cette version votée en première lecture par l'Assemblée, le texte donne de nouveaux pouvoirs aux services internes de sécurité de la SNCF et de la RATP, autorise de nouveaux usages de caméras et crée de nouvelles sanctions pour les comportements qui menacent la sûreté dans les transports en commun.",
-    "officialTitle": "l'ensemble de la proposition de loi relative à la sûreté dans les transports (première lecture).",
-    "result": "adopte",
-    "totals": {
-      "pour": 139,
-      "contre": 59,
-      "abstention": 3,
-      "votants": 201
-    },
-    "urls": {
-      "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/788",
-      "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49176",
-      "texte": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b2223_proposition-loi"
-    },
-    "votes": [
-      {
-        "familyId": "lfi",
-        "pour": 0,
-        "contre": 27,
-        "abstention": 0,
-        "members": 71
-      },
-      {
-        "familyId": "gdr",
-        "pour": 0,
-        "contre": 1,
-        "abstention": 0,
-        "members": 17
-      },
-      {
-        "familyId": "eco",
-        "pour": 0,
-        "contre": 10,
-        "abstention": 0,
-        "members": 38
-      },
-      {
-        "familyId": "soc",
-        "pour": 0,
-        "contre": 20,
-        "abstention": 0,
-        "members": 66
-      },
-      {
-        "familyId": "liot",
-        "pour": 4,
-        "contre": 0,
-        "abstention": 2,
-        "members": 23
-      },
-      {
-        "familyId": "dem",
-        "pour": 5,
-        "contre": 0,
-        "abstention": 0,
-        "members": 36
-      },
-      {
-        "familyId": "epr",
-        "pour": 24,
-        "contre": 0,
-        "abstention": 0,
-        "members": 94
-      },
-      {
-        "familyId": "hor",
-        "pour": 12,
-        "contre": 0,
-        "abstention": 0,
-        "members": 33
-      },
-      {
-        "familyId": "lr",
-        "pour": 18,
-        "contre": 1,
-        "abstention": 0,
-        "members": 48
-      },
-      {
-        "familyId": "udr",
-        "pour": 6,
-        "contre": 0,
-        "abstention": 0,
-        "members": 16
-      },
-      {
-        "familyId": "rn",
-        "pour": 69,
-        "contre": 0,
-        "abstention": 0,
-        "members": 124
-      }
-    ]
-  },
-  {
     "uid": "VTANR5L17V685",
     "legislature": 17,
     "date": "2025-01-30",
@@ -5883,7 +5990,7 @@
       "ecologie-energie",
       "europe-international"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette résolution européenne, sans force obligatoire, invite le gouvernement à demander à la Commission européenne de légiférer pour que les produits agricoles importés respectent les mêmes normes de production que celles imposées aux producteurs européens en matière de santé, d'environnement, de biodiversité et de bien-être animal (les « mesures miroirs »), et à s'opposer à l'accord avec le Mercosur.",
     "officialTitle": "l'ensemble de la proposition de résolution européenne relative à l'adoption et à la mise en œuvre d'exigences à l'importation pour le respect de normes de production équivalentes aux normes de production essentielles, en matière de santé, d'environnement, de biodiversité et de bien-être animal applicables dans l'Union européenne.",
     "result": "adopte",
@@ -5989,7 +6096,7 @@
       "violences-sexuelles",
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte crée dans le code pénal une infraction de « contrôle coercitif » au sein du couple, étend le délai de prescription « glissant » aux viols commis sur des adultes et durcit les peines pour certains viols.",
     "officialTitle": "l'ensemble de la proposition de loi visant à renforcer la lutte contre les violences sexuelles et sexistes (première lecture).",
     "result": "adopte",
@@ -6094,7 +6201,7 @@
       "sante",
       "travail-retraites"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte prévoit de fixer, pour chaque spécialité et chaque type d'activité hospitalière, un nombre minimal de soignants par lit ouvert, établi par décret après avis de la Haute Autorité de santé, à partir du 1er janvier 2027.",
     "officialTitle": "l'ensemble de la proposition de loi, adoptée par le Sénat, relative à l'instauration d'un nombre minimum de soignants par patient hospitalisé (première lecture).",
     "result": "adopte",
@@ -6190,111 +6297,6 @@
     ]
   },
   {
-    "uid": "VTANR5L17V589",
-    "legislature": 17,
-    "date": "2025-01-22",
-    "question": "Faut-il permettre aux dirigeants d'entreprises ou de coopératives vendant des pesticides de siéger au bureau d'une chambre d'agriculture ?",
-    "sens": "pour",
-    "themes": [
-      "agriculture-alimentation",
-      "institutions"
-    ],
-    "statut": "relu",
-    "summary": "Cette proposition de loi, adoptée en première lecture par l'Assemblée nationale, adapte le fonctionnement des chambres d'agriculture et de la Mutualité sociale agricole (MSA, le régime de protection sociale des agriculteurs) : elle permet aux dirigeants d'entreprises ou de coopératives qui vendent des pesticides de siéger au bureau des chambres, ouvre le vote aux élections de la MSA aux adhérents qui ne sont pas à jour de leurs cotisations et impose des listes de candidats paritaires à partir de 2030.",
-    "officialTitle": "l'ensemble de la proposition de loi relative à l'exercice de la démocratie agricole (première lecture).",
-    "result": "adopte",
-    "totals": {
-      "pour": 134,
-      "contre": 24,
-      "abstention": 1,
-      "votants": 159
-    },
-    "urls": {
-      "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/589",
-      "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/exercice_democratie_agricole",
-      "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0584_proposition-loi"
-    },
-    "votes": [
-      {
-        "familyId": "lfi",
-        "pour": 0,
-        "contre": 16,
-        "abstention": 0,
-        "members": 71
-      },
-      {
-        "familyId": "gdr",
-        "pour": 1,
-        "contre": 0,
-        "abstention": 0,
-        "members": 17
-      },
-      {
-        "familyId": "eco",
-        "pour": 0,
-        "contre": 8,
-        "abstention": 1,
-        "members": 38
-      },
-      {
-        "familyId": "soc",
-        "pour": 22,
-        "contre": 0,
-        "abstention": 0,
-        "members": 66
-      },
-      {
-        "familyId": "liot",
-        "pour": 4,
-        "contre": 0,
-        "abstention": 0,
-        "members": 23
-      },
-      {
-        "familyId": "dem",
-        "pour": 6,
-        "contre": 0,
-        "abstention": 0,
-        "members": 36
-      },
-      {
-        "familyId": "epr",
-        "pour": 25,
-        "contre": 0,
-        "abstention": 0,
-        "members": 94
-      },
-      {
-        "familyId": "hor",
-        "pour": 11,
-        "contre": 0,
-        "abstention": 0,
-        "members": 34
-      },
-      {
-        "familyId": "lr",
-        "pour": 8,
-        "contre": 0,
-        "abstention": 0,
-        "members": 47
-      },
-      {
-        "familyId": "udr",
-        "pour": 4,
-        "contre": 0,
-        "abstention": 0,
-        "members": 16
-      },
-      {
-        "familyId": "rn",
-        "pour": 52,
-        "contre": 0,
-        "abstention": 0,
-        "members": 124
-      }
-    ]
-  },
-  {
     "uid": "VTANR5L17V451",
     "legislature": 17,
     "date": "2024-11-20",
@@ -6304,7 +6306,7 @@
       "culture-medias",
       "fiscalite-budget"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette loi organique, c'est-à-dire une loi qui complète les règles de la loi de finances, permet à l'État de réserver directement le produit d'une partie d'un impôt à France Télévisions, Radio France et aux autres organismes de l'audiovisuel public, au lieu de les financer par une ligne du budget de l'État.",
     "officialTitle": "l'ensemble de la proposition de loi organique portant réforme du financement de l'audiovisuel public (première lecture).",
     "result": "adopte",
@@ -6409,7 +6411,7 @@
       "travail-retraites",
       "agriculture-alimentation"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte prolonge de deux ans, jusqu'à la fin de 2026, la dérogation qui permet aux salariés de payer avec leurs titres-restaurant des produits alimentaires qu'il faut cuisiner (pâtes, riz, farine, viande...) et pas seulement des repas ou des produits directement consommables.",
     "officialTitle": "l'ensemble de la proposition de loi visant à prolonger la dérogation d'usage des titres restaurant pour tout produit alimentaire (première lecture).",
     "result": "adopte",
@@ -6513,7 +6515,7 @@
     "themes": [
       "fiscalite-budget"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce vote porte sur la première partie du projet de loi de finances de fin de gestion pour 2024, un texte de fin d'année qui ajuste le budget de l'État : l'Assemblée a rejeté cette première partie, ce qui a entraîné le rejet de l'ensemble du projet de loi en première lecture.",
     "officialTitle": "l'ensemble de la première partie du projet de loi de finances de fin des gestion pour 2024 (première lecture).",
     "result": "rejete",
@@ -6617,7 +6619,7 @@
     "themes": [
       "logement"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte donne aux communes de nouveaux outils pour encadrer les locations de logements en « meublés de tourisme » (Airbnb et plateformes comparables) : enregistrement obligatoire, quotas, limitation des nuitées, règles énergétiques et fiscalité moins avantageuse.",
     "officialTitle": "l'ensemble de la proposition de loi visant à renforcer les outils de régulation des meublés de tourisme à l'échelle locale (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -6723,7 +6725,7 @@
       "fiscalite-budget",
       "travail-retraites"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce vote porte sur la partie « recettes » du projet de loi de financement de la sécurité sociale pour 2025, telle que modifiée par les députés : les groupes de gauche y ont fait adopter une hausse de la CSG sur les revenus du capital et de nouvelles cotisations sur les sommes versées aux salariés (dividendes, intéressement, participation), et la suppression de la réforme des allègements de cotisations patronales proposée par le gouvernement.",
     "officialTitle": "l'ensemble de la deuxième partie du projet de loi de financement de la sécurité sociale pour 2025 (première lecture).",
     "result": "adopte",
@@ -6828,7 +6830,7 @@
       "numerique",
       "enfance-jeunesse"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce projet de loi du gouvernement, dit « SREN », adapte le droit français aux règlements européens sur les services et les marchés numériques et rassemble des mesures très variées : vérification de l'âge sur les sites pornographiques, suspension de comptes en ligne comme peine, filtre anti-arnaque, règles sur les services de cloud et expérimentation de jeux vidéo à objets numériques revendables.",
     "officialTitle": "l'ensemble du projet de loi visant à sécuriser et réguler l'espace numérique (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -6929,7 +6931,7 @@
       "securite-justice",
       "agriculture-alimentation"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce projet de loi « DDADUE » met le droit français en conformité avec des règles de l'Union européenne dans des domaines sans lien entre eux (finance, écologie, procédure pénale, travail, agriculture). Sur le plan social, il prévoit que les salariés en arrêt maladie non professionnel acquièrent des congés payés, à raison de deux jours ouvrables par mois, soit 24 jours (quatre semaines) par an au plus.",
     "officialTitle": "l'ensemble du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière d'économie, de finances, de transition écologique, de droit pénal, de droit social et en matière agricole (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -7026,7 +7028,7 @@
     "themes": [
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte est la version de compromis, négociée entre députés et sénateurs, du projet de loi qui fusionne l'Autorité de sûreté nucléaire (ASN), qui contrôle les installations nucléaires et prend les décisions, et l'Institut de radioprotection et de sûreté nucléaire (IRSN), qui en fait l'expertise technique et la recherche, au sein d'une Autorité de sûreté nucléaire et de radioprotection (ASNR), et qui adapte les règles des marchés publics aux projets nucléaires.",
     "officialTitle": "l'ensemble du projet de loi relatif à l'organisation de la gouvernance de la sûreté nucléaire et de la radioprotection pour répondre au défi de la relance de la filière nucléaire (texte de la commission paritaire).",
     "result": "adopte",
@@ -7124,7 +7126,7 @@
       "enfance-jeunesse",
       "education"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte prévoit que l'État prend en charge la rémunération des accompagnants d'élèves en situation de handicap (AESH) pendant la pause de midi, dite pause méridienne, et non plus seulement pendant le temps de classe, à partir de la rentrée scolaire 2024.",
     "officialTitle": "l'ensemble de la proposition de loi visant à la prise en charge par l'État de l'accompagnement humain des élèves en situation de handicap durant le temps de pause méridienne (première lecture).",
     "result": "adopte",
@@ -7221,7 +7223,7 @@
     "themes": [
       "agriculture-alimentation"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte crée un « prix plancher » : dans chaque filière agricole, une conférence publique fixe un prix minimal d'achat des produits, qui ne peut être inférieur aux coûts de production, rémunération des agriculteurs comprise ; il crée aussi un fonds pour la transition agroécologique, financé par une contribution sur les bénéfices de certaines industries.",
     "officialTitle": "l'ensemble de la proposition de loi visant à garantir un revenu digne aux agriculteurs et à accompagner la transition agricole (première lecture).",
     "result": "adopte",
@@ -7310,103 +7312,6 @@
     ]
   },
   {
-    "uid": "VTANR5L16V3546",
-    "legislature": 16,
-    "date": "2024-03-19",
-    "question": "Faut-il fusionner l'Autorité de sûreté nucléaire et l'IRSN, l'institut qui expertise la sûreté, en une seule autorité de contrôle ?",
-    "sens": "pour",
-    "themes": [
-      "ecologie-energie"
-    ],
-    "statut": "relu",
-    "summary": "Ce projet de loi du Gouvernement fusionne l'Autorité de sûreté nucléaire (ASN), qui contrôle les installations nucléaires et prend les décisions, et l'Institut de radioprotection et de sûreté nucléaire (IRSN), qui en fait l'expertise technique et la recherche, au sein d'une nouvelle Autorité de sûreté nucléaire et de radioprotection (ASNR), et adapte les règles des marchés publics aux projets nucléaires.",
-    "officialTitle": "l'ensemble du projet de loi relatif à l'organisation de la gouvernance de la sûreté nucléaire et de la radioprotection pour répondre au défi de la relance de la filière nucléaire (première lecture).",
-    "result": "adopte",
-    "totals": {
-      "pour": 260,
-      "contre": 259,
-      "abstention": 30,
-      "votants": 549
-    },
-    "urls": {
-      "scrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3546",
-      "dossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N49124",
-      "texte": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b2197_projet-loi"
-    },
-    "votes": [
-      {
-        "familyId": "lfi",
-        "pour": 0,
-        "contre": 74,
-        "abstention": 0,
-        "members": 75
-      },
-      {
-        "familyId": "gdr",
-        "pour": 0,
-        "contre": 20,
-        "abstention": 0,
-        "members": 22
-      },
-      {
-        "familyId": "eco",
-        "pour": 0,
-        "contre": 19,
-        "abstention": 0,
-        "members": 22
-      },
-      {
-        "familyId": "soc",
-        "pour": 0,
-        "contre": 31,
-        "abstention": 0,
-        "members": 31
-      },
-      {
-        "familyId": "liot",
-        "pour": 0,
-        "contre": 21,
-        "abstention": 0,
-        "members": 22
-      },
-      {
-        "familyId": "dem",
-        "pour": 38,
-        "contre": 1,
-        "abstention": 8,
-        "members": 50
-      },
-      {
-        "familyId": "epr",
-        "pour": 156,
-        "contre": 4,
-        "abstention": 3,
-        "members": 169
-      },
-      {
-        "familyId": "hor",
-        "pour": 21,
-        "contre": 0,
-        "abstention": 7,
-        "members": 30
-      },
-      {
-        "familyId": "lr",
-        "pour": 42,
-        "contre": 3,
-        "abstention": 12,
-        "members": 62
-      },
-      {
-        "familyId": "rn",
-        "pour": 0,
-        "contre": 84,
-        "abstention": 0,
-        "members": 88
-      }
-    ]
-  },
-  {
     "uid": "VTANR5L16V3550",
     "legislature": 16,
     "date": "2024-03-19",
@@ -7415,7 +7320,7 @@
     "themes": [
       "sante"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette proposition de loi rassemble une quarantaine de mesures sur la perte d'autonomie des personnes âgées : pilotage national et guichet unique par département, droit de visite en établissement, carte professionnelle et aide à la mobilité des aides à domicile, lutte contre les maltraitances.",
     "officialTitle": "l'ensemble de la proposition de loi portant diverses mesures relatives au grand âge et à l'autonomie (texte de la commission paritaire).",
     "result": "adopte",
@@ -7513,7 +7418,7 @@
       "droits-des-femmes",
       "institutions"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce projet de loi constitutionnelle ajoute à l'article 34 de la Constitution, qui liste les domaines de la loi, une phrase selon laquelle la loi détermine les conditions dans lesquelles s'exerce la liberté garantie à la femme d'avoir recours à une interruption volontaire de grossesse ; le vote du 4 mars 2024 est celui du Parlement réuni en Congrès à Versailles, dernière étape avant l'entrée en vigueur.",
     "officialTitle": "le projet de loi constitutionnelle relatif à la liberté de recourir à l'interruption volontaire de grossesse.",
     "result": "adopte",
@@ -7612,7 +7517,7 @@
       "sante",
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte inscrit dans la loi que l'État est responsable des dommages causés en Guadeloupe et en Martinique par le chlordécone, un pesticide utilisé dans les bananeraies de 1972 à 1993, et fixe comme objectifs la dépollution, la prévention et l'indemnisation des victimes.",
     "officialTitle": "l'ensemble de la proposition de loi visant à reconnaître la responsabilité de l'État et à indemniser les victimes du chlordécone (première lecture).",
     "result": "adopte",
@@ -7710,7 +7615,7 @@
       "enfance-jeunesse",
       "education"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte rend permanente la possibilité pour les jardins d'enfants existants, gérés ou financés par une collectivité publique, d'accueillir des enfants de 3 à 6 ans alors que l'instruction est obligatoire dès 3 ans ; cette dérogation devait prendre fin à la rentrée 2024.",
     "officialTitle": "l'ensemble de la proposition de loi visant à pérenniser les jardins d'enfants gérés par une collectivité publique ou bénéficiant de financements publics (première lecture).",
     "result": "adopte",
@@ -7799,104 +7704,6 @@
     ]
   },
   {
-    "uid": "VTANR5L16V3289",
-    "legislature": 16,
-    "date": "2024-01-30",
-    "question": "Faut-il inscrire dans la Constitution la liberté de la femme de recourir à l'IVG ?",
-    "sens": "pour",
-    "themes": [
-      "droits-des-femmes",
-      "institutions"
-    ],
-    "statut": "relu",
-    "summary": "Ce projet de loi constitutionnelle ajoute à l'article 34 de la Constitution, qui fixe le domaine de la loi, une phrase sur la liberté de la femme d'avoir recours à une interruption volontaire de grossesse (IVG).",
-    "officialTitle": "l'ensemble du projet de loi constitutionnelle relatif à la liberté de recourir à l'interruption volontaire de grossesse (première lecture).",
-    "result": "adopte",
-    "totals": {
-      "pour": 493,
-      "contre": 30,
-      "abstention": 23,
-      "votants": 546
-    },
-    "urls": {
-      "scrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3289",
-      "dossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/liberte_interruption_grossesse",
-      "texte": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b1983_projet-loi"
-    },
-    "votes": [
-      {
-        "familyId": "lfi",
-        "pour": 75,
-        "contre": 0,
-        "abstention": 0,
-        "members": 75
-      },
-      {
-        "familyId": "gdr",
-        "pour": 20,
-        "contre": 0,
-        "abstention": 0,
-        "members": 22
-      },
-      {
-        "familyId": "eco",
-        "pour": 23,
-        "contre": 0,
-        "abstention": 0,
-        "members": 23
-      },
-      {
-        "familyId": "soc",
-        "pour": 31,
-        "contre": 0,
-        "abstention": 0,
-        "members": 31
-      },
-      {
-        "familyId": "liot",
-        "pour": 19,
-        "contre": 1,
-        "abstention": 2,
-        "members": 22
-      },
-      {
-        "familyId": "dem",
-        "pour": 47,
-        "contre": 0,
-        "abstention": 2,
-        "members": 51
-      },
-      {
-        "familyId": "epr",
-        "pour": 164,
-        "contre": 0,
-        "abstention": 0,
-        "members": 170
-      },
-      {
-        "familyId": "hor",
-        "pour": 26,
-        "contre": 0,
-        "abstention": 0,
-        "members": 28
-      },
-      {
-        "familyId": "lr",
-        "pour": 40,
-        "contre": 15,
-        "abstention": 4,
-        "members": 62
-      },
-      {
-        "familyId": "rn",
-        "pour": 46,
-        "contre": 12,
-        "abstention": 14,
-        "members": 88
-      }
-    ]
-  },
-  {
     "uid": "VTANR5L16V3213",
     "legislature": 16,
     "date": "2023-12-19",
@@ -7906,7 +7713,7 @@
       "immigration",
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte, version de compromis entre l'Assemblée nationale et le Sénat, modifie les règles d'entrée, de séjour, d'intégration et d'expulsion des étrangers et l'organisation de l'asile ; il crée aussi, pour la première fois, une régularisation par le travail dans les métiers qui peinent à recruter.",
     "officialTitle": "l'ensemble du projet de loi pour contrôler l'immigration, améliorer l'intégration (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -8003,7 +7810,7 @@
     "themes": [
       "sante"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte de compromis entre l'Assemblée et le Sénat, qui compte 38 articles, confie davantage de responsabilités aux acteurs de santé de chaque territoire (professionnels, hôpitaux, élus, usagers) pour répondre au manque de médecins ; notamment, il rend les établissements de santé collectivement responsables de la permanence des soins (les gardes) sans y obliger les médecins généralistes, et ne régule pas l'installation des médecins.",
     "officialTitle": "l'ensemble de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -8101,7 +7908,7 @@
       "agriculture-alimentation",
       "travail-retraites"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte autorisait le gouvernement, pendant un an à partir du 1er janvier 2024, à plafonner les marges des industriels de l'agroalimentaire, des raffineurs de carburant et de la grande distribution, et créait un prix minimum d'achat des produits agricoles aux agriculteurs.",
     "officialTitle": "l'ensemble de la proposition de loi visant à lutter contre l'inflation par l'encadrement des marges des industries agroalimentaires, du raffinage et de la grande distribution et établissant un prix d'achat plancher des matières premières agricoles (première lecture).",
     "result": "rejete",
@@ -8198,7 +8005,7 @@
     "themes": [
       "enfance-jeunesse"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte est une résolution de l'Assemblée nationale : il crée une commission d'enquête de trente députés, chargée d'examiner comment les crèches sont financées et si leur modèle économique permet un accueil de qualité des jeunes enfants.",
     "officialTitle": "l'ensemble de la proposition de résolution tendant à la création d'une commission d'enquête sur le modèle économique des entreprises de crèches et la qualité de l'accueil des jeunes enfants au sein de leurs établissements.",
     "result": "adopte",
@@ -8295,7 +8102,7 @@
     "themes": [
       "travail-retraites"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte transforme Pôle emploi en « France Travail », inscrit sur la liste des demandeurs d'emploi les bénéficiaires du revenu de solidarité active (RSA), et leur fait signer un contrat d'engagement qui prévoit en principe au moins quinze heures d'activité par semaine, sous peine de sanctions.",
     "officialTitle": "l'ensemble du projet de loi pour le plein emploi (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -8392,7 +8199,7 @@
     "themes": [
       "droits-des-femmes"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte relève de 40 % à 50 % la part de femmes (ou d'hommes) dans les nouvelles nominations aux emplois de direction de l'État, des collectivités locales et des hôpitaux, fixe un plancher de 40 % dans l'ensemble de ces emplois et crée un index public de l'égalité professionnelle, avec des pénalités financières pour les employeurs qui ne respectent pas ces règles.",
     "officialTitle": "l'ensemble de la proposition de loi visant à renforcer l'accès des femmes aux responsabilités dans la fonction publique (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -8491,7 +8298,7 @@
       "institutions",
       "europe-international"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette résolution, sans force obligatoire, invite le gouvernement à faire savoir à Bruxelles que la France s'oppose à l'accord de libre-échange entre l'Union européenne et le Mercosur (Argentine, Brésil, Paraguay, Uruguay) tel qu'il avait été conclu en 2019, tant qu'il ne respecte pas des conditions environnementales et sanitaires, et à ce que l'accord ne soit pas coupé en deux.",
     "officialTitle": "la proposition de résolution relative à l'accord commercial entre l'Union européenne et le Mercosur (article 34-1 de la Constitution).",
     "result": "adopte",
@@ -8589,7 +8396,7 @@
       "immigration",
       "sante"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette résolution, qui n'a pas de force contraignante, demande au Gouvernement de mieux chiffrer le coût de la couverture santé des étrangers en situation irrégulière et de recentrer sur les seuls soins urgents l'aide médicale de l'État (AME), le dispositif qui prend en charge leurs soins.",
     "officialTitle": "la proposition de résolution relative au dérapage du coût pour l'État de la couverture santé des étrangers en situation irrégulière et des demandeurs d'asile provenant de pays d'origine sûrs et au nombre d'étrangers en situation irrégulière (art. 34-1 de la Constitution).",
     "result": "rejete",
@@ -8688,7 +8495,7 @@
       "europe-international",
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette résolution, texte sans force contraignante, exprime le souhait de l'Assemblée nationale de lutter contre les « surtranspositions » en matière agricole, c'est-à-dire les règles françaises plus strictes que celles que l'Union européenne impose, en particulier les interdictions de pesticides qui restent autorisés dans d'autres pays de l'Union.",
     "officialTitle": "la proposition de résolution visant à lutter contre les sur-transpositions en matière agricole (art. 34-1 de la Constitution).",
     "result": "adopte",
@@ -8785,7 +8592,7 @@
     "themes": [
       "europe-international"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette résolution, qui n'a pas de force contraignante, réaffirme le soutien à une solution à deux États, Israël et la Palestine, et condamne ce que son intitulé nomme « l'institutionnalisation par l'État d'Israël d'un régime d'apartheid consécutif à sa politique coloniale » ; elle invite en outre la France à reconnaître l'État de Palestine. Le mot « apartheid » est celui des auteurs du texte ; les groupes qui ont voté contre le contestent.",
     "officialTitle": "la proposition de résolution réaffirmant la nécessité d'une solution à deux États et condamnant l'institutionnalisation par l'État d'Israël d'un régime d'apartheid consécutif à sa politique coloniale (art. 34-1 de la Constitution).",
     "result": "rejete",
@@ -8882,7 +8689,7 @@
     "themes": [
       "sante"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte supprime l'obligation de vaccination contre la covid-19 imposée depuis 2021 aux professionnels de la santé et de l'aide à la personne, et permet à ceux qui avaient été suspendus pour ne pas s'être fait vacciner de reprendre leur travail.",
     "officialTitle": "l'ensemble de la proposition de loi portant abrogation de l'obligation vaccinale contre la covid-19 dans les secteurs médicaux, paramédicaux et d'aide à la personne et visant à la réintégration des professionnels et étudiants suspendus (première lecture).",
     "result": "adopte",
@@ -8979,7 +8786,7 @@
     "themes": [
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte inscrit dans le code de l'énergie qu'EDF est détenue à 100 % par l'État et que ses activités forment un seul groupe, afin de s'opposer à toute scission de l'entreprise ; il étend aussi l'accès au tarif réglementé de l'électricité.",
     "officialTitle": "l'ensemble de la proposition de loi visant à protéger le groupe Électricité de France d'un démembrement (deuxième lecture).",
     "result": "adopte",
@@ -9077,7 +8884,7 @@
       "agriculture-alimentation",
       "travail-retraites"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte, déposé par le groupe Écologiste-NUPES pour aider les ménages face à l'inflation alimentaire, ne ressemblait plus à sa version d'origine au moment du vote : l'Assemblée y avait ajouté un « panier » de produits de première nécessité dont les prix seraient plafonnés, avant de rejeter l'ensemble.",
     "officialTitle": "l'ensemble de la proposition de loi visant à mieux manger en soutenant les Français face à l'inflation et en favorisant l'accès à une alimentation saine (première lecture).",
     "result": "rejete",
@@ -9174,7 +8981,7 @@
     "themes": [
       "logement"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte porte à trois ans de prison et 45 000 euros d'amende la peine pour violation de domicile, élargit la notion de domicile et de squat, et accélère les procédures en cas de loyers impayés.",
     "officialTitle": "l'ensemble de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
     "result": "adopte",
@@ -9271,7 +9078,7 @@
     "themes": [
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte simplifie et raccourcit les procédures administratives pour construire de nouveaux réacteurs nucléaires à proximité immédiate de sites nucléaires existants, et modifie des règles applicables au fonctionnement des installations déjà en service.",
     "officialTitle": "l'ensemble du projet de loi relatif à l'accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes (première lecture).",
     "result": "adopte",
@@ -9372,7 +9179,7 @@
       "transports",
       "agriculture-alimentation"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce projet de loi « DDADUE » met le droit français en conformité avec des règles de l'Union européenne dans des domaines sans lien entre eux (finance, travail, santé, transports, agriculture). Parmi ses mesures, l'une remplace l'interdiction totale de publicité des établissements de chirurgie esthétique par une autorisation encadrée.",
     "officialTitle": "l'ensemble du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -9469,7 +9276,7 @@
     "themes": [
       "education"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte, rejeté à une voix près, voulait inscrire dans la loi que tous les étudiants, boursiers ou non, paient au plus un euro leur repas dans les restaurants et cafétérias des Crous (les centres régionaux des œuvres universitaires et scolaires, qui gèrent la restauration étudiante).",
     "officialTitle": "l'ensemble de la proposition de loi visant à assurer un repas à un euro pour tous les étudiants (première lecture).",
     "result": "rejete",
@@ -9566,7 +9373,7 @@
     "themes": [
       "ecologie-energie"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte vise à accélérer l'installation d'éoliennes, de panneaux solaires et d'autres équipements d'énergies renouvelables : les communes définissent des « zones d'accélération », certaines règles sont simplifiées et les grands parkings doivent se couvrir d'ombrières solaires.",
     "officialTitle": "l'ensemble du projet de loi relatif à l'accélération de la production d'énergies renouvelables (texte de la commission mixte paritaire).",
     "result": "adopte",
@@ -9664,7 +9471,7 @@
       "violences-sexuelles",
       "securite-justice"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte crée dans chaque ressort de cour d'appel un tribunal des violences intrafamiliales, avec un juge spécialisé qui traite aussi les demandes d'ordonnance de protection des victimes.",
     "officialTitle": "l'ensemble de la proposition de loi portant création d'une juridiction spécialisée aux violences intrafamiliales (première lecture).",
     "result": "adopte",
@@ -9762,7 +9569,7 @@
       "droits-des-femmes",
       "institutions"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Cette proposition de loi constitutionnelle, déposée par La France insoumise, ajoute à la Constitution un article 66-2 selon lequel la loi garantit l'effectivité et l'égal accès au droit à l'interruption volontaire de grossesse ; le texte a été réécrit à l'Assemblée par rapport à la version déposée.",
     "officialTitle": "l'ensemble de la proposition de loi constitutionnelle visant à protéger et à garantir le droit fondamental à l'interruption volontaire de grossesse (première lecture).",
     "result": "adopte",
@@ -9859,7 +9666,7 @@
     "themes": [
       "fiscalite-budget"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce projet de loi de programmation des finances publiques fixe pour 2023-2027 l'objectif de réduire le déficit public de 5,0 % à 2,9 % du PIB et de freiner la dépense publique, avec des règles sur les crédits des ministères et les dépenses des collectivités locales ; l'Assemblée l'a rejeté en première lecture après en avoir supprimé huit articles.",
     "officialTitle": "l'ensemble du projet de loi de programmation des finances publiques pour les années 2023 à 2027 (première lecture).",
     "result": "rejete",
@@ -9956,7 +9763,7 @@
     "themes": [
       "travail-retraites"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce projet de loi du gouvernement prolonge l'assurance chômage après le 1er novembre 2022 en confiant au gouvernement, par décret, le soin d'en fixer les règles jusqu'à fin 2023 au plus tard, et y ajoute des mesures sur l'abandon de poste, la validation des acquis de l'expérience et les élections professionnelles.",
     "officialTitle": "l'ensemble du projet de loi portant mesures d'urgence relatives au fonctionnement du marché de travail en vue du plein emploi (première lecture).",
     "result": "adopte",
@@ -10055,7 +9862,7 @@
       "droits-des-femmes",
       "enfance-jeunesse"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce texte retranche les pensions alimentaires reçues pour un enfant mineur du « revenu fiscal de référence », la base de calcul de nombreux avantages fiscaux et aides, sans changer leur imposition à l'impôt sur le revenu.",
     "officialTitle": "l'ensemble de la proposition de loi relative à la charge fiscale de la pension alimentaire (première lecture).",
     "result": "adopte",
@@ -10154,7 +9961,7 @@
       "travail-retraites",
       "culture-medias"
     ],
-    "statut": "relu",
+    "statut": "publiee",
     "summary": "Ce projet de loi de finances rectificative modifie le budget de l'État de 2022 en cours d'année : il ouvre des crédits supplémentaires pour faire face à la hausse des prix, prolonge ou crée des aides au pouvoir d'achat et supprime la contribution à l'audiovisuel public (la « redevance télé »), remplacée par une part du produit de la TVA.",
     "officialTitle": "l'ensemble du projet de loi de finances rectificative pour 2022 (première lecture).",
     "result": "adopte",

@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["education"]
 resultat: "adopte"
 votants: 184
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/840"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/proroger_dispositif_experimentation_favorisant_egalite_chances"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0763_proposition-loi"

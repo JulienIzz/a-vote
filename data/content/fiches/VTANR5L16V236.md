@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["travail-retraites"]
 resultat: "adopte"
 votants: 563
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/16/scrutins/236"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/16/dossiers/mesures_urgence_fonctionnement_marche_travail"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0219_projet-loi"

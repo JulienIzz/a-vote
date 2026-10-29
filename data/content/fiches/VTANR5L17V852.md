@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["ecologie-energie", "sante"]
 resultat: "adopte"
 votants: 289
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/852"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_population_risques_pfas"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b2229_proposition-loi"

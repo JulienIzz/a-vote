@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["europe-international"]
 resultat: "adopte"
 votants: 474
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/988"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcement_soutien_ukraine"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0916_proposition-resolution-europeenne"

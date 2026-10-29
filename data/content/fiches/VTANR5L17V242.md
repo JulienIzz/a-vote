@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["sante", "fiscalite-budget", "travail-retraites"]
 resultat: "adopte"
 votants: 292
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/242"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/plfss_pour_2025"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0325_projet-loi"

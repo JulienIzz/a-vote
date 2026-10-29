@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["agriculture-alimentation", "institutions"]
 resultat: "adopte"
 votants: 247
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/789"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/exercice_democratie_agricole"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0584_proposition-loi"

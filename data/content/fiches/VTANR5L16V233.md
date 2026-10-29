@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["fiscalite-budget", "droits-des-femmes", "enfance-jeunesse"]
 resultat: "adopte"
 votants: 51
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/16/scrutins/233"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/16/dossiers/charge_fiscale_pension_alimentaire"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0209_proposition-loi"

@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["fiscalite-budget"]
 resultat: "rejete"
 votants: 557
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/16/scrutins/361"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/16/dossiers/programmation_finances_publiques_2023_2027"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0272_projet-loi"

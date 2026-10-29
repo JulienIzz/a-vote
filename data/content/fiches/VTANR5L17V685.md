@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["agriculture-alimentation", "ecologie-energie", "europe-international"]
 resultat: "adopte"
 votants: 93
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/685"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/respect_noprmes_prod_eu"
 texte_url: "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0287_proposition-resolution-europeenne"

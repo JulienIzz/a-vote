@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["violences-sexuelles", "securite-justice"]
 resultat: "adopte"
 votants: 82
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/16/scrutins/658"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/16/dossiers/jur_spe_violences_intrafamil"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0346_proposition-loi"

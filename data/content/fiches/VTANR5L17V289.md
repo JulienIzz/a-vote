@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["logement"]
 resultat: "adopte"
 votants: 222
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/17/scrutins/289"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/17/dossiers/locatif_zone_tendue"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b1176_proposition-loi"

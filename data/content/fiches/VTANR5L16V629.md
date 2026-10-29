@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["droits-des-femmes", "institutions"]
 resultat: "adopte"
 votants: 387
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/16/scrutins/629"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/16/dossiers/proteger_ivg_contraception"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0293_proposition-loi"

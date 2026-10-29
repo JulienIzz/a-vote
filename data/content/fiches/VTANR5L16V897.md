@@ -9,7 +9,7 @@ sens: "pour"
 themes: ["ecologie-energie"]
 resultat: "adopte"
 votants: 409
-statut: "relu"
+statut: "publiee"
 scrutin_url: "https://www.assemblee-nationale.fr/dyn/16/scrutins/897"
 dossier_url: "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N46539"
 texte_url: "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0443_projet-loi"
