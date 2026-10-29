@@ -7,6 +7,7 @@ import {
   voteRepository,
 } from '#src/app/container.ts';
 import { MethodologyButton } from '#src/app/MethodologyDialog.tsx';
+import { ShareSite } from '#src/app/ShareSite.tsx';
 import type { AnswerValue } from '#src/modules/answers/domain/answer.ts';
 import { answersInOrder } from '#src/modules/answers/domain/state.ts';
 import { useAnswersState } from '#src/modules/answers/view/useAnswersState.ts';
@@ -148,6 +149,8 @@ export function ResultsPage() {
           Recommencer
         </button>
       </div>
+
+      <ShareSite />
     </section>
   );
 }
