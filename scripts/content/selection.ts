@@ -6,6 +6,11 @@ import { SELECTION_FILE } from '#scripts/paths.ts';
 export interface SelectionEntry {
   uid: string;
   note?: string;
+  /**
+   * Autorise une autre fiche du même dossier (autre lecture du même texte), à poser sur chacune :
+   * seulement quand les deux questions portent sur des mesures différentes. Sinon `check` bloque.
+   */
+  allowSameDossier?: boolean;
 }
 
 /**
@@ -28,13 +33,15 @@ export function isSelection(value: unknown): value is Selection {
   const v = value as Record<string, unknown>;
   return (
     Array.isArray(v.selected) &&
-    v.selected.every(
-      (e) =>
-        typeof e === 'object' &&
-        e !== null &&
-        isString((e as Record<string, unknown>).uid) &&
-        ((e as Record<string, unknown>).note === undefined || isString((e as Record<string, unknown>).note)),
-    ) &&
+    v.selected.every((e) => {
+      if (typeof e !== 'object' || e === null) return false;
+      const entry = e as Record<string, unknown>;
+      return (
+        isString(entry.uid) &&
+        (entry.note === undefined || isString(entry.note)) &&
+        (entry.allowSameDossier === undefined || typeof entry.allowSameDossier === 'boolean')
+      );
+    }) &&
     Array.isArray(v.rejected) &&
     v.rejected.every(isString) &&
     (v.reviewedThrough === undefined || (isString(v.reviewedThrough) && ISO_DATE.test(v.reviewedThrough)))

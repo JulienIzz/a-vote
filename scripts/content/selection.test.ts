@@ -7,6 +7,8 @@ describe('isSelection', () => {
     expect(isSelection({ selected: [{ uid: 'A' }, { uid: 'B', note: 'x' }], rejected: ['C'] })).toBe(true);
     expect(isSelection({ selected: [], rejected: [], reviewedThrough: '2026-10-25' })).toBe(true);
     expect(isSelection({ selected: [], rejected: [], reviewedThrough: '25/10/2026' })).toBe(false);
+    expect(isSelection({ selected: [{ uid: 'A', allowSameDossier: true }], rejected: [] })).toBe(true);
+    expect(isSelection({ selected: [{ uid: 'A', allowSameDossier: 'oui' }], rejected: [] })).toBe(false);
     expect(isSelection({ selected: [{ uid: 1 }], rejected: [] })).toBe(false);
     expect(isSelection({ selected: [], rejected: [2] })).toBe(false);
     expect(isSelection(null)).toBe(false);

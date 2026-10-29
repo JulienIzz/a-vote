@@ -21,8 +21,11 @@ export const ALL_KINDS_MIN_VOTANTS = 250;
  */
 export const EXCLUDED_TITLE_PATTERNS: readonly RegExp[] = [/reglement du budget/, /approbation des comptes/];
 
-/** Mention de lecture en fin de titre : « (première lecture) », « (texte de la commission mixte paritaire) »… */
-const READING_SUFFIX = /\s*\(([^()]*(?:lecture|commission mixte paritaire)[^()]*)\)\s*\.?\s*$/;
+/**
+ * Mention de lecture en fin de titre : « (première lecture) », « (texte de la commission mixte paritaire) »,
+ * ou « (texte de la commission paritaire) », sans « mixte », dans certains titres officiels.
+ */
+const READING_SUFFIX = /\s*\(([^()]*(?:lecture|commission (?:mixte )?paritaire)[^()]*)\)\s*\.?\s*$/;
 
 /** Une autre lecture du même texte, écartée de la shortlist au profit de la mieux classée. */
 export interface Reading {
@@ -59,6 +62,8 @@ export interface Candidate {
   numero: number;
   date: string;
   title: string;
+  /** Dossier législatif dans l'open data, souvent absent : complète le titre pour regrouper les lectures. */
+  dossierRef: string | null;
   dossierTitle: string | null;
   kind: VoteKind;
   textType: TextType;
@@ -199,15 +204,19 @@ export function readingKey(title: string): { key: string; label: string | null }
 /**
  * Ne garde qu'une entrée par texte, toutes législatures confondues (un projet de loi
  * peut survivre à une dissolution) : la mieux classée, c'est-à-dire la plus haute
- * dans `sorted`. Les autres lectures lui sont rattachées.
+ * dans `sorted`. Les autres lectures lui sont rattachées. Deux scrutins portent sur le même
+ * texte s'ils partagent leur titre sans mention de lecture ou leur dossier : le titre officiel
+ * change parfois d'une lecture à l'autre. Les cas restants sont rattrapés par `check`.
  */
 export function dedupeReadings(sorted: readonly Candidate[]): Candidate[] {
   const kept = new Map<string, Candidate>();
   const result: Candidate[] = [];
   for (const candidate of sorted) {
-    const key = readingKey(candidate.title).key;
-    const existing = kept.get(key);
+    const keys = [`titre:${readingKey(candidate.title).key}`];
+    if (candidate.dossierRef) keys.push(`dossier:${candidate.dossierRef}`);
+    const existing = keys.map((k) => kept.get(k)).find((c) => c !== undefined);
     if (existing) {
+      for (const k of keys) if (!kept.has(k)) kept.set(k, existing);
       existing.otherReadings.push({
         uid: candidate.uid,
         legislature: candidate.legislature,
@@ -219,7 +228,7 @@ export function dedupeReadings(sorted: readonly Candidate[]): Candidate[] {
       continue;
     }
     const copy: Candidate = { ...candidate, otherReadings: [] };
-    kept.set(key, copy);
+    for (const k of keys) kept.set(k, copy);
     result.push(copy);
   }
   return result;
@@ -252,6 +261,7 @@ export function buildCandidate(
     numero: scrutin.numero,
     date: scrutin.date,
     title: scrutin.title,
+    dossierRef: scrutin.dossierRef,
     dossierTitle: scrutin.dossierTitle,
     kind: scrutin.kind,
     textType: scrutin.textType,

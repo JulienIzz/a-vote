@@ -1,5 +1,12 @@
 import { describe, expect, it } from 'vitest';
-import { checkFiche, PLACEHOLDER, parseFiche, parseStatut, remainingPlaceholders } from '#scripts/content/fiche.ts';
+import {
+  checkFiche,
+  PLACEHOLDER,
+  parseFiche,
+  parseStatut,
+  remainingPlaceholders,
+  sameDossierGroups,
+} from '#scripts/content/fiche.ts';
 import { filled, skeleton } from '#scripts/content/fixtures.ts';
 
 const options = {
@@ -119,5 +126,24 @@ describe('checkFiche', () => {
         'En-tête : uid VTANR5L17V8431 ne correspond pas au nom du fichier autre.md.',
       ]),
     );
+  });
+});
+
+describe('sameDossierGroups', () => {
+  const fiches = [
+    { uid: 'A1', dossier: 'https://example.test/dossiers/a' },
+    { uid: 'B', dossier: 'https://example.test/dossiers/b' },
+    { uid: 'A2', dossier: 'https://example.test/dossiers/a' },
+    { uid: 'C', dossier: null },
+    { uid: 'D', dossier: null },
+  ];
+  it('repère les fiches qui partagent un dossier, sans regrouper celles qui n’en ont pas', () => {
+    expect(sameDossierGroups(fiches, new Set())).toEqual([
+      { dossier: 'https://example.test/dossiers/a', uids: ['A1', 'A2'] },
+    ]);
+  });
+  it('tolère un groupe seulement si chacune de ses fiches est autorisée', () => {
+    expect(sameDossierGroups(fiches, new Set(['A1', 'A2']))).toEqual([]);
+    expect(sameDossierGroups(fiches, new Set(['A1']))).toHaveLength(1);
   });
 });

@@ -1,6 +1,12 @@
 /** Commande `check` : contrôles de forme de toutes les fiches ; code de sortie 1 s'il reste un problème bloquant. */
 import type { Statut } from '#data/model/types.ts';
-import { checkFiche, parseStatut, remainingPlaceholders } from '#scripts/content/fiche.ts';
+import {
+  checkFiche,
+  frontString,
+  parseStatut,
+  remainingPlaceholders,
+  sameDossierGroups,
+} from '#scripts/content/fiche.ts';
 import { readSelection } from '#scripts/content/selection.ts';
 import type { ThemesFile } from '#scripts/content/themes.ts';
 import { readJson } from '#scripts/fs.ts';
@@ -11,7 +17,9 @@ export async function runCheck(): Promise<void> {
   const fiches = await loadFiches();
   const themesFile = await readJson<ThemesFile>(THEMES_FILE);
   const knownThemes = new Set(themesFile.themes.map((t) => t.id));
-  const selectedUids = new Set((await readSelection()).selected.map((e) => e.uid));
+  const { selected } = await readSelection();
+  const selectedUids = new Set(selected.map((e) => e.uid));
+  const allowSameDossier = new Set(selected.filter((e) => e.allowSameDossier).map((e) => e.uid));
   let problems = 0;
   let complete = 0;
   const byStatut = new Map<Statut, number>();
@@ -29,6 +37,17 @@ export async function runCheck(): Promise<void> {
     for (const p of result.problems) console.log(`  ✗ ${p}`);
     for (const w of result.warnings) console.log(`  · ${w}`);
     problems += result.problems.length;
+  }
+  const dossiers = fiches.map(({ file, parsed }) => ({
+    uid: frontString(parsed, 'uid') ?? file.replace(/\.md$/, ''),
+    dossier: frontString(parsed, 'dossier_url'),
+  }));
+  for (const { dossier, uids } of sameDossierGroups(dossiers, allowSameDossier)) {
+    console.log(`\n✗ même dossier : ${uids.join(', ')}  (${dossier})`);
+    console.log(
+      '  ✗ Deux lectures du même texte : garder la plus récente, ou mettre « allowSameDossier » sur chacune dans la sélection si les questions portent sur des mesures différentes.',
+    );
+    problems += 1;
   }
   const statuts = [...byStatut.entries()].map(([s, n]) => `${n} ${s}`).join(', ');
   console.log(

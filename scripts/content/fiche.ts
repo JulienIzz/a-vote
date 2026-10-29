@@ -235,3 +235,26 @@ export function checkFiche(fiche: ParsedFiche, options: CheckOptions): { problem
   }
   return { problems, warnings };
 }
+
+/** Une fiche réduite à ce qui permet de repérer deux lectures du même texte. */
+export interface FicheDossier {
+  uid: string;
+  /** En-tête `dossier_url` ; null si le scrutin n'a pas de dossier connu. */
+  dossier: string | null;
+}
+
+/**
+ * Fiches qui partagent un dossier législatif : deux lectures du même texte (première lecture et
+ * texte final, par exemple), donc presque toujours la même question posée deux fois à l'utilisateur.
+ * Un groupe est toléré si chacune de ses fiches est dans `allowed` (`allowSameDossier` de la sélection).
+ */
+export function sameDossierGroups(
+  fiches: readonly FicheDossier[],
+  allowed: ReadonlySet<string>,
+): Array<{ dossier: string; uids: string[] }> {
+  const byDossier = new Map<string, string[]>();
+  for (const { uid, dossier } of fiches) if (dossier) byDossier.set(dossier, [...(byDossier.get(dossier) ?? []), uid]);
+  return [...byDossier.entries()]
+    .filter(([, uids]) => uids.length > 1 && !uids.every((uid) => allowed.has(uid)))
+    .map(([dossier, uids]) => ({ dossier, uids }));
+}

@@ -11,6 +11,9 @@ describe('readingKey', () => {
       readingKey("l'ensemble du projet de loi pour le plein emploi (texte de la commission mixte paritaire).").key,
     ).toBe('ensemble projet loi plein emploi');
     expect(readingKey("l'ensemble du projet de loi X (nouvelle lecture)").label).toBe('nouvelle lecture');
+    expect(readingKey("l'ensemble du projet de loi X (texte de la commission paritaire).").key).toBe(
+      'ensemble projet loi x',
+    );
   });
   it('ignore les mots-outils, qui varient entre lectures dans les titres officiels', () => {
     expect(
@@ -37,12 +40,14 @@ const candidate = (
   title: string,
   score: number,
   date = '2024-01-01',
+  dossierRef: string | null = null,
 ): Candidate => ({
   uid,
   legislature,
   numero: 1,
   date,
   title,
+  dossierRef,
   dossierTitle: null,
   kind: 'ensemble',
   textType: 'projet-de-loi',
@@ -91,5 +96,31 @@ describe('dedupeReadings', () => {
     expect(result[1]?.otherReadings).toEqual([]);
     // les entrées d'origine ne sont pas modifiées
     expect(sorted[0]?.otherReadings).toEqual([]);
+  });
+  it('regroupe aussi par dossier, quand le titre officiel change d’une lecture à l’autre', () => {
+    const sorted = [
+      candidate(
+        'A',
+        17,
+        'l’ensemble de la proposition de loi relative au renforcement de la sûreté dans les transports (texte de la commission mixte paritaire).',
+        0.9,
+        '2025-03-18',
+        'DLR1',
+      ),
+      candidate(
+        'B',
+        17,
+        'l’ensemble de la proposition de loi relative à la sûreté dans les transports (première lecture).',
+        0.8,
+        '2025-02-11',
+        'DLR1',
+      ),
+      candidate('C', 17, 'l’ensemble de la proposition de loi Y (première lecture).', 0.7, '2025-01-01', 'DLR2'),
+      candidate('D', 17, 'l’ensemble de la proposition de loi Y (texte de la commission mixte paritaire).', 0.6),
+    ];
+    const result = dedupeReadings(sorted);
+    expect(result.map((c) => c.uid)).toEqual(['A', 'C']);
+    expect(result[0]?.otherReadings.map((r) => r.uid)).toEqual(['B']);
+    expect(result[1]?.otherReadings.map((r) => r.uid)).toEqual(['D']);
   });
 });

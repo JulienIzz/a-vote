@@ -78,7 +78,10 @@ Les étapes :
    `content/selection.json`, retenue (`selected`) ou écartée (`rejected`), et votés après
    `reviewedThrough`. En fin de `cache/shortlist/candidates.md`, une section signale les nouvelles
    lectures de textes déjà tranchés (vote définitif d'un texte retenu en première lecture, par
-   exemple) : remplacer le scrutin retenu, ajouter cette lecture ou l'écarter.
+   exemple) : remplacer le scrutin retenu, ajouter cette lecture ou l'écarter. `pnpm data check`
+   bloque deux fiches du même dossier (même `dossier_url`), qui poseraient deux fois la même
+   question ; on ne les garde ensemble que si elles portent sur des mesures différentes, en mettant
+   `"allowSameDossier": true` sur chacune dans `selected`.
 3. Trancher chaque candidat : les textes retenus vont dans `selected`, les autres dans `rejected`,
    pour qu'ils ne reviennent pas. Puis mettre `reviewedThrough` à la date de l'import.
 4. `pnpm data collect`, `brief` et `scaffold` avec `--only` sur les nouveaux identifiants.
